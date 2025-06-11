@@ -1,0 +1,911 @@
+,athlete_link,athlete_name,meet_date,rank,team_link,team_name,time,year
+0,https://tf.tfrrs.org/athletes/8587828/West_Texas_AM/William__Amponsah,"Amponsah, William","Apr 21, 2024",1,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,13:47.86 @,JR-3
+1,https://tf.tfrrs.org/athletes/7703415/West_Texas_AM/Harry_Louradour,"Louradour, Harry","Mar 27, 2024",2,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,13:57.70,JR-3
+2,https://tf.tfrrs.org/athletes/8587830/West_Texas_AM/Enrico_Oddone,"Oddone, Enrico","Apr 11, 2024",3,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:01.00,JR-3
+3,https://tf.tfrrs.org/athletes/7888919/West_Texas_AM/Adrian_Legarreta,"Legarreta, Adrian","Mar 27, 2024",4,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:20.12,JR-3
+4,https://tf.tfrrs.org/athletes/8582036/Texas_Tyler/David_Soto,"Soto, David","Apr 11, 2024",5,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,14:23.35,FR-1
+5,https://tf.tfrrs.org/athletes/7367127/Oklahoma_Christian/Colten_Brown,"Brown, Colten","Apr 12, 2024",6,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,14:38.65,SR-4
+6,https://tf.tfrrs.org/athletes/7703414/West_Texas_AM/Jay_Hall,"Hall, Jay","Apr 11, 2024",7,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:41.93,SR-4
+7,https://tf.tfrrs.org/athletes/8601897/Western_New_Mexico/Jarred_Baca,"Baca, Jarred","Apr 5, 2024",8,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,14:45.05,JR-3
+8,https://tf.tfrrs.org/athletes/7897937/Western_New_Mexico/Aaron_Perez,"Perez, Aaron","Apr 5, 2024",9,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,14:45.35,JR-3
+9,https://tf.tfrrs.org/athletes/7689617/Dallas_Baptist/Adam_Whitehead,"Whitehead, Adam","Mar 21, 2024",10,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,14:51.33,SR-4
+10,https://tf.tfrrs.org/athletes/8233539/West_Texas_AM/Matthys_Bourse,"Bourse, Matthys","May 9, 2024",11,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:54.38,SO-2
+11,https://tf.tfrrs.org/athletes/7689092/Western_New_Mexico/Joshua__Lara,"Lara, Joshua","Apr 5, 2024",12,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,14:59.12,SR-4
+12,https://tf.tfrrs.org/athletes/7689618/Dallas_Baptist/Jeb_Williamson,"Williamson, Jeb","Mar 21, 2024",13,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:00.52,SR-4
+13,https://tf.tfrrs.org/athletes/7895107/St_Edwards/Ivan_Guzman,"Guzman, Ivan","Apr 20, 2024",14,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:02.42,JR-3
+14,https://tf.tfrrs.org/athletes/8244537/Western_New_Mexico/Elias_Perez,"Perez, Elias","Apr 5, 2024",15,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:10.39,JR-3
+15,https://tf.tfrrs.org/athletes/7895109/St_Edwards/Omar_Guzman,"Guzman, Omar","Mar 28, 2024",16,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:11.98,JR-3
+16,https://tf.tfrrs.org/athletes/8235219/Dallas_Baptist/Drew_McLaughlin,"McLaughlin, Drew","Apr 20, 2024",17,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:15.43,SO-2
+17,https://tf.tfrrs.org/athletes/8601891/Western_New_Mexico/Michael__Castorena,"Castorena, Michael","Apr 5, 2024",18,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:17.02,FR-1
+18,https://tf.tfrrs.org/athletes/8235226/Dallas_Baptist/Luke_Ronsman,"Ronsman, Luke","Apr 20, 2024",19,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:18.59,SO-2
+19,https://tf.tfrrs.org/athletes/8582039/Texas_Tyler/Jacob_Berryhill,"Berryhill, Jacob","May 9, 2024",20,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:19.11,FR-1
+20,https://tf.tfrrs.org/athletes/8586700/Cameron/Victor_Ramos-Sambade,"Ramos-Sambade, Victor","Mar 15, 2024",21,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,15:19.67,FR-1
+21,https://tf.tfrrs.org/athletes/7897938/Western_New_Mexico/Ahren_Thorson,"Thorson, Ahren","Apr 5, 2024",22,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:19.76,JR-3
+22,https://tf.tfrrs.org/athletes/7712669/St_Edwards/Nicholas_Gonzalez,"Gonzalez, Nicholas","Mar 1, 2024",23,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:21.44,SR-4
+23,https://tf.tfrrs.org/athletes/8582040/Texas_Tyler/Dylan_Navarette,"Navarette, Dylan","Apr 20, 2024",24,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:24.84,FR-1
+24,https://tf.tfrrs.org/athletes/8244531/Western_New_Mexico/Rowan_Flores,"Flores, Rowan","Apr 5, 2024",25,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:25.75,SO-2
+25,https://tf.tfrrs.org/athletes/8585880/St_Edwards/Hogan_Heikkinen,"Heikkinen, Hogan","Mar 28, 2024",26,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:27.64,FR-1
+26,https://tf.tfrrs.org/athletes/7895108/St_Edwards/Dylan_Sequeira,"Sequeira, Dylan","Mar 28, 2024",27,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:27.76,JR-3
+27,https://tf.tfrrs.org/athletes/8601892/Western_New_Mexico/Samuel_Ketcham,"Ketcham, Samuel","Apr 5, 2024",28,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:29.11,FR-1
+28,https://tf.tfrrs.org/athletes/8589937/Dallas_Baptist/CJ_Hobbs,"Hobbs, CJ","Mar 15, 2024",29,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:31.38,FR-1
+29,https://tf.tfrrs.org/athletes/8582038/Texas_Tyler/Austin_Ponder,"Ponder, Austin","Mar 28, 2024",30,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:34.94,FR-1
+30,https://tf.tfrrs.org/athletes/7363616/Cameron/AJ_Espino,"Espino, AJ","Apr 12, 2024",31,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,15:47.04,SR-4
+31,https://tf.tfrrs.org/athletes/8582041/Texas_Tyler/Aaron__Smith,"Smith, Aaron","Mar 15, 2024",32,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:48.71,FR-1
+32,https://tf.tfrrs.org/athletes/8601894/Western_New_Mexico/Cameron_Shorty,"Shorty, Cameron","Apr 26, 2024",33,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:51.69,FR-1
+33,https://tf.tfrrs.org/athletes/8235224/Dallas_Baptist/Colton_Howard,"Howard, Colton","Apr 6, 2024",34,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:51.75,SO-2
+34,https://tf.tfrrs.org/athletes/7712670/St_Edwards/Samuel_Flusche,"Flusche, Samuel","Mar 1, 2024",35,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:54.58,SR-4
+35,https://tf.tfrrs.org/athletes/7887640/Cameron/Allen_Vasquez,"Vasquez, Allen","Apr 12, 2024",36,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,15:55.54,JR-3
+36,https://tf.tfrrs.org/athletes/8585877/St_Edwards/William_Sulentich,"Sulentich, William","Mar 28, 2024",37,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,16:04.56,FR-1
+37,https://tf.tfrrs.org/athletes/7917953/Angelo_State/Emmanuel_Serna,"Serna, Emmanuel","Mar 1, 2024",38,https://tf.tfrrs.org/teams/tf/TX_college_m_Angelo_State.html,Angelo State,16:12.35,JR-3
+38,https://tf.tfrrs.org/athletes/8586302/TAMU_Kingsville/Angel_Campos,"Campos, Angel","Apr 20, 2024",39,https://tf.tfrrs.org/teams/tf/TX_college_m_TAMU_Kingsville.html,TAMU-Kingsville,16:13.66,FR-1
+39,https://tf.tfrrs.org/athletes/7887644/Cameron/Edward_Kipruto,"Kipruto, Edward","Mar 29, 2024",40,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,16:20.98,SR-4
+40,https://tf.tfrrs.org/athletes/8586701/Cameron/Hugo_Kluczkowski,"Kluczkowski, Hugo","Mar 15, 2024",41,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,16:22.43,FR-1
+41,https://tf.tfrrs.org/athletes/7917951/Angelo_State/Wes_Rogers,"Rogers, Wes","Mar 1, 2024",42,https://tf.tfrrs.org/teams/tf/TX_college_m_Angelo_State.html,Angelo State,16:49.22,SR-4
+42,https://tf.tfrrs.org/athletes/8585878/St_Edwards/Melecio_Ortiz,"Ortiz, Melecio","Mar 1, 2024",43,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,17:07.44,FR-1
+43,https://tf.tfrrs.org/athletes/8235227/Dallas_Baptist/Gabriel_Zumar,"Zumar, Gabriel","Mar 15, 2024",44,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,17:29.04,SO-2
+44,https://tf.tfrrs.org/athletes/8257452/Dallas_Baptist/Michael_Serna,"Serna, Michael","Apr 6, 2024",45,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,17:32.71,SO-2
+45,https://tf.tfrrs.org/athletes/8613617/Oklahoma_Christian/Brady_Marlar,"Marlar, Brady","Apr 18, 2024",46,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,18:18.85,FR-1
+46,https://tf.tfrrs.org/athletes/8587828/West_Texas_AM/William__Amponsah,"Amponsah, William","Apr 21, 2024",1,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,13:47.86 @,JR-3
+47,https://tf.tfrrs.org/athletes/7703415/West_Texas_AM/Harry_Louradour,"Louradour, Harry","Mar 27, 2024",2,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,13:57.70,JR-3
+48,https://tf.tfrrs.org/athletes/8587830/West_Texas_AM/Enrico_Oddone,"Oddone, Enrico","Apr 11, 2024",3,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:01.00,JR-3
+49,https://tf.tfrrs.org/athletes/7888919/West_Texas_AM/Adrian_Legarreta,"Legarreta, Adrian","Mar 27, 2024",4,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:20.12,JR-3
+50,https://tf.tfrrs.org/athletes/8582036/Texas_Tyler/David_Soto,"Soto, David","Apr 11, 2024",5,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,14:23.35,FR-1
+51,https://tf.tfrrs.org/athletes/7367127/Oklahoma_Christian/Colten_Brown,"Brown, Colten","Apr 12, 2024",6,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,14:38.65,SR-4
+52,https://tf.tfrrs.org/athletes/7703414/West_Texas_AM/Jay_Hall,"Hall, Jay","Apr 11, 2024",7,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:41.93,SR-4
+53,https://tf.tfrrs.org/athletes/8601897/Western_New_Mexico/Jarred_Baca,"Baca, Jarred","Apr 5, 2024",8,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,14:45.05,JR-3
+54,https://tf.tfrrs.org/athletes/7897937/Western_New_Mexico/Aaron_Perez,"Perez, Aaron","Apr 5, 2024",9,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,14:45.35,JR-3
+55,https://tf.tfrrs.org/athletes/7689617/Dallas_Baptist/Adam_Whitehead,"Whitehead, Adam","Mar 21, 2024",10,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,14:51.33,SR-4
+56,https://tf.tfrrs.org/athletes/8233539/West_Texas_AM/Matthys_Bourse,"Bourse, Matthys","May 9, 2024",11,https://tf.tfrrs.org/teams/tf/TX_college_m_West_Texas_AM.html,West Texas A&M,14:54.38,SO-2
+57,https://tf.tfrrs.org/athletes/7689092/Western_New_Mexico/Joshua__Lara,"Lara, Joshua","Apr 5, 2024",12,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,14:59.12,SR-4
+58,https://tf.tfrrs.org/athletes/7689618/Dallas_Baptist/Jeb_Williamson,"Williamson, Jeb","Mar 21, 2024",13,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:00.52,SR-4
+59,https://tf.tfrrs.org/athletes/7895107/St_Edwards/Ivan_Guzman,"Guzman, Ivan","Apr 20, 2024",14,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:02.42,JR-3
+60,https://tf.tfrrs.org/athletes/8244537/Western_New_Mexico/Elias_Perez,"Perez, Elias","Apr 5, 2024",15,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:10.39,JR-3
+61,https://tf.tfrrs.org/athletes/7895109/St_Edwards/Omar_Guzman,"Guzman, Omar","Mar 28, 2024",16,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:11.98,JR-3
+62,https://tf.tfrrs.org/athletes/8235219/Dallas_Baptist/Drew_McLaughlin,"McLaughlin, Drew","Apr 20, 2024",17,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:15.43,SO-2
+63,https://tf.tfrrs.org/athletes/8601891/Western_New_Mexico/Michael__Castorena,"Castorena, Michael","Apr 5, 2024",18,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:17.02,FR-1
+64,https://tf.tfrrs.org/athletes/8235226/Dallas_Baptist/Luke_Ronsman,"Ronsman, Luke","Apr 20, 2024",19,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:18.59,SO-2
+65,https://tf.tfrrs.org/athletes/8582039/Texas_Tyler/Jacob_Berryhill,"Berryhill, Jacob","May 9, 2024",20,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:19.11,FR-1
+66,https://tf.tfrrs.org/athletes/8586700/Cameron/Victor_Ramos-Sambade,"Ramos-Sambade, Victor","Mar 15, 2024",21,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,15:19.67,FR-1
+67,https://tf.tfrrs.org/athletes/7897938/Western_New_Mexico/Ahren_Thorson,"Thorson, Ahren","Apr 5, 2024",22,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:19.76,JR-3
+68,https://tf.tfrrs.org/athletes/7712669/St_Edwards/Nicholas_Gonzalez,"Gonzalez, Nicholas","Mar 1, 2024",23,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:21.44,SR-4
+69,https://tf.tfrrs.org/athletes/8582040/Texas_Tyler/Dylan_Navarette,"Navarette, Dylan","Apr 20, 2024",24,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:24.84,FR-1
+70,https://tf.tfrrs.org/athletes/8244531/Western_New_Mexico/Rowan_Flores,"Flores, Rowan","Apr 5, 2024",25,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:25.75,SO-2
+71,https://tf.tfrrs.org/athletes/8585880/St_Edwards/Hogan_Heikkinen,"Heikkinen, Hogan","Mar 28, 2024",26,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:27.64,FR-1
+72,https://tf.tfrrs.org/athletes/7895108/St_Edwards/Dylan_Sequeira,"Sequeira, Dylan","Mar 28, 2024",27,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:27.76,JR-3
+73,https://tf.tfrrs.org/athletes/8601892/Western_New_Mexico/Samuel_Ketcham,"Ketcham, Samuel","Apr 5, 2024",28,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:29.11,FR-1
+74,https://tf.tfrrs.org/athletes/8589937/Dallas_Baptist/CJ_Hobbs,"Hobbs, CJ","Mar 15, 2024",29,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:31.38,FR-1
+75,https://tf.tfrrs.org/athletes/8582038/Texas_Tyler/Austin_Ponder,"Ponder, Austin","Mar 28, 2024",30,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:34.94,FR-1
+76,https://tf.tfrrs.org/athletes/7363616/Cameron/AJ_Espino,"Espino, AJ","Apr 12, 2024",31,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,15:47.04,SR-4
+77,https://tf.tfrrs.org/athletes/8582041/Texas_Tyler/Aaron__Smith,"Smith, Aaron","Mar 15, 2024",32,https://tf.tfrrs.org/teams/tf/TX_college_m_Texas_Tyler.html,UT-Tyler,15:48.71,FR-1
+78,https://tf.tfrrs.org/athletes/8601894/Western_New_Mexico/Cameron_Shorty,"Shorty, Cameron","Apr 26, 2024",33,https://tf.tfrrs.org/teams/tf/NM_college_m_Western_New_Mexico.html,Western New Mexico,15:51.69,FR-1
+79,https://tf.tfrrs.org/athletes/8235224/Dallas_Baptist/Colton_Howard,"Howard, Colton","Apr 6, 2024",34,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,15:51.75,SO-2
+80,https://tf.tfrrs.org/athletes/7712670/St_Edwards/Samuel_Flusche,"Flusche, Samuel","Mar 1, 2024",35,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,15:54.58,SR-4
+81,https://tf.tfrrs.org/athletes/7887640/Cameron/Allen_Vasquez,"Vasquez, Allen","Apr 12, 2024",36,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,15:55.54,JR-3
+82,https://tf.tfrrs.org/athletes/8585877/St_Edwards/William_Sulentich,"Sulentich, William","Mar 28, 2024",37,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,16:04.56,FR-1
+83,https://tf.tfrrs.org/athletes/7917953/Angelo_State/Emmanuel_Serna,"Serna, Emmanuel","Mar 1, 2024",38,https://tf.tfrrs.org/teams/tf/TX_college_m_Angelo_State.html,Angelo State,16:12.35,JR-3
+84,https://tf.tfrrs.org/athletes/8586302/TAMU_Kingsville/Angel_Campos,"Campos, Angel","Apr 20, 2024",39,https://tf.tfrrs.org/teams/tf/TX_college_m_TAMU_Kingsville.html,TAMU-Kingsville,16:13.66,FR-1
+85,https://tf.tfrrs.org/athletes/7887644/Cameron/Edward_Kipruto,"Kipruto, Edward","Mar 29, 2024",40,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,16:20.98,SR-4
+86,https://tf.tfrrs.org/athletes/8586701/Cameron/Hugo_Kluczkowski,"Kluczkowski, Hugo","Mar 15, 2024",41,https://tf.tfrrs.org/teams/tf/OK_college_m_Cameron.html,Cameron,16:22.43,FR-1
+87,https://tf.tfrrs.org/athletes/7917951/Angelo_State/Wes_Rogers,"Rogers, Wes","Mar 1, 2024",42,https://tf.tfrrs.org/teams/tf/TX_college_m_Angelo_State.html,Angelo State,16:49.22,SR-4
+88,https://tf.tfrrs.org/athletes/8585878/St_Edwards/Melecio_Ortiz,"Ortiz, Melecio","Mar 1, 2024",43,https://tf.tfrrs.org/teams/tf/TX_college_m_St_Edwards.html,St. Edward's,17:07.44,FR-1
+89,https://tf.tfrrs.org/athletes/8235227/Dallas_Baptist/Gabriel_Zumar,"Zumar, Gabriel","Mar 15, 2024",44,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,17:29.04,SO-2
+90,https://tf.tfrrs.org/athletes/8257452/Dallas_Baptist/Michael_Serna,"Serna, Michael","Apr 6, 2024",45,https://tf.tfrrs.org/teams/tf/TX_college_m_Dallas_Baptist.html,Dallas Baptist,17:32.71,SO-2
+91,https://tf.tfrrs.org/athletes/8613617/Oklahoma_Christian/Brady_Marlar,"Marlar, Brady","Apr 18, 2024",46,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,18:18.85,FR-1
+92,https://tf.tfrrs.org/athletes/7786602/St_Olaf/Will_Kelly,"Kelly, Will","May 1, 2024",1,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,14:20.34,JR-3
+93,https://tf.tfrrs.org/athletes/8254424/St_Olaf/Kevin_Turlington,"Turlington, Kevin","May 1, 2024",2,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,14:28.03,SO-2
+94,https://tf.tfrrs.org/athletes/8238957/Augsburg/Mohammed_Bati,"Bati, Mohammed","May 1, 2024",3,https://tf.tfrrs.org/teams/tf/MN_college_m_Augsburg.html,Augsburg,14:28.17,SO-2
+95,https://tf.tfrrs.org/athletes/8365829/Carleton/Gabe_Nichols,"Nichols, Gabe","May 10, 2024",4,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,14:34.88,SO-2
+96,https://tf.tfrrs.org/athletes/8239291/Carleton/Roy_Llewellyn,"Llewellyn, Roy","Apr 24, 2024",5,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,14:35.81,SO-2
+97,https://tf.tfrrs.org/athletes/7915151/St_Olaf/Andrew_Skemp,"Skemp, Andrew","May 1, 2024",6,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,14:36.14,JR-3
+98,https://tf.tfrrs.org/athletes/7496266/St_Scholastica/Lars_DeWall,"DeWall, Lars","May 1, 2024",7,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Scholastica.html,St. Scholastica,14:37.39,SR-4
+99,https://tf.tfrrs.org/athletes/7786611/St_Olaf/David_Lynn,"Lynn, David","Apr 12, 2024",8,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,14:38.18,JR-3
+100,https://tf.tfrrs.org/athletes/7909198/Macalester/Reece_McKee,"McKee, Reece","Apr 12, 2024",9,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,14:42.50,JR-3
+101,https://tf.tfrrs.org/athletes/7888676/Bethel_MN/Grant_Graber,"Graber, Grant","May 1, 2024",10,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),14:46.98,JR-3
+102,https://tf.tfrrs.org/athletes/8254417/St_Olaf/Gael_Manzur_Strandlund,"Manzur Strandlund, Gael","May 1, 2024",11,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,14:49.28,SO-2
+103,https://tf.tfrrs.org/athletes/7915144/St_Olaf/Sean_Hartney,"Hartney, Sean","May 1, 2024",12,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,14:51.80,JR-3
+104,https://tf.tfrrs.org/athletes/8239262/Macalester/Tyler_Edwards,"Edwards, Tyler","Apr 12, 2024",13,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,14:53.22,SO-2
+105,https://tf.tfrrs.org/athletes/8254418/St_Olaf/Parker_Max,"Max, Parker","May 1, 2024",14,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,14:56.85,SO-2
+106,https://tf.tfrrs.org/athletes/8631210/St_Johns_MN/Vincent_Kaluza,"Kaluza, Vincent","May 1, 2024",15,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),15:03.83,FR-1
+107,https://tf.tfrrs.org/athletes/7786596/St_Olaf/Anders_Cote,"Cote, Anders","May 1, 2024",16,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,15:05.86,JR-3
+108,https://tf.tfrrs.org/athletes/7910482/St_Johns_MN/Eamon_Cavanaugh,"Cavanaugh, Eamon","May 1, 2024",17,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),15:10.03,JR-3
+109,https://tf.tfrrs.org/athletes/7720877/Gustavus_Adolphus/Logan_McCullough,"McCullough, Logan","May 10, 2024",18,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,15:10.43,SR-4
+110,https://tf.tfrrs.org/athletes/7909197/Macalester/Nick_Ihrke,"Ihrke, Nick","Apr 12, 2024",19,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,15:15.76,JR-3
+111,https://tf.tfrrs.org/athletes/8254411/St_Olaf/Jack_Deaver,"Deaver, Jack","May 1, 2024",20,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,15:17.24,SO-2
+112,https://tf.tfrrs.org/athletes/7909199/Macalester/Ben_Crotteau,"Crotteau, Ben","Apr 12, 2024",21,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,15:24.75,JR-3
+113,https://tf.tfrrs.org/athletes/8256484/Carleton/Indy_Lyness,"Lyness, Indy","Apr 13, 2024",22,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,15:27.09,SO-2
+114,https://tf.tfrrs.org/athletes/8246937/St_Johns_MN/Nick_St._Peter,"St. Peter, Nick","Apr 6, 2024",23,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),15:30.08,SO-2
+115,https://tf.tfrrs.org/athletes/7819680/Macalester/Alex_Fendig,"Fendig, Alex","Apr 25, 2024",24,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,15:33.23,SR-4
+116,https://tf.tfrrs.org/athletes/8239263/Macalester/Jordan_Galloway,"Galloway, Jordan","Apr 25, 2024",25,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,15:35.35,SO-2
+117,https://tf.tfrrs.org/athletes/8613884/St_Olaf/Wes_Sumner,"Sumner, Wes","Apr 12, 2024",26,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,15:37.74,FR-1
+118,https://tf.tfrrs.org/athletes/8631217/St_Johns_MN/Cole_Stencel,"Stencel, Cole","May 10, 2024",27,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),15:41.17,FR-1
+119,https://tf.tfrrs.org/athletes/8607186/Concordia_Moorhead/Tyler__Goss,"Goss, Tyler","May 10, 2024",28,https://tf.tfrrs.org/teams/tf/MN_college_m_Concordia_Moorhead.html,Concordia-Moorhead,15:41.47,FR-1
+120,https://tf.tfrrs.org/athletes/8246933/St_Johns_MN/Jacob_Malecha,"Malecha, Jacob","May 10, 2024",29,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),15:43.75,FR-1
+121,https://tf.tfrrs.org/athletes/7797934/Carleton/Chris_Melville,"Melville, Chris","Apr 25, 2024",30,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,15:45.46,SR-4
+122,https://tf.tfrrs.org/athletes/8670017/Gustavus_Adolphus/Evan_Pouliot,"Pouliot, Evan","Apr 25, 2024",31,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,15:48.32,FR-1
+123,https://tf.tfrrs.org/athletes/8246926/St_Johns_MN/Aiden_Chalmers,"Chalmers, Aiden","Apr 6, 2024",32,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),15:49.58,SO-2
+124,https://tf.tfrrs.org/athletes/8254415/St_Olaf/Angelo_Fiataruolo,"Fiataruolo, Angelo","Apr 20, 2024",33,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,15:50.81,SO-2
+125,https://tf.tfrrs.org/athletes/8591494/Carleton/Simon_Chambers-Trubatch,"Chambers-Trubatch, Simon","Apr 25, 2024",34,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,15:51.95,FR-1
+126,https://tf.tfrrs.org/athletes/8294528/Gustavus_Adolphus/Will_Janzen,"Janzen, Will","May 1, 2024",35,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,15:52.31,SO-2
+127,https://tf.tfrrs.org/athletes/8622237/Bethel_MN/Jonah_Kalsnes,"Kalsnes, Jonah","Mar 15, 2024",36,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),15:53.62,FR-1
+128,https://tf.tfrrs.org/athletes/8595451/Macalester/Daniel_Wiltse,"Wiltse, Daniel","Apr 25, 2024",37,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,15:57.17,FR-1
+129,https://tf.tfrrs.org/athletes/8254420/St_Olaf/Jack_McFetridge,"McFetridge, Jack","May 1, 2024",38,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,15:57.40,JR-3
+130,https://tf.tfrrs.org/athletes/7910479/St_Johns_MN/Ethan_Leonard,"Leonard, Ethan","Apr 6, 2024",39,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),16:00.88,JR-3
+131,https://tf.tfrrs.org/athletes/8597166/St_Marys_MN/Sean_Smyth,"Smyth, Sean","Mar 29, 2024",40,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Marys_MN.html,Saint Mary's (Minn.),16:02.37,FR-1
+132,https://tf.tfrrs.org/athletes/7888673/Bethel_MN/David_Price,"Price, David","May 1, 2024",41,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),16:04.04,JR-3
+133,https://tf.tfrrs.org/athletes/8631213/St_Johns_MN/Max_McCoy,"McCoy, Max","Apr 6, 2024",42,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),16:08.46,FR-1
+134,https://tf.tfrrs.org/athletes/7786606/St_Olaf/Mauricio_Vite,"Vite, Mauricio","Apr 6, 2024",43,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,16:08.55,JR-3
+135,https://tf.tfrrs.org/athletes/8613882/St_Olaf/Quinn_McCabe,"McCabe, Quinn","Apr 12, 2024",44,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,16:12.39,FR-1
+136,https://tf.tfrrs.org/athletes/8261695/Hamline/Lucas__LiaBraaten,"LiaBraaten, Lucas","Apr 25, 2024",45,https://tf.tfrrs.org/teams/tf/MN_college_m_Hamline.html,Hamline,16:12.60,SO-2
+137,https://tf.tfrrs.org/athletes/7910480/St_Johns_MN/Joseph_Gathje,"Gathje, Joseph","Apr 6, 2024",46,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),16:13.83,JR-3
+138,https://tf.tfrrs.org/athletes/8597167/St_Marys_MN/Isaiah_Fitzgerald,"Fitzgerald, Isaiah","May 10, 2024",47,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Marys_MN.html,Saint Mary's (Minn.),16:13.98,FR-1
+139,https://tf.tfrrs.org/athletes/7819679/Macalester/Sam_Vanspriell,"Vanspriell, Sam","May 1, 2024",48,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,16:15.71,SR-4
+140,https://tf.tfrrs.org/athletes/8239292/Carleton/Ryan_Bernstein,"Bernstein, Ryan","Apr 25, 2024",49,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,16:17.19,SO-2
+141,https://tf.tfrrs.org/athletes/8595456/Macalester/Gabe_Thompson,"Thompson, Gabe","Apr 25, 2024",50,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,16:17.96,FR-1
+142,https://tf.tfrrs.org/athletes/7745464/St_Johns_MN/Jacob_Gathje,"Gathje, Jacob","Apr 6, 2024",51,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),16:18.05,JR-3
+143,https://tf.tfrrs.org/athletes/8622236/Bethel_MN/Weston_Catton,"Catton, Weston","Apr 25, 2024",52,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),16:19.32,FR-1
+144,https://tf.tfrrs.org/athletes/8613876/St_Olaf/Grant_Crespi,"Crespi, Grant","May 1, 2024",53,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,16:22.36,FR-1
+145,https://tf.tfrrs.org/athletes/8595455/Macalester/Quinn_Hoisington,"Hoisington, Quinn","Apr 25, 2024",54,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,16:23.29,FR-1
+146,https://tf.tfrrs.org/athletes/8233213/Carleton/Andrew_Jamison,"Jamison, Andrew","May 1, 2024",55,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,16:24.83,SO-2
+147,https://tf.tfrrs.org/athletes/7888768/Gustavus_Adolphus/Carson_Roehl,"Roehl, Carson","Apr 6, 2024",56,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,16:31.44,JR-3
+148,https://tf.tfrrs.org/athletes/8591478/Carleton/Nathaniel_Malchow,"Malchow, Nathaniel","Apr 25, 2024",57,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,16:33.45,FR-1
+149,https://tf.tfrrs.org/athletes/7910476/St_Johns_MN/AJ_Skinner,"Skinner, AJ","Apr 24, 2024",58,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),16:33.61,JR-3
+150,https://tf.tfrrs.org/athletes/8631212/St_Johns_MN/Peyton_Martinek,"Martinek, Peyton","May 1, 2024",59,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),16:35.64,FR-1
+151,https://tf.tfrrs.org/athletes/7786607/St_Olaf/Luke_Simcox,"Simcox, Luke","May 1, 2024",60,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,16:37.17,JR-3
+152,https://tf.tfrrs.org/athletes/8333434/Concordia_Moorhead/Carter_Ferber,"Ferber, Carter","Mar 30, 2024",61,https://tf.tfrrs.org/teams/tf/MN_college_m_Concordia_Moorhead.html,Concordia-Moorhead,16:37.65,SO-2
+153,https://tf.tfrrs.org/athletes/8294536/Gustavus_Adolphus/Soren_Sackreiter,"Sackreiter, Soren","May 1, 2024",62,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,16:41.34,SO-2
+154,https://tf.tfrrs.org/athletes/7911884/Augsburg/Grayson_Harris,"Harris, Grayson","Mar 16, 2024",63,https://tf.tfrrs.org/teams/tf/MN_college_m_Augsburg.html,Augsburg,16:46.19,JR-3
+155,https://tf.tfrrs.org/athletes/8613879/St_Olaf/Sam_Lindner,"Lindner, Sam","Apr 6, 2024",64,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,16:50.02,FR-1
+156,https://tf.tfrrs.org/athletes/8718926/Carleton/Phoebe_Lemann,"Lemann, Phoebe","May 1, 2024",65,https://tf.tfrrs.org/teams/tf/MN_college_m_Carleton.html,Carleton,16:50.41,FR-1
+157,https://tf.tfrrs.org/athletes/8613880/St_Olaf/Braeden_Marker,"Marker, Braeden","Apr 6, 2024",66,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,16:51.60,FR-1
+158,https://tf.tfrrs.org/athletes/8258686/Bethel_MN/Evan_Dallas,"Dallas, Evan","Apr 6, 2024",67,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),17:01.21,SO-2
+159,https://tf.tfrrs.org/athletes/8597171/St_Marys_MN/Evan_Finney,"Finney, Evan","Apr 19, 2024",68,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Marys_MN.html,Saint Mary's (Minn.),17:04.03,FR-1
+160,https://tf.tfrrs.org/athletes/8595452/Macalester/Kelvin_Moresi,"Moresi, Kelvin","Apr 25, 2024",69,https://tf.tfrrs.org/teams/tf/MN_college_m_Macalester.html,Macalester,17:04.96,FR-1
+161,https://tf.tfrrs.org/athletes/8613878/St_Olaf/Lex_Kaye,"Kaye, Lex","Apr 6, 2024",70,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Olaf.html,St. Olaf,17:05.25,FR-1
+162,https://tf.tfrrs.org/athletes/7910475/St_Johns_MN/Aidan_Thomas,"Thomas, Aidan","Apr 6, 2024",71,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),17:07.15,JR-3
+163,https://tf.tfrrs.org/athletes/7910483/St_Johns_MN/Dylan_Bartness,"Bartness, Dylan","May 1, 2024",72,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),17:14.51,JR-3
+164,https://tf.tfrrs.org/athletes/7720871/Gustavus_Adolphus/Marcus_Hansen,"Hansen, Marcus","Apr 6, 2024",73,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,17:16.49,SR-4
+165,https://tf.tfrrs.org/athletes/8370283/Gustavus_Adolphus/Sam_Brenner,"Brenner, Sam","Apr 27, 2024",74,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,17:27.12,JR-3
+166,https://tf.tfrrs.org/athletes/8670008/Gustavus_Adolphus/Camden_Cilek,"Cilek, Camden","Apr 6, 2024",75,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,17:30.75,FR-1
+167,https://tf.tfrrs.org/athletes/8246923/St_Johns_MN/Joseph_Coffey,"Coffey, Joseph","Apr 27, 2024",76,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),17:33.84,SO-2
+168,https://tf.tfrrs.org/athletes/7888766/Gustavus_Adolphus/Jonah_Johnson,"Johnson, Jonah","Apr 25, 2024",77,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,17:37.40,JR-3
+169,https://tf.tfrrs.org/athletes/8277025/St_Marys_MN/Sam_Morris,"Morris, Sam","Apr 19, 2024",78,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Marys_MN.html,Saint Mary's (Minn.),17:41.87,JR-3
+170,https://tf.tfrrs.org/athletes/7888683/Bethel_MN/Gabe_Kuecker,"Kuecker, Gabe","May 3, 2024",79,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),17:45.98,JR-3
+171,https://tf.tfrrs.org/athletes/7910481/St_Johns_MN/Andrew_Karn,"Karn, Andrew","Apr 27, 2024",80,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),17:48.74,JR-3
+172,https://tf.tfrrs.org/athletes/8698740/Hamline/Jasper_Roetter_Gresback,"Roetter Gresback, Jasper","Apr 25, 2024",81,https://tf.tfrrs.org/teams/tf/MN_college_m_Hamline.html,Hamline,17:53.20,FR-1
+173,https://tf.tfrrs.org/athletes/8631218/St_Johns_MN/Gavin_Swift,"Swift, Gavin","Apr 27, 2024",82,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Johns_MN.html,St. John's (Minn.),17:55.80,FR-1
+174,https://tf.tfrrs.org/athletes/7720869/Gustavus_Adolphus/Charles_Franke,"Franke, Charles","Apr 27, 2024",83,https://tf.tfrrs.org/teams/tf/MN_college_m_Gustavus_Adolphus.html,Gustavus Adolphus,18:10.32,SR-4
+175,https://tf.tfrrs.org/athletes/7742243/Concordia_Moorhead/Alex_Lerum,"Lerum, Alex","May 3, 2024",84,https://tf.tfrrs.org/teams/tf/MN_college_m_Concordia_Moorhead.html,Concordia-Moorhead,18:44.86,SR-4
+176,https://tf.tfrrs.org/athletes/8258687/Bethel_MN/Kedran_St._George,"St. George, Kedran","Apr 25, 2024",85,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),18:49.15,SO-2
+177,https://tf.tfrrs.org/athletes/8622248/Bethel_MN/Luke_Segura,"Segura, Luke","Apr 6, 2024",86,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethel_MN.html,Bethel (Minn.),19:48.65,FR-1
+178,https://tf.tfrrs.org/athletes/6891927/Notre_Dame_IN/Dylan_Jacobs,"Jacobs, Dylan","May 12, 2022",1,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,13:23.45,JR-3
+179,https://tf.tfrrs.org/athletes/7730598/Florida_State/Ahmed_Muhumed,"Muhumed, Ahmed","Apr 29, 2022",2,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,13:26.11,SR-4
+180,https://tf.tfrrs.org/athletes/7730602/Florida_State/Adriaan_Wildschutt,"Wildschutt, Adriaan","May 12, 2022",3,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,13:28.03,SR-4
+181,https://tf.tfrrs.org/athletes/5624063/North_Carolina/Alex_Ostberg,"Ostberg, Alex","Jun 8, 2022",4,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,13:31.60,SR-4
+182,https://tf.tfrrs.org/athletes/6871692/Wake_Forest/Zach_Facioni,"Facioni, Zach","Jun 8, 2022",5,https://tf.tfrrs.org/teams/tf/NC_college_m_Wake_Forest.html,Wake Forest,13:33.46,JR-3
+183,https://tf.tfrrs.org/athletes/6422181/Notre_Dame_IN/Andrew_Alexander,"Alexander, Andrew","Apr 13, 2022",6,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,13:34.50,SR-4
+184,https://tf.tfrrs.org/athletes/6503433/North_Carolina_St/Ian_Shanklin,"Shanklin, Ian","May 6, 2022",7,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina_St.html,NC State,13:35.95,JR-3
+185,https://tf.tfrrs.org/athletes/7700480/Virginia/Wes_Porter,"Porter, Wes","Apr 22, 2022",8,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,13:36.84,FR-1
+186,https://tf.tfrrs.org/athletes/7704888/North_Carolina/Patrick_Anderson,"Anderson, Patrick","Apr 22, 2022",9,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,13:37.79,SO-2
+187,https://tf.tfrrs.org/athletes/6871693/Wake_Forest/Aaron_Las_Heras,"Las Heras, Aaron","May 12, 2022",10,https://tf.tfrrs.org/teams/tf/NC_college_m_Wake_Forest.html,Wake Forest,13:38.02,JR-3
+188,https://tf.tfrrs.org/athletes/7080760/Virginia_Tech/Antonio_Lopez_Segura,"Lopez Segura, Antonio","Apr 22, 2022",11,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,13:38.22,JR-3
+189,https://tf.tfrrs.org/athletes/6876375/North_Carolina_St/Nate_Kawalec,"Kawalec, Nate","May 12, 2022",12,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina_St.html,NC State,13:39.40,SO-2
+190,https://tf.tfrrs.org/athletes/6436244/North_Carolina/Jack_Aho,"Aho, Jack","Apr 22, 2022",13,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,13:39.59,SR-4
+191,https://tf.tfrrs.org/athletes/6871694/Wake_Forest/Joaquin_Martinez_De_Pinillos,"Martinez De Pinillos, Joaquin","Apr 22, 2022",14,https://tf.tfrrs.org/teams/tf/NC_college_m_Wake_Forest.html,Wake Forest,13:39.83,JR-3
+192,https://tf.tfrrs.org/athletes/6905274/North_Carolina/John_Tatter,"Tatter, John","Apr 22, 2022",15,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,13:40.59,JR-3
+193,https://tf.tfrrs.org/athletes/7688020/Notre_Dame_IN/Joshua_Methner,"Methner, Joshua","May 12, 2022",16,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,13:40.62,SO-2
+194,https://tf.tfrrs.org/athletes/6103673/Syracuse/Joe_Dragon,"Dragon, Joe","Apr 22, 2022",17,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,13:41.04,SR-4
+195,https://tf.tfrrs.org/athletes/7908131/North_Carolina/Parker_Wolfe,"Wolfe, Parker","May 12, 2022",18,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,13:41.77,FR-1
+196,https://tf.tfrrs.org/athletes/6451744/Duke/CJ_Ambrosio,"Ambrosio, CJ","May 12, 2022",19,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,13:42.50,SR-4
+197,https://tf.tfrrs.org/athletes/7700490/Virginia/Yasin_Sado,"Sado, Yasin","Apr 22, 2022",20,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,13:42.84,FR-1
+198,https://tf.tfrrs.org/athletes/7686035/Wake_Forest/Luke_Tewalt,"Tewalt, Luke","Apr 22, 2022",21,https://tf.tfrrs.org/teams/tf/NC_college_m_Wake_Forest.html,Wake Forest,13:43.60,FR-1
+199,https://tf.tfrrs.org/athletes/6551891/Syracuse/Nathan__Henderson,"Henderson, Nathan","Apr 1, 2022",22,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,13:44.65,JR-3
+200,https://tf.tfrrs.org/athletes/7815149/Louisville/Ian_Kibiwot,"Kibiwot, Ian","May 12, 2022",23,https://tf.tfrrs.org/teams/tf/KY_college_m_Louisville.html,Louisville,13:45.31,SO-2
+201,https://tf.tfrrs.org/athletes/6130040/North_Carolina_St/Robinson_Snider,"Snider, Robinson","May 12, 2022",24,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina_St.html,NC State,13:49.13,SR-4
+202,https://tf.tfrrs.org/athletes/6891835/Notre_Dame_IN/Matthew__Carmody,"Carmody, Matthew","May 12, 2022",25,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,13:51.03,JR-3
+203,https://tf.tfrrs.org/athletes/6432506/Virginia/Rohann_Asfaw,"Asfaw, Rohann","Mar 24, 2022",26,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,13:51.23,JR-3
+204,https://tf.tfrrs.org/athletes/7688021/Notre_Dame_IN/Carter_Solomon,"Solomon, Carter","Apr 13, 2022",27,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,13:52.67,SR-4
+205,https://tf.tfrrs.org/athletes/7698073/Syracuse/JP_Trojan,"Trojan, JP","May 12, 2022",28,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,13:52.72,SR-4
+206,https://tf.tfrrs.org/athletes/7895663/Wake_Forest/Thomas_Vanoppen,"Vanoppen, Thomas","Mar 24, 2022",29,https://tf.tfrrs.org/teams/tf/NC_college_m_Wake_Forest.html,Wake Forest,13:53.16,JR-3
+207,https://tf.tfrrs.org/athletes/7402048/Notre_Dame_IN/Jake_Renfree,"Renfree, Jake","Apr 13, 2022",30,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,13:53.81,SO-2
+208,https://tf.tfrrs.org/athletes/6901440/Duke/Chris_Theodore,"Theodore, Chris","May 12, 2022",31,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,13:54.43,JR-3
+209,https://tf.tfrrs.org/athletes/6871691/Wake_Forest/Carter_Coughlin,"Coughlin, Carter","May 12, 2022",32,https://tf.tfrrs.org/teams/tf/NC_college_m_Wake_Forest.html,Wake Forest,13:54.73,JR-3
+210,https://tf.tfrrs.org/athletes/7377482/Duke/Zach__Kinne,"Kinne, Zach","May 12, 2022",33,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,13:55.58,FR-1
+211,https://tf.tfrrs.org/athletes/6992509/Syracuse/Matthew_Scrape,"Scrape, Matthew","Apr 22, 2022",34,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,13:56.81,JR-3
+212,https://tf.tfrrs.org/athletes/7704889/North_Carolina/Will_Coogan,"Coogan, Will","May 12, 2022",35,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,13:56.97,SO-2
+213,https://tf.tfrrs.org/athletes/7704048/North_Carolina_St/Ian_Harrison,"Harrison, Ian","Apr 22, 2022",36,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina_St.html,NC State,13:57.55,FR-1
+214,https://tf.tfrrs.org/athletes/6453891/Virginia_Tech/Ben_Fleming,"Fleming, Ben","Mar 24, 2022",37,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,13:57.73,SR-4
+215,https://tf.tfrrs.org/athletes/7481888/Pittsburgh/Jack_Miller,"Miller, Jack","May 12, 2022",38,https://tf.tfrrs.org/teams/tf/PA_college_m_Pittsburgh.html,Pittsburgh,14:02.10,SO-2
+216,https://tf.tfrrs.org/athletes/7979984/Virginia/Justin_Wachtel,"Wachtel, Justin","Apr 22, 2022",39,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,14:02.48,FR-1
+217,https://tf.tfrrs.org/athletes/6876374/North_Carolina_St/Gavin_Gaynor,"Gaynor, Gavin","Mar 24, 2022",40,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina_St.html,NC State,14:03.31,JR-3
+218,https://tf.tfrrs.org/athletes/7704050/North_Carolina_St/Daniel_McGoey,"McGoey, Daniel","May 12, 2022",41,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina_St.html,NC State,14:03.95,FR-1
+219,https://tf.tfrrs.org/athletes/7369052/Virginia/Jacob_Hunter,"Hunter, Jacob","Apr 22, 2022",42,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,14:05.61,JR-3
+220,https://tf.tfrrs.org/athletes/6986354/Georgia_Tech/James_Cragin,"Cragin, James","May 12, 2022",43,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:07.50,JR-3
+221,https://tf.tfrrs.org/athletes/7700479/Virginia/Jack_Eliason,"Eliason, Jack","May 1, 2022",44,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,14:11.60,FR-1
+222,https://tf.tfrrs.org/athletes/6989460/Pittsburgh/Tyler__Rollins,"Rollins, Tyler","May 12, 2022",45,https://tf.tfrrs.org/teams/tf/PA_college_m_Pittsburgh.html,Pittsburgh,14:11.91,SR-4
+223,https://tf.tfrrs.org/athletes/6992510/Syracuse/Nathan_Lawler,"Lawler, Nathan","May 12, 2022",46,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:11.96,SO-2
+224,https://tf.tfrrs.org/athletes/7367301/Syracuse/Alex_Comerford,"Comerford, Alex","May 1, 2022",47,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:12.48,SO-2
+225,https://tf.tfrrs.org/athletes/7377484/Duke/Sam_Rivera,"Rivera, Sam","Apr 22, 2022",48,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:13.20,FR-1
+226,https://tf.tfrrs.org/athletes/6992516/Syracuse/Noah_Beveridge,"Beveridge, Noah","Apr 22, 2022",49,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:13.48,SO-2
+227,https://tf.tfrrs.org/athletes/7728294/Pittsburgh/Luke_Henseler,"Henseler, Luke","Mar 24, 2022",50,https://tf.tfrrs.org/teams/tf/PA_college_m_Pittsburgh.html,Pittsburgh,14:13.66,SO-2
+228,https://tf.tfrrs.org/athletes/7728297/Pittsburgh/Sam_Otis,"Otis, Sam","Apr 7, 2022",51,https://tf.tfrrs.org/teams/tf/PA_college_m_Pittsburgh.html,Pittsburgh,14:14.05,FR-1
+229,https://tf.tfrrs.org/athletes/7699374/Florida_State/Zach_Leachman,"Leachman, Zach","May 12, 2022",52,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,14:14.19,FR-1
+230,https://tf.tfrrs.org/athletes/7377483/Duke/Owen_MacKenzie,"MacKenzie, Owen","Apr 7, 2022",53,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:15.04,JR-3
+231,https://tf.tfrrs.org/athletes/7377481/Duke/Rory__Cavan,"Cavan, Rory","Mar 24, 2022",54,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:16.86,JR-3
+232,https://tf.tfrrs.org/athletes/7698069/Syracuse/Sam_Lawler,"Lawler, Sam","Apr 22, 2022",55,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:17.27,FR-1
+233,https://tf.tfrrs.org/athletes/7687310/Georgia_Tech/John__Higinbotham,"Higinbotham, John","Apr 28, 2022",56,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:18.74,FR-1
+234,https://tf.tfrrs.org/athletes/6898992/Florida_State/Matthew_Newland,"Newland, Matthew","Apr 15, 2022",57,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,14:19.35,JR-3
+235,https://tf.tfrrs.org/athletes/6871695/Wake_Forest/Ben_Mitchell,"Mitchell, Ben","Mar 24, 2022",58,https://tf.tfrrs.org/teams/tf/NC_college_m_Wake_Forest.html,Wake Forest,14:19.49,JR-3
+236,https://tf.tfrrs.org/athletes/7699377/Florida_State/Luke_Reid,"Reid, Luke","Apr 29, 2022",59,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,14:19.57,FR-1
+237,https://tf.tfrrs.org/athletes/7704044/North_Carolina_St/Kevin_Antczak,"Antczak, Kevin","Mar 24, 2022",60,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina_St.html,NC State,14:21.54,FR-1
+238,https://tf.tfrrs.org/athletes/7369053/Virginia/Justin_Diehl,"Diehl, Justin","Mar 24, 2022",61,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,14:22.01,SO-2
+239,https://tf.tfrrs.org/athletes/7979197/Syracuse/Jack_Whetstone,"Whetstone, Jack","May 12, 2022",62,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:22.02,JR-3
+240,https://tf.tfrrs.org/athletes/7704789/Duke/Jared_Kreis,"Kreis, Jared","Apr 7, 2022",63,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:22.66,FR-1
+241,https://tf.tfrrs.org/athletes/7700488/Virginia/Nick_Karayianis,"Karayianis, Nick","May 1, 2022",64,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,14:22.84,FR-1
+242,https://tf.tfrrs.org/athletes/7979951/Pittsburgh/Peyton_Geehrer,"Geehrer, Peyton","Apr 28, 2022",65,https://tf.tfrrs.org/teams/tf/PA_college_m_Pittsburgh.html,Pittsburgh,14:24.27,FR-1
+243,https://tf.tfrrs.org/athletes/7382380/Clemson/Jackson_Leech,"Leech, Jackson","Apr 28, 2022",66,https://tf.tfrrs.org/teams/tf/SC_college_m_Clemson.html,Clemson,14:24.95,FR-1
+244,https://tf.tfrrs.org/athletes/7908128/North_Carolina/Colton_Sands,"Sands, Colton","May 12, 2022",67,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,14:26.18,FR-1
+245,https://tf.tfrrs.org/athletes/7985419/Virginia/Johnny_Rogers,"Rogers, Johnny","Mar 24, 2022",68,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia.html,Virginia,14:26.33,FR-1
+246,https://tf.tfrrs.org/athletes/7377487/Duke/Connor_Wells,"Wells, Connor","Apr 7, 2022",69,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:27.58,JR-3
+247,https://tf.tfrrs.org/athletes/7381087/Georgia_Tech/Ronan_Sullivan,"Sullivan, Ronan","Apr 22, 2022",70,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:28.13,SO-2
+248,https://tf.tfrrs.org/athletes/7916238/Virginia_Tech/Arnav_Tikhe,"Tikhe, Arnav","Mar 24, 2022",71,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,14:28.18,FR-1
+249,https://tf.tfrrs.org/athletes/7899732/Florida_State/Anderson_Ball,"Ball, Anderson","Mar 24, 2022",72,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,14:28.70,
+250,https://tf.tfrrs.org/athletes/6891700/Virginia_Tech/Tyler__Leeser,"Leeser, Tyler","Mar 24, 2022",73,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,14:29.14,JR-3
+251,https://tf.tfrrs.org/athletes/6451749/Duke/Josh_Romine,"Romine, Josh","May 1, 2022",74,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:29.48,SR-4
+252,https://tf.tfrrs.org/athletes/6992515/Syracuse/Silas_Derfel,"Derfel, Silas","May 1, 2022",75,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:30.11,SO-2
+253,https://tf.tfrrs.org/athletes/7704891/North_Carolina/Tommy_Gaffey,"Gaffey, Tommy","Apr 7, 2022",76,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,14:32.09,FR-1
+254,https://tf.tfrrs.org/athletes/7704785/Duke/Jack_Kovach,"Kovach, Jack","Mar 24, 2022",77,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:32.11,FR-1
+255,https://tf.tfrrs.org/athletes/7402050/Notre_Dame_IN/Nicholas_Mota,"Mota, Nicholas","Apr 22, 2022",78,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,14:32.29,JR-3
+256,https://tf.tfrrs.org/athletes/7916237/Virginia_Tech/Declan_Rymer,"Rymer, Declan","Mar 24, 2022",79,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,14:32.92,FR-1
+257,https://tf.tfrrs.org/athletes/7918516/Duke/Conor_Bohrer,"Bohrer, Conor","Apr 7, 2022",80,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:33.08,FR-1
+258,https://tf.tfrrs.org/athletes/7382384/Clemson/Marlin_Young,"Young, Marlin","May 12, 2022",81,https://tf.tfrrs.org/teams/tf/SC_college_m_Clemson.html,Clemson,14:33.54,SR-4
+259,https://tf.tfrrs.org/athletes/7916231/Virginia_Tech/Viktor_Idhammar,"Idhammar, Viktor","Mar 24, 2022",82,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,14:33.62,FR-1
+260,https://tf.tfrrs.org/athletes/7698074/Syracuse/Ethan_Wechsler,"Wechsler, Ethan","May 1, 2022",83,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:33.74,FR-1
+261,https://tf.tfrrs.org/athletes/7394308/Louisville/Isaac_Kiprop,"Kiprop, Isaac","Mar 24, 2022",84,https://tf.tfrrs.org/teams/tf/KY_college_m_Louisville.html,Louisville,14:36.01,SO-2
+262,https://tf.tfrrs.org/athletes/6896685/Clemson/Michael_Smith,"Smith, Michael","Apr 15, 2022",85,https://tf.tfrrs.org/teams/tf/SC_college_m_Clemson.html,Clemson,14:36.44,JR-3
+263,https://tf.tfrrs.org/athletes/7704892/North_Carolina/Andrew_Lauer,"Lauer, Andrew","Apr 7, 2022",86,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,14:36.49,FR-1
+264,https://tf.tfrrs.org/athletes/7889493/Georgia_Tech/Miguel_Schlicht,"Schlicht, Miguel","Apr 15, 2022",87,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:36.82,FR-1
+265,https://tf.tfrrs.org/athletes/6901438/Duke/Will_Dixon,"Dixon, Will","Mar 24, 2022",88,https://tf.tfrrs.org/teams/tf/NC_college_m_Duke.html,Duke,14:37.46,FR-1
+266,https://tf.tfrrs.org/athletes/7687312/Georgia_Tech/Jackson_Borden,"Borden, Jackson","Apr 15, 2022",89,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:37.53,FR-1
+267,https://tf.tfrrs.org/athletes/7381084/Georgia_Tech/Zach_Jaeger,"Jaeger, Zach","Mar 24, 2022",90,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:38.34,SO-2
+268,https://tf.tfrrs.org/athletes/8027927/Florida_State/Andy_Martinez,"Martinez, Andy","Mar 31, 2022",91,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,14:38.72,SO-2
+269,https://tf.tfrrs.org/athletes/7688025/Notre_Dame_IN/Henry_Chapman,"Chapman, Henry","Apr 22, 2022",92,https://tf.tfrrs.org/teams/tf/IN_college_m_Notre_Dame_IN.html,Notre Dame,14:39.27,SO-2
+270,https://tf.tfrrs.org/athletes/7699217/Miami_FL/Colin_Wilson,"Wilson, Colin","Mar 31, 2022",93,https://tf.tfrrs.org/teams/tf/FL_college_m_Miami_FL.html,Miami (Fla.),14:41.35,SO-2
+271,https://tf.tfrrs.org/athletes/7704262/Virginia_Tech/Colby_Burcham,"Burcham, Colby","Mar 24, 2022",94,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,14:41.70,SO-2
+272,https://tf.tfrrs.org/athletes/7687311/Georgia_Tech/Devin_Wade,"Wade, Devin","Apr 15, 2022",95,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:43.36,FR-1
+273,https://tf.tfrrs.org/athletes/7910019/Miami_FL/Austen_Cannon,"Cannon, Austen","Mar 31, 2022",96,https://tf.tfrrs.org/teams/tf/FL_college_m_Miami_FL.html,Miami (Fla.),14:44.16,FR-1
+274,https://tf.tfrrs.org/athletes/6440731/Louisville/Ben_Ewert,"Ewert, Ben","Apr 29, 2022",97,https://tf.tfrrs.org/teams/tf/KY_college_m_Louisville.html,Louisville,14:44.70,SR-4
+275,https://tf.tfrrs.org/athletes/7402774/Virginia_Tech/Ethan_Mills,"Mills, Ethan","Mar 24, 2022",98,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,14:45.22,SO-2
+276,https://tf.tfrrs.org/athletes/7910605/Boston_College/Andrew_Healey,"Healey, Andrew","Apr 22, 2022",99,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_College.html,Boston College,14:45.63,FR-1
+277,https://tf.tfrrs.org/athletes/6898991/Florida_State/Jacob_Holmes,"Holmes, Jacob","Mar 24, 2022",100,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,14:46.71,SO-2
+278,https://tf.tfrrs.org/athletes/6898993/Florida_State/Paul_Stafford,"Stafford, Paul","Apr 29, 2022",101,https://tf.tfrrs.org/teams/tf/FL_college_m_Florida_State.html,Florida State,14:49.24,JR-3
+279,https://tf.tfrrs.org/athletes/6986357/Georgia_Tech/Harrison_Morris,"Morris, Harrison","Apr 15, 2022",102,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,14:49.84,SO-2
+280,https://tf.tfrrs.org/athletes/7695862/Louisville/Jason_Krell,"Krell, Jason","Apr 29, 2022",103,https://tf.tfrrs.org/teams/tf/KY_college_m_Louisville.html,Louisville,14:51.80,FR-1
+281,https://tf.tfrrs.org/athletes/7704263/Virginia_Tech/David_Kennedy,"Kennedy, David","Mar 24, 2022",104,https://tf.tfrrs.org/teams/tf/VA_college_m_Virginia_Tech.html,Virginia Tech,14:51.96,SO-2
+282,https://tf.tfrrs.org/athletes/7979950/Pittsburgh/Quintin_Gatons,"Gatons, Quintin","Mar 25, 2022",105,https://tf.tfrrs.org/teams/tf/PA_college_m_Pittsburgh.html,Pittsburgh,14:57.36,FR-1
+283,https://tf.tfrrs.org/athletes/7394305/Louisville/Cooper_Marchal,"Marchal, Cooper","Apr 7, 2022",106,https://tf.tfrrs.org/teams/tf/KY_college_m_Louisville.html,Louisville,14:57.93,JR-3
+284,https://tf.tfrrs.org/athletes/7367300/Syracuse/Matthew_Dragon,"Dragon, Matthew","Apr 22, 2022",107,https://tf.tfrrs.org/teams/tf/NY_college_m_Syracuse.html,Syracuse,14:59.88,SO-2
+285,https://tf.tfrrs.org/athletes/7892548/Louisville/Ethan_Meyer,"Meyer, Ethan","Apr 7, 2022",108,https://tf.tfrrs.org/teams/tf/KY_college_m_Louisville.html,Louisville,15:01.01,SO-2
+286,https://tf.tfrrs.org/athletes/7974308/Clemson/Sawyer_Dagan,"Dagan, Sawyer","Apr 22, 2022",109,https://tf.tfrrs.org/teams/tf/SC_college_m_Clemson.html,Clemson,15:02.03,FR-1
+287,https://tf.tfrrs.org/athletes/7889491/Georgia_Tech/Ethan_Curnow,"Curnow, Ethan","Apr 15, 2022",110,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,15:11.89,FR-1
+288,https://tf.tfrrs.org/athletes/7910611/Boston_College/Will__Purnell,"Purnell, Will","Apr 22, 2022",111,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_College.html,Boston College,15:13.48,FR-1
+289,https://tf.tfrrs.org/athletes/7908129/North_Carolina/Sully_Shelton,"Shelton, Sully","Apr 7, 2022",112,https://tf.tfrrs.org/teams/tf/NC_college_m_North_Carolina.html,North Carolina,15:16.33,FR-1
+290,https://tf.tfrrs.org/athletes/7700342/Clemson/Jack_McManus,"McManus, Jack","Apr 7, 2022",113,https://tf.tfrrs.org/teams/tf/SC_college_m_Clemson.html,Clemson,15:21.96,SO-2
+291,https://tf.tfrrs.org/athletes/7700321/Clemson/Michael_Fabiano,"Fabiano, Michael","Mar 18, 2022",114,https://tf.tfrrs.org/teams/tf/SC_college_m_Clemson.html,Clemson,15:24.18,JR-3
+292,https://tf.tfrrs.org/athletes/7394788/Miami_FL/Justin_Rittenhouse,"Rittenhouse, Justin","Apr 29, 2022",115,https://tf.tfrrs.org/teams/tf/FL_college_m_Miami_FL.html,Miami (Fla.),15:24.78,SO-2
+293,https://tf.tfrrs.org/athletes/7889492/Georgia_Tech/Jean-Lou_Pare,"Pare, Jean-Lou","Mar 18, 2022",116,https://tf.tfrrs.org/teams/tf/GA_college_m_Georgia_Tech.html,Georgia Tech,15:39.71,FR-1
+294,https://tf.tfrrs.org/athletes/7910615/Boston_College/John_Fitzpatrick,"Fitzpatrick, John","Apr 22, 2022",117,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_College.html,Boston College,15:45.43,FR-1
+295,https://tf.tfrrs.org/athletes/6615172/Franciscan-OH/Liam_Galligan,"Galligan, Liam","Apr 28, 2022",1,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),14:24.27,SR-4
+296,https://tf.tfrrs.org/athletes/7759720/St_Vincent/Tim_Patterson,"Patterson, Tim","Apr 14, 2022",2,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),14:44.44,SO-2
+297,https://tf.tfrrs.org/athletes/6615171/Franciscan-OH/Mark_Borek,"Borek, Mark","Apr 8, 2022",3,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),15:23.57,SR-4
+298,https://tf.tfrrs.org/athletes/7896458/Geneva/Kevin__Arseneaux_,"Arseneaux , Kevin","Mar 11, 2022",4,https://tf.tfrrs.org/teams/tf/PA_college_m_Geneva.html,Geneva,15:35.86,FR-1
+299,https://tf.tfrrs.org/athletes/7886771/Washington__Jefferson/Brock_Pennington,"Pennington, Brock","Apr 2, 2022",5,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,15:46.16,FR-1
+300,https://tf.tfrrs.org/athletes/7884674/Washington__Jefferson/Jake_Sinclair,"Sinclair, Jake","Apr 28, 2022",6,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,15:48.18,FR-1
+301,https://tf.tfrrs.org/athletes/6904634/Grove_City/Noah__Callinan,"Callinan, Noah","Apr 8, 2022",7,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,15:51.77,SR-4
+302,https://tf.tfrrs.org/athletes/7884672/Washington__Jefferson/Julian_Paul,"Paul, Julian","Mar 25, 2022",8,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,16:00.04,FR-1
+303,https://tf.tfrrs.org/athletes/7908837/Grove_City/Jonah_DeWitt,"DeWitt, Jonah","Apr 28, 2022",9,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,16:00.59,FR-1
+304,https://tf.tfrrs.org/athletes/7986303/Franciscan-OH/David_DiNardo,"DiNardo, David","Apr 2, 2022",10,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),16:03.34,FR-1
+305,https://tf.tfrrs.org/athletes/7761435/Franciscan-OH/George_Kaftan,"Kaftan, George","Mar 17, 2022",11,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),16:04.13,SO-2
+306,https://tf.tfrrs.org/athletes/7385554/St_Vincent/Jeremy_Capella,"Capella, Jeremy","Apr 8, 2022",12,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),16:06.93,JR-3
+307,https://tf.tfrrs.org/athletes/7376478/Washington__Jefferson/Aden_Dressler,"Dressler, Aden","Apr 8, 2022",13,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,16:11.96,FR-1
+308,https://tf.tfrrs.org/athletes/7911776/Franciscan-OH/Conal_Delaney,"Delaney, Conal","Apr 28, 2022",14,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),16:15.86,FR-1
+309,https://tf.tfrrs.org/athletes/7914932/St_Vincent/Joey_Jafarace,"Jafarace, Joey","Apr 28, 2022",15,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),16:16.03,FR-1
+310,https://tf.tfrrs.org/athletes/6904656/Grove_City/Nathan_Warrick,"Warrick, Nathan","Apr 28, 2022",16,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,16:23.35,SR-4
+311,https://tf.tfrrs.org/athletes/7385871/Waynesburg/Jac_Cokley_,"Cokley , Jac","Apr 28, 2022",17,https://tf.tfrrs.org/teams/tf/PA_college_m_Waynesburg.html,Waynesburg,16:24.29,JR-3
+312,https://tf.tfrrs.org/athletes/7376479/Washington__Jefferson/Paul_Collier,"Collier, Paul","Apr 2, 2022",18,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,16:24.43,FR-1
+313,https://tf.tfrrs.org/athletes/7743165/Waynesburg/Andrew_Kasper,"Kasper, Andrew","Apr 28, 2022",19,https://tf.tfrrs.org/teams/tf/PA_college_m_Waynesburg.html,Waynesburg,16:36.84,SO-2
+314,https://tf.tfrrs.org/athletes/7914934/St_Vincent/Jeffrey_Raynor,"Raynor, Jeffrey","Apr 28, 2022",20,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),16:38.98,FR-1
+315,https://tf.tfrrs.org/athletes/7906974/Waynesburg/Luke_Whisel,"Whisel, Luke","Apr 28, 2022",21,https://tf.tfrrs.org/teams/tf/PA_college_m_Waynesburg.html,Waynesburg,16:39.03,FR-1
+316,https://tf.tfrrs.org/athletes/7908842/Grove_City/Max_Thomas,"Thomas, Max","Apr 2, 2022",22,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,16:42.35,FR-1
+317,https://tf.tfrrs.org/athletes/6423648/Thiel/Chad_Pakozdi,"Pakozdi, Chad","Apr 16, 2022",23,https://tf.tfrrs.org/teams/tf/PA_college_m_Thiel.html,Thiel,16:43.45,SR-4
+318,https://tf.tfrrs.org/athletes/7914930/St_Vincent/August_Anderson,"Anderson, August","Apr 20, 2022",24,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),16:51.05,FR-1
+319,https://tf.tfrrs.org/athletes/7884675/Washington__Jefferson/Max_Donaty,"Donaty, Max","Apr 28, 2022",25,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,16:55.46,FR-1
+320,https://tf.tfrrs.org/athletes/7763418/Geneva/Michael__Hernandez,"Hernandez, Michael","Apr 2, 2022",26,https://tf.tfrrs.org/teams/tf/PA_college_m_Geneva.html,Geneva,16:59.33,FR-1
+321,https://tf.tfrrs.org/athletes/7884673/Washington__Jefferson/Daniel_Deal,"Deal, Daniel","Mar 19, 2022",27,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,16:59.36,FR-1
+322,https://tf.tfrrs.org/athletes/7908840/Grove_City/Ben_Raduns,"Raduns, Ben","Apr 28, 2022",28,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,16:59.52,FR-1
+323,https://tf.tfrrs.org/athletes/6894290/Franciscan-OH/Michael_Sobus,"Sobus, Michael","Apr 8, 2022",29,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),17:07.21,JR-3
+324,https://tf.tfrrs.org/athletes/7759981/Washington__Jefferson/Clay_Yeager,"Yeager, Clay","Mar 26, 2022",30,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,17:08.33,FR-1
+325,https://tf.tfrrs.org/athletes/7914935/St_Vincent/John_Syms,"Syms, John","Mar 25, 2022",31,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),17:10.89,FR-1
+326,https://tf.tfrrs.org/athletes/7908841/Grove_City/Nathan_Striebel,"Striebel, Nathan","Apr 8, 2022",32,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,17:11.64,FR-1
+327,https://tf.tfrrs.org/athletes/7445568/Thiel/Quintin_Weaver,"Weaver, Quintin","Mar 26, 2022",33,https://tf.tfrrs.org/teams/tf/PA_college_m_Thiel.html,Thiel,17:13.31,JR-3
+328,https://tf.tfrrs.org/athletes/6531095/Geneva/Adam_Steich,"Steich, Adam","Apr 28, 2022",34,https://tf.tfrrs.org/teams/tf/PA_college_m_Geneva.html,Geneva,17:16.19,SR-4
+329,https://tf.tfrrs.org/athletes/7374148/Geneva/Josiah__Helmer,"Helmer, Josiah","Apr 28, 2022",35,https://tf.tfrrs.org/teams/tf/PA_college_m_Geneva.html,Geneva,17:16.83,FR-1
+330,https://tf.tfrrs.org/athletes/6875646/St_Vincent/David_Swisher,"Swisher, David","Apr 20, 2022",36,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),17:19.16,SR-4
+331,https://tf.tfrrs.org/athletes/7761436/Franciscan-OH/Nate_Tokarsky,"Tokarsky, Nate","May 12, 2022",37,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),17:31.84,SO-2
+332,https://tf.tfrrs.org/athletes/7759983/Washington__Jefferson/Nick_Millison,"Millison, Nick","Apr 16, 2022",38,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,17:35.06,FR-1
+333,https://tf.tfrrs.org/athletes/6900816/Westminster_PA/Nathan_Kraus,"Kraus, Nathan","Apr 8, 2022",39,https://tf.tfrrs.org/teams/tf/PA_college_m_Westminster_PA.html,Westminster (Pa.),17:41.86,SR-4
+334,https://tf.tfrrs.org/athletes/7935800/St_Vincent/Conor_Keating,"Keating, Conor","Apr 28, 2022",40,https://tf.tfrrs.org/teams/tf/PA_college_m_St_Vincent.html,St. Vincent (Pa.),18:04.56,JR-3
+335,https://tf.tfrrs.org/athletes/7386446/Franciscan-OH/Aidan_Kay,"Kay, Aidan","Apr 8, 2022",41,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),18:13.88,JR-3
+336,https://tf.tfrrs.org/athletes/7385264/Westminster_PA/Ian_Jackson,"Jackson, Ian","Apr 13, 2022",42,https://tf.tfrrs.org/teams/tf/PA_college_m_Westminster_PA.html,Westminster (Pa.),18:16.43,JR-3
+337,https://tf.tfrrs.org/athletes/7906972/Waynesburg/Bryce_Ronk,"Ronk, Bryce","Apr 8, 2022",43,https://tf.tfrrs.org/teams/tf/PA_college_m_Waynesburg.html,Waynesburg,18:17.18,FR-1
+338,https://tf.tfrrs.org/athletes/7760711/Grove_City/Nathan_Steiger,"Steiger, Nathan","Apr 2, 2022",44,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,18:18.71,SO-2
+339,https://tf.tfrrs.org/athletes/7890866/Chatham/Benjamin_Brown,"Brown, Benjamin","Apr 20, 2022",45,https://tf.tfrrs.org/teams/tf/PA_college_m_Chatham.html,Chatham,18:18.91,FR-1
+340,https://tf.tfrrs.org/athletes/7789052/Grove_City/Will_Zeisler,"Zeisler, Will","Apr 2, 2022",46,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,18:23.15,SO-2
+341,https://tf.tfrrs.org/athletes/7884677/Washington__Jefferson/Jacob_Davis,"Davis, Jacob","Apr 20, 2022",47,https://tf.tfrrs.org/teams/tf/PA_college_m_Washington__Jefferson.html,Washington & Jefferson,18:23.94,FR-1
+342,https://tf.tfrrs.org/athletes/7760855/Thiel/Austin_Krieger,"Krieger, Austin","Apr 16, 2022",48,https://tf.tfrrs.org/teams/tf/PA_college_m_Thiel.html,Thiel,18:27.17,SO-2
+343,https://tf.tfrrs.org/athletes/7535874/Bethany_WV/Dylan_Wise,"Wise, Dylan","Apr 2, 2022",49,https://tf.tfrrs.org/teams/tf/WV_college_m_Bethany_WV.html,Bethany (W.V.),18:30.55,SO-2
+344,https://tf.tfrrs.org/athletes/7767694/Chatham/Kristopher_Longenecker,"Longenecker, Kristopher","Mar 25, 2022",50,https://tf.tfrrs.org/teams/tf/PA_college_m_Chatham.html,Chatham,18:33.19,JR-3
+345,https://tf.tfrrs.org/athletes/7743166/Waynesburg/Matthew__Shank,"Shank, Matthew","Apr 28, 2022",51,https://tf.tfrrs.org/teams/tf/PA_college_m_Waynesburg.html,Waynesburg,18:33.26,SO-2
+346,https://tf.tfrrs.org/athletes/7761534/Westminster_PA/Caden_Harsh,"Harsh, Caden","Apr 28, 2022",52,https://tf.tfrrs.org/teams/tf/PA_college_m_Westminster_PA.html,Westminster (Pa.),18:34.59,SO-2
+347,https://tf.tfrrs.org/athletes/7908845/Grove_City/Josef_Mueller,"Mueller, Josef","Apr 28, 2022",53,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,18:50.43,FR-1
+348,https://tf.tfrrs.org/athletes/7604033/Franciscan-OH/Francis_Langley,"Langley, Francis","Apr 2, 2022",54,https://tf.tfrrs.org/teams/tf/OH_college_m_Franciscan-OH.html,Franciscan (Ohio),19:19.38,JR-3
+349,https://tf.tfrrs.org/athletes/6904653/Grove_City/Matthew_Hay,"Hay, Matthew","Apr 8, 2022",55,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,19:21.54,SR-4
+350,https://tf.tfrrs.org/athletes/7906973/Waynesburg/Anderson_Schuller,"Schuller, Anderson","Apr 2, 2022",56,https://tf.tfrrs.org/teams/tf/PA_college_m_Waynesburg.html,Waynesburg,19:41.73,FR-1
+351,https://tf.tfrrs.org/athletes/7761535/Westminster_PA/Ryan_Armstrong,"Armstrong, Ryan","Apr 28, 2022",57,https://tf.tfrrs.org/teams/tf/PA_college_m_Westminster_PA.html,Westminster (Pa.),19:57.09,SO-2
+352,https://tf.tfrrs.org/athletes/7760708/Grove_City/Wesley_Dorst,"Dorst, Wesley","Apr 13, 2022",58,https://tf.tfrrs.org/teams/tf/PA_college_m_Grove_City.html,Grove City,20:24.86,FR-1
+353,https://tf.tfrrs.org/athletes/7361918/WPI/David_Reynolds,"Reynolds, David","May 14, 2021",1,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:09.29,SR
+354,https://tf.tfrrs.org/athletes/6443563/WPI/Logan_Gaudette,"Gaudette, Logan","Apr 3, 2021",2,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:09.75,SR-4
+355,https://tf.tfrrs.org/athletes/7796869/Babson/Anthony_Rodriguez,"Rodriguez, Anthony","Apr 10, 2021",3,https://tf.tfrrs.org/teams/tf/MA_college_m_Babson.html,Babson,15:15.24,FR-1
+356,https://tf.tfrrs.org/athletes/6881416/Wheaton_MA/Dominic__Sclafani,"Sclafani, Dominic","May 14, 2021",4,https://tf.tfrrs.org/teams/tf/MA_college_m_Wheaton_MA.html,Wheaton (Mass.),15:21.82,
+357,https://tf.tfrrs.org/athletes/6918276/WPI/Brian_Brooks,"Brooks, Brian","Apr 3, 2021",5,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:23.00,JR-3
+358,https://tf.tfrrs.org/athletes/5996075/WPI/Tom_Hanlon,"Hanlon, Tom","Apr 3, 2021",6,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:44.14,SR-4
+359,https://tf.tfrrs.org/athletes/7798065/WPI/Avinash_Bissoondial,"Bissoondial, Avinash","Apr 3, 2021",7,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:49.27,FR-1
+360,https://tf.tfrrs.org/athletes/7798066/WPI/Robert_Doyle,"Doyle, Robert","Apr 3, 2021",8,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:53.56,FR-1
+361,https://tf.tfrrs.org/athletes/6918280/WPI/Alex_Simoneau,"Simoneau, Alex","Apr 17, 2021",9,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:54.39,JR-3
+362,https://tf.tfrrs.org/athletes/7798070/WPI/Matthew_McAlarney,"McAlarney, Matthew","Apr 17, 2021",10,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,15:55.64,FR-1
+363,https://tf.tfrrs.org/athletes/6918275/WPI/Blake_Audibert,"Audibert, Blake","Apr 3, 2021",11,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,16:12.42,JR-3
+364,https://tf.tfrrs.org/athletes/7380214/Springfield/John_DeRosa,"DeRosa, John","May 8, 2021",12,https://tf.tfrrs.org/teams/tf/MA_college_m_Springfield.html,Springfield,16:12.64,FR-1
+365,https://tf.tfrrs.org/athletes/7778410/Springfield/Christopher_Vayda,"Vayda, Christopher","May 2, 2021",13,https://tf.tfrrs.org/teams/tf/MA_college_m_Springfield.html,Springfield,16:18.29,FR-1
+366,https://tf.tfrrs.org/athletes/6921624/Coast_Guard/Ryan_Von_Brock,"Von Brock, Ryan","May 2, 2021",14,https://tf.tfrrs.org/teams/tf/CT_college_m_Coast_Guard.html,Coast Guard,16:24.54,JR-3
+367,https://tf.tfrrs.org/athletes/7361919/WPI/Matt_Reynolds,"Reynolds, Matt","Apr 10, 2021",15,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,16:35.28,SO-2
+368,https://tf.tfrrs.org/athletes/7798068/WPI/Connor_Gaudette,"Gaudette, Connor","Apr 17, 2021",16,https://tf.tfrrs.org/teams/tf/MA_college_m_WPI.html,WPI,16:35.32,FR-1
+369,https://tf.tfrrs.org/athletes/7389150/Coast_Guard/John_Hanson,"Hanson, John","Apr 10, 2021",17,https://tf.tfrrs.org/teams/tf/CT_college_m_Coast_Guard.html,Coast Guard,16:39.55,SO-2
+370,https://tf.tfrrs.org/athletes/6443568/Springfield/Ryan__Vermette,"Vermette, Ryan","Apr 10, 2021",18,https://tf.tfrrs.org/teams/tf/MA_college_m_Springfield.html,Springfield,16:39.86,JR-3
+371,https://tf.tfrrs.org/athletes/6921618/Coast_Guard/Greg_Costello,"Costello, Greg","May 2, 2021",19,https://tf.tfrrs.org/teams/tf/CT_college_m_Coast_Guard.html,Coast Guard,16:43.95,JR-3
+372,https://tf.tfrrs.org/athletes/6443567/Springfield/Liam__Murphy,"Murphy, Liam","Apr 10, 2021",20,https://tf.tfrrs.org/teams/tf/MA_college_m_Springfield.html,Springfield,16:49.80,JR-3
+373,https://tf.tfrrs.org/athletes/7774472/Wheaton_MA/Matthew_Lambert,"Lambert, Matthew","Apr 3, 2021",21,https://tf.tfrrs.org/teams/tf/MA_college_m_Wheaton_MA.html,Wheaton (Mass.),16:53.38,FR-1
+374,https://tf.tfrrs.org/athletes/7389397/Babson/Gabriel_Ortega,"Ortega, Gabriel","Apr 10, 2021",22,https://tf.tfrrs.org/teams/tf/MA_college_m_Babson.html,Babson,16:57.94,SO-2
+375,https://tf.tfrrs.org/athletes/6921625/Coast_Guard/Peter_White,"White, Peter","May 2, 2021",23,https://tf.tfrrs.org/teams/tf/CT_college_m_Coast_Guard.html,Coast Guard,17:11.68,JR-3
+376,https://tf.tfrrs.org/athletes/7748807/Coast_Guard/Jake_Thoenen,"Thoenen, Jake","Apr 10, 2021",24,https://tf.tfrrs.org/teams/tf/CT_college_m_Coast_Guard.html,Coast Guard,17:17.07,FR-1
+377,https://tf.tfrrs.org/athletes/6877548/Springfield/JT_McMillen,"McMillen, JT","Apr 17, 2021",25,https://tf.tfrrs.org/teams/tf/MA_college_m_Springfield.html,Springfield,17:23.98,JR-3
+378,https://tf.tfrrs.org/athletes/7380221/Springfield/Aidan_Harmer,"Harmer, Aidan","May 2, 2021",26,https://tf.tfrrs.org/teams/tf/MA_college_m_Springfield.html,Springfield,17:24.19,SO-2
+379,https://tf.tfrrs.org/athletes/7380220/Springfield/Scott_Dunbar,"Dunbar, Scott","May 2, 2021",27,https://tf.tfrrs.org/teams/tf/MA_college_m_Springfield.html,Springfield,17:42.85,FR-1
+380,https://tf.tfrrs.org/athletes/7796866/Babson/Tre_Simmons,"Simmons, Tre","Apr 3, 2021",28,https://tf.tfrrs.org/teams/tf/MA_college_m_Babson.html,Babson,17:59.89,FR-1
+381,https://tf.tfrrs.org/athletes/6881411/Wheaton_MA/Alec__Devine_,"Devine , Alec","Apr 24, 2021",29,https://tf.tfrrs.org/teams/tf/MA_college_m_Wheaton_MA.html,Wheaton (Mass.),19:19.70,JR-3
+382,https://tf.tfrrs.org/athletes/4989671/Eastern_Michigan/Hlynur_Andresson,"Andresson, Hlynur","Apr 20, 2018",1,https://tf.tfrrs.org/teams/tf/MI_college_m_Eastern_Michigan.html,Eastern Michigan,13:58.91,SR-4
+383,https://tf.tfrrs.org/athletes/4533809/Eastern_Michigan/Nicholas_Raymond,"Raymond, Nicholas","Apr 26, 2018",2,https://tf.tfrrs.org/teams/tf/MI_college_m_Eastern_Michigan.html,Eastern Michigan,14:14.00,SR-4
+384,https://tf.tfrrs.org/athletes/5479349/Eastern_Michigan/Lahsene_Bouchikhi,"Bouchikhi, Lahsene","Apr 26, 2018",3,https://tf.tfrrs.org/teams/tf/MI_college_m_Eastern_Michigan.html,Eastern Michigan,14:19.58,SR-4
+385,https://tf.tfrrs.org/athletes/4991815/Miami_OH/Jake__Brumfield,"Brumfield, Jake","Apr 26, 2018",4,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),14:25.45,SR-4
+386,https://tf.tfrrs.org/athletes/5984120/Miami_OH/Sean_Torpy,"Torpy, Sean","Mar 30, 2018",5,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),14:26.93,SO-2
+387,https://tf.tfrrs.org/athletes/5488618/Ohio_U/Kyle_Bussard,"Bussard, Kyle","Apr 20, 2018",6,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,14:34.06,JR-3
+388,https://tf.tfrrs.org/athletes/5984131/Miami_OH/Bradley_Davis,"Davis, Bradley","Apr 20, 2018",7,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),14:35.04,SO-2
+389,https://tf.tfrrs.org/athletes/5494188/Bowling_Green/Noah_Schaub,"Schaub, Noah","Apr 20, 2018",8,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,14:38.33,JR-3
+390,https://tf.tfrrs.org/athletes/6081976/Central_Michigan/Logan_Kleam,"Kleam, Logan","May 10, 2018",9,https://tf.tfrrs.org/teams/tf/MI_college_m_Central_Michigan.html,Central Michigan,14:39.40,FR-1
+391,https://tf.tfrrs.org/athletes/4991818/Miami_OH/Ben__Metzger,"Metzger, Ben","Apr 19, 2018",10,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),14:40.03,SR-4
+392,https://tf.tfrrs.org/athletes/5984132/Miami_OH/David_Coffey,"Coffey, David","Apr 19, 2018",11,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),14:42.29,SO-2
+393,https://tf.tfrrs.org/athletes/4991820/Miami_OH/Ryan_Pitner,"Pitner, Ryan","Apr 26, 2018",12,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),14:43.50,SR-4
+394,https://tf.tfrrs.org/athletes/4996255/Ohio_U/Brad_Miller,"Miller, Brad","Apr 20, 2018",13,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,14:44.48,SR-4
+395,https://tf.tfrrs.org/athletes/5959597/Buffalo/Caleb_Covell,"Covell, Caleb","May 10, 2018",14,https://tf.tfrrs.org/teams/tf/NY_college_m_Buffalo.html,Buffalo,14:46.43,SO-2
+396,https://tf.tfrrs.org/athletes/4991826/Miami_OH/Zac_Thompson,"Thompson, Zac","Apr 19, 2018",15,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),14:48.12,SR-4
+397,https://tf.tfrrs.org/athletes/6452449/Buffalo/Thomas_Flannery,"Flannery, Thomas","Apr 14, 2018",16,https://tf.tfrrs.org/teams/tf/NY_college_m_Buffalo.html,Buffalo,14:48.70,FR-1
+398,https://tf.tfrrs.org/athletes/5999714/Kent_State/Clark_Bookman,"Bookman, Clark","Mar 30, 2018",17,https://tf.tfrrs.org/teams/tf/OH_college_m_Kent_State.html,Kent State,14:50.36,SO-2
+399,https://tf.tfrrs.org/athletes/6000428/Eastern_Michigan/Austin_Wicker,"Wicker, Austin","Apr 12, 2018",18,https://tf.tfrrs.org/teams/tf/MI_college_m_Eastern_Michigan.html,Eastern Michigan,14:51.53,FR-1
+400,https://tf.tfrrs.org/athletes/5494186/Bowling_Green/Tyler_Phillips_,"Phillips , Tyler","Apr 20, 2018",19,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,14:52.51,JR-3
+401,https://tf.tfrrs.org/athletes/6081977/Central_Michigan/Conor_Naughton,"Naughton, Conor","Apr 20, 2018",20,https://tf.tfrrs.org/teams/tf/MI_college_m_Central_Michigan.html,Central Michigan,14:54.49,FR-1
+402,https://tf.tfrrs.org/athletes/6081979/Central_Michigan/Bransen_Stimpfel,"Stimpfel, Bransen","Apr 26, 2018",21,https://tf.tfrrs.org/teams/tf/MI_college_m_Central_Michigan.html,Central Michigan,15:00.02,SO-2
+403,https://tf.tfrrs.org/athletes/5984128/Miami_OH/Daniel_Reynolds,"Reynolds, Daniel","Mar 30, 2018",22,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),15:00.34,SO-2
+404,https://tf.tfrrs.org/athletes/5600270/Kent_State/Brandon_Avers,"Avers, Brandon","Mar 30, 2018",23,https://tf.tfrrs.org/teams/tf/OH_college_m_Kent_State.html,Kent State,15:00.76,JR-3
+405,https://tf.tfrrs.org/athletes/5984129/Miami_OH/Seth_Conroy,"Conroy, Seth","Apr 6, 2018",24,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),15:00.77,SO-2
+406,https://tf.tfrrs.org/athletes/5959551/Ohio_U/Griffin_Butler,"Butler, Griffin","Mar 30, 2018",25,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,15:01.01,FR-1
+407,https://tf.tfrrs.org/athletes/5984137/Miami_OH/Max_Lehnhardt,"Lehnhardt, Max","Apr 28, 2018",26,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),15:01.51,SO-2
+408,https://tf.tfrrs.org/athletes/5471796/Miami_OH/Ryan_Sharkey,"Sharkey, Ryan","Apr 26, 2018",27,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),15:04.81,SO-2
+409,https://tf.tfrrs.org/athletes/6470732/Ohio_U/Josh_Park,"Park, Josh","Apr 20, 2018",28,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,15:05.24,FR-1
+410,https://tf.tfrrs.org/athletes/5500548/Akron/Tevin__Brown,"Brown, Tevin","May 10, 2018",29,https://tf.tfrrs.org/teams/tf/OH_college_m_Akron.html,Akron,15:07.19,SO-2
+411,https://tf.tfrrs.org/athletes/5464546/Central_Michigan/Mark_Beckmann,"Beckmann, Mark","Apr 13, 2018",30,https://tf.tfrrs.org/teams/tf/MI_college_m_Central_Michigan.html,Central Michigan,15:08.89,SO-2
+412,https://tf.tfrrs.org/athletes/6602386/Bowling_Green/Jonathan_Voth,"Voth, Jonathan","Apr 26, 2018",31,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,15:08.93,SO-2
+413,https://tf.tfrrs.org/athletes/5013028/Kent_State/Nick_Schank,"Schank, Nick","Mar 30, 2018",32,https://tf.tfrrs.org/teams/tf/OH_college_m_Kent_State.html,Kent State,15:09.02,SR-4
+414,https://tf.tfrrs.org/athletes/5494190/Bowling_Green/Jonathan_Wenning_,"Wenning , Jonathan","Apr 26, 2018",33,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,15:09.82,JR-3
+415,https://tf.tfrrs.org/athletes/5964165/Buffalo/Liam_Hilbert,"Hilbert, Liam","Apr 28, 2018",34,https://tf.tfrrs.org/teams/tf/NY_college_m_Buffalo.html,Buffalo,15:12.88,SO-2
+416,https://tf.tfrrs.org/athletes/5172164/Bowling_Green/Jacob_Schenten,"Schenten, Jacob","Apr 26, 2018",35,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,15:14.27,SR-4
+417,https://tf.tfrrs.org/athletes/6610925/Bowling_Green/Kyle_Hibinger,"Hibinger, Kyle","Apr 26, 2018",36,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,15:14.73,FR-1
+418,https://tf.tfrrs.org/athletes/6830178/Bowling_Green/Ray_Berling,"Berling, Ray","Apr 26, 2018",37,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,15:17.49,SO-2
+419,https://tf.tfrrs.org/athletes/5467760/Toledo/Brian_Stubelt,"Stubelt, Brian","Apr 26, 2018",38,https://tf.tfrrs.org/teams/tf/OH_college_m_Toledo.html,Toledo,15:18.42,JR-3
+420,https://tf.tfrrs.org/athletes/5959555/Ohio_U/Dan_Seas,"Seas, Dan","Apr 20, 2018",39,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,15:19.51,FR-1
+421,https://tf.tfrrs.org/athletes/4535581/Buffalo/Lloyd_Webb,"Webb, Lloyd","Apr 28, 2018",40,https://tf.tfrrs.org/teams/tf/NY_college_m_Buffalo.html,Buffalo,15:19.74,SR-4
+422,https://tf.tfrrs.org/athletes/6602385/Bowling_Green/Gabriel_Garbarino,"Garbarino, Gabriel","Apr 6, 2018",41,https://tf.tfrrs.org/teams/tf/OH_college_m_Bowling_Green.html,Bowling Green,15:25.57,FR-1
+423,https://tf.tfrrs.org/athletes/5953891/Toledo/Aidan_Gallagher,"Gallagher, Aidan","Apr 26, 2018",42,https://tf.tfrrs.org/teams/tf/OH_college_m_Toledo.html,Toledo,15:25.95,SO-2
+424,https://tf.tfrrs.org/athletes/6574570/Miami_OH/Spencer_Strohm,"Strohm, Spencer","Apr 28, 2018",43,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),15:28.01,FR-1
+425,https://tf.tfrrs.org/athletes/6574556/Miami_OH/Sebastian_Francesconi,"Francesconi, Sebastian","Apr 6, 2018",44,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),15:29.39,FR-1
+426,https://tf.tfrrs.org/athletes/5511751/Kent_State/Sam_Goodman,"Goodman, Sam","Mar 30, 2018",45,https://tf.tfrrs.org/teams/tf/OH_college_m_Kent_State.html,Kent State,15:30.82,JR-3
+427,https://tf.tfrrs.org/athletes/6452456/Buffalo/Oscar_Vazquez,"Vazquez, Oscar","Mar 31, 2018",46,https://tf.tfrrs.org/teams/tf/NY_college_m_Buffalo.html,Buffalo,15:33.00,FR-1
+428,https://tf.tfrrs.org/athletes/5953889/Toledo/Dismas_Koech,"Koech, Dismas","Apr 20, 2018",47,https://tf.tfrrs.org/teams/tf/OH_college_m_Toledo.html,Toledo,15:33.92,SO-2
+429,https://tf.tfrrs.org/athletes/6097400/Akron/Jacob_Ondash,"Ondash, Jacob","Apr 27, 2018",48,https://tf.tfrrs.org/teams/tf/OH_college_m_Akron.html,Akron,15:34.05,SO-2
+430,https://tf.tfrrs.org/athletes/5488617/Ohio_U/Jason_White,"White, Jason","Apr 20, 2018",49,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,15:35.97,JR-3
+431,https://tf.tfrrs.org/athletes/6440865/Ohio_U/Seth_Gard,"Gard, Seth","Apr 20, 2018",50,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,15:36.42,FR-1
+432,https://tf.tfrrs.org/athletes/5495294/Central_Michigan/Alec_Esparza,"Esparza, Alec","Apr 26, 2018",51,https://tf.tfrrs.org/teams/tf/MI_college_m_Central_Michigan.html,Central Michigan,15:37.45,JR-3
+433,https://tf.tfrrs.org/athletes/4996254/Ohio_U/James_Fox,"Fox, James","Apr 20, 2018",52,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,15:37.58,SR-4
+434,https://tf.tfrrs.org/athletes/5984125/Miami_OH/Daniel_Santino,"Santino, Daniel","Apr 6, 2018",53,https://tf.tfrrs.org/teams/tf/OH_college_m_Miami_OH.html,Miami (Ohio),15:39.67,SO-2
+435,https://tf.tfrrs.org/athletes/5500552/Akron/Jeremiah_Fitzgerald,"Fitzgerald, Jeremiah","Apr 27, 2018",54,https://tf.tfrrs.org/teams/tf/OH_college_m_Akron.html,Akron,15:40.28,SO-2
+436,https://tf.tfrrs.org/athletes/6440862/Ohio_U/Matthew_Agosta,"Agosta, Matthew","Mar 30, 2018",55,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,15:42.49,FR-1
+437,https://tf.tfrrs.org/athletes/5467759/Toledo/Jacob_Wistinghausen,"Wistinghausen, Jacob","Mar 30, 2018",56,https://tf.tfrrs.org/teams/tf/OH_college_m_Toledo.html,Toledo,15:57.07,JR-3
+438,https://tf.tfrrs.org/athletes/6456879/Buffalo/Max_Glazowski,"Glazowski, Max","Apr 28, 2018",57,https://tf.tfrrs.org/teams/tf/NY_college_m_Buffalo.html,Buffalo,16:02.72,FR-1
+439,https://tf.tfrrs.org/athletes/5959556/Ohio_U/Brady_McBride,"McBride, Brady","Apr 20, 2018",58,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,16:24.55,SO-2
+440,https://tf.tfrrs.org/athletes/6549572/Kent_State/Sam_Michael,"Michael, Sam","Apr 6, 2018",59,https://tf.tfrrs.org/teams/tf/OH_college_m_Kent_State.html,Kent State,16:33.53,FR-1
+441,https://tf.tfrrs.org/athletes/6622702/Ohio_U/Matt_Gregson,"Gregson, Matt","Apr 20, 2018",60,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_U.html,Ohio,16:34.35,FR-1
+442,https://tf.tfrrs.org/athletes/5988934/Army_West_Point/Roman_Ollar,"Ollar, Roman","Apr 20, 2018",1,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,14:20.06,SO-2
+443,https://tf.tfrrs.org/athletes/5969826/Lehigh/Jeffrey_Kirshenbaum,"Kirshenbaum, Jeffrey","Apr 20, 2018",2,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,14:21.53,SO-2
+444,https://tf.tfrrs.org/athletes/4986528/Navy/Cory_Donley,"Donley, Cory","Apr 7, 2018",3,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,14:22.73,SR-4
+445,https://tf.tfrrs.org/athletes/5988932/Army_West_Point/Benjamin_Petrella,"Petrella, Benjamin","Apr 7, 2018",4,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,14:23.74,SO-2
+446,https://tf.tfrrs.org/athletes/6093501/Navy/Kevin_Murray,"Murray, Kevin","Apr 7, 2018",5,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,14:25.13,SO-2
+447,https://tf.tfrrs.org/athletes/5988937/Army_West_Point/Robert_Santoyo,"Santoyo, Robert","Mar 10, 2018",6,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,14:25.75,SO-2
+448,https://tf.tfrrs.org/athletes/5999383/Boston_U/Paul__Luevano,"Luevano, Paul","May 4, 2018",7,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_U.html,Boston U.,14:27.69,SO-2
+449,https://tf.tfrrs.org/athletes/4992302/American/Alaeldin_Tirba,"Tirba, Alaeldin","Mar 30, 2018",8,https://tf.tfrrs.org/teams/tf/DC_college_m_American.html,American,14:29.62,SR-4
+450,https://tf.tfrrs.org/athletes/4986526/Navy/Gabriel_Collison,"Collison, Gabriel","May 4, 2018",9,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,14:29.99,SR-4
+451,https://tf.tfrrs.org/athletes/5981862/Bucknell/Drew_Dorflinger,"Dorflinger, Drew","Apr 14, 2018",10,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,14:30.75,SO-2
+452,https://tf.tfrrs.org/athletes/4512194/Lehigh/Alex_Fitzgerald,"Fitzgerald, Alex","Apr 20, 2018",11,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,14:31.84,SR-4
+453,https://tf.tfrrs.org/athletes/4982812/Army_West_Point/John_Valeri,"Valeri, John","Apr 20, 2018",12,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,14:32.90,SR-4
+454,https://tf.tfrrs.org/athletes/4997381/Lehigh/John_Tolbert,"Tolbert, John","Apr 26, 2018",13,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,14:38.60,JR-3
+455,https://tf.tfrrs.org/athletes/5465763/American/Benjamin_Doiron,"Doiron, Benjamin","Mar 30, 2018",14,https://tf.tfrrs.org/teams/tf/DC_college_m_American.html,American,14:41.19,JR-3
+456,https://tf.tfrrs.org/athletes/6093496/Navy/Jake_Brophy,"Brophy, Jake","May 4, 2018",15,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,14:43.07,SO-2
+457,https://tf.tfrrs.org/athletes/4997379/Lehigh/Henry_Paul,"Paul, Henry","Apr 14, 2018",16,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,14:44.29,SR-4
+458,https://tf.tfrrs.org/athletes/6428329/Lehigh/Bradford_DeMassa,"DeMassa, Bradford","Apr 20, 2018",17,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,14:54.67,FR-1
+459,https://tf.tfrrs.org/athletes/4537008/Boston_U/Mitchell_Russo,"Russo, Mitchell","Mar 29, 2018",18,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_U.html,Boston U.,14:54.88,JR-3
+460,https://tf.tfrrs.org/athletes/5999385/Boston_U/Johnny_Kemps,"Kemps, Johnny","May 4, 2018",19,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_U.html,Boston U.,14:59.79,JR-3
+461,https://tf.tfrrs.org/athletes/5462776/Boston_U/Alexander_Seal,"Seal, Alexander","May 4, 2018",20,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_U.html,Boston U.,15:00.78,JR-3
+462,https://tf.tfrrs.org/athletes/6457226/Army_West_Point/Daniel_Horoho,"Horoho, Daniel","Mar 10, 2018",21,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,15:03.08,FR-1
+463,https://tf.tfrrs.org/athletes/6441079/Bucknell/Connor_McMenamin,"McMenamin, Connor","Apr 14, 2018",22,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:06.24,FR-1
+464,https://tf.tfrrs.org/athletes/6450613/Navy/Julian_Perez,"Perez, Julian","Mar 31, 2018",23,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,15:06.64,FR-1
+465,https://tf.tfrrs.org/athletes/6450607/Navy/Robert_Graham,"Graham, Robert","Apr 14, 2018",24,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,15:07.21,FR-1
+466,https://tf.tfrrs.org/athletes/6090535/Holy_Cross/Robert_Tuzzio,"Tuzzio, Robert","Apr 21, 2018",25,https://tf.tfrrs.org/teams/tf/MA_college_m_Holy_Cross.html,Holy Cross,15:10.55,
+467,https://tf.tfrrs.org/athletes/5501437/Bucknell/Chad_Sussman,"Sussman, Chad","Apr 14, 2018",26,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:14.11,JR-3
+468,https://tf.tfrrs.org/athletes/5483181/Lehigh/Brian_Arita,"Arita, Brian","Apr 20, 2018",27,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:14.29,JR-3
+469,https://tf.tfrrs.org/athletes/6450605/Navy/Benjamin_Cracraft,"Cracraft, Benjamin","Apr 14, 2018",28,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,15:15.05,FR-1
+470,https://tf.tfrrs.org/athletes/4997380/Lehigh/Patrick_Reilly,"Reilly, Patrick","Apr 26, 2018",29,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:17.03,SR-4
+471,https://tf.tfrrs.org/athletes/5981861/Bucknell/Brian__Dengler,"Dengler, Brian","Apr 28, 2018",30,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:17.93,SO-2
+472,https://tf.tfrrs.org/athletes/5166172/Holy_Cross/Bryan_Gallagher,"Gallagher, Bryan","Apr 21, 2018",31,https://tf.tfrrs.org/teams/tf/MA_college_m_Holy_Cross.html,Holy Cross,15:18.08,
+473,https://tf.tfrrs.org/athletes/5488964/Navy/Michael_Karls,"Karls, Michael","May 4, 2018",32,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,15:18.48,JR-3
+474,https://tf.tfrrs.org/athletes/6428333/Lehigh/Seth__Slavin,"Slavin, Seth","Apr 20, 2018",33,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:19.50,FR-1
+475,https://tf.tfrrs.org/athletes/4997374/Lehigh/Ryan_Grace,"Grace, Ryan","Apr 14, 2018",34,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:19.73,SR-4
+476,https://tf.tfrrs.org/athletes/6457234/Army_West_Point/Caleb_Washington,"Washington, Caleb","May 10, 2018",35,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,15:20.90,FR-1
+477,https://tf.tfrrs.org/athletes/4999774/Bucknell/William_Bordash,"Bordash, William","May 4, 2018",36,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:21.64,SR-4
+478,https://tf.tfrrs.org/athletes/6441080/Bucknell/Evan_Minor,"Minor, Evan","Apr 28, 2018",37,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:26.03,FR-1
+479,https://tf.tfrrs.org/athletes/5969827/Lehigh/Victor_Yegon,"Yegon, Victor","Mar 31, 2018",38,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:26.34,SO-2
+480,https://tf.tfrrs.org/athletes/5588545/Holy_Cross/Joseph_Prunty,"Prunty, Joseph","Apr 6, 2018",39,https://tf.tfrrs.org/teams/tf/MA_college_m_Holy_Cross.html,Holy Cross,15:28.36,
+481,https://tf.tfrrs.org/athletes/5488966/Navy/Luke_Lanham,"Lanham, Luke","Apr 14, 2018",40,https://tf.tfrrs.org/teams/tf/MD_college_m_Navy.html,Navy,15:28.38,JR-3
+482,https://tf.tfrrs.org/athletes/5981870/Bucknell/James_Weissenborn,"Weissenborn, James","May 4, 2018",41,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:28.88,SO-2
+483,https://tf.tfrrs.org/athletes/5981867/Bucknell/Ben_Siciliano,"Siciliano, Ben","Mar 31, 2018",42,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:31.81,SO-2
+484,https://tf.tfrrs.org/athletes/5110654/Colgate/Watson_Hanson,"Hanson, Watson","Mar 31, 2018",43,https://tf.tfrrs.org/teams/tf/NY_college_m_Colgate.html,Colgate,15:35.02,SR-4
+485,https://tf.tfrrs.org/athletes/5963640/Colgate/Jonathan_Abbott,"Abbott, Jonathan","Mar 31, 2018",44,https://tf.tfrrs.org/teams/tf/NY_college_m_Colgate.html,Colgate,15:35.04,JR-3
+486,https://tf.tfrrs.org/athletes/5988940/Army_West_Point/Connor_McDonald,"McDonald, Connor","May 10, 2018",45,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,15:35.62,SO-2
+487,https://tf.tfrrs.org/athletes/6428331/Lehigh/Nick_Norton,"Norton, Nick","Apr 20, 2018",46,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:38.51,FR-1
+488,https://tf.tfrrs.org/athletes/6099517/American/Gerard_D'Ambrosio,"D'Ambrosio, Gerard","Apr 14, 2018",47,https://tf.tfrrs.org/teams/tf/DC_college_m_American.html,American,15:40.08,SO-2
+489,https://tf.tfrrs.org/athletes/6457233/Army_West_Point/Noah_Wallace,"Wallace, Noah","May 10, 2018",48,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,15:40.11,FR-1
+490,https://tf.tfrrs.org/athletes/6534993/Boston_U/Jonathon_Fierro,"Fierro, Jonathon","Apr 28, 2018",49,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_U.html,Boston U.,15:42.31,FR-1
+491,https://tf.tfrrs.org/athletes/6090536/Holy_Cross/Alessandro_Campagna,"Campagna, Alessandro","Mar 31, 2018",50,https://tf.tfrrs.org/teams/tf/MA_college_m_Holy_Cross.html,Holy Cross,15:42.60,
+492,https://tf.tfrrs.org/athletes/5963643/Colgate/Ryan_Curran,"Curran, Ryan","Apr 20, 2018",51,https://tf.tfrrs.org/teams/tf/NY_college_m_Colgate.html,Colgate,15:42.95,SO-2
+493,https://tf.tfrrs.org/athletes/5969824/Lehigh/Rafael_Hernandez,"Hernandez, Rafael","Apr 20, 2018",52,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:44.50,SO-2
+494,https://tf.tfrrs.org/athletes/5017650/Lehigh/Joseph_Inglis,"Inglis, Joseph","Mar 31, 2018",53,https://tf.tfrrs.org/teams/tf/PA_college_m_Lehigh.html,Lehigh,15:49.28,SR-4
+495,https://tf.tfrrs.org/athletes/5963642/Colgate/Lucas_Culley,"Culley, Lucas","Apr 29, 2018",54,https://tf.tfrrs.org/teams/tf/NY_college_m_Colgate.html,Colgate,15:52.03,SO-2
+496,https://tf.tfrrs.org/athletes/6539452/Colgate/Brian_Lafleche,"Lafleche, Brian","Mar 15, 2018",55,https://tf.tfrrs.org/teams/tf/NY_college_m_Colgate.html,Colgate,15:53.47,FR-1
+497,https://tf.tfrrs.org/athletes/6441077/Bucknell/Riley_Gardner,"Gardner, Riley","Apr 28, 2018",56,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,15:56.28,FR-1
+498,https://tf.tfrrs.org/athletes/6457232/Army_West_Point/Jose_Villalobos,"Villalobos, Jose","May 10, 2018",57,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,15:56.34,FR-1
+499,https://tf.tfrrs.org/athletes/6441078/Bucknell/Benjamin_Littmann,"Littmann, Benjamin","Mar 31, 2018",58,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,16:01.91,FR-1
+500,https://tf.tfrrs.org/athletes/5981864/Bucknell/Brendan_McGill,"McGill, Brendan","Mar 31, 2018",59,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,16:02.28,SO-2
+501,https://tf.tfrrs.org/athletes/6443344/Lafayette/Thomas_Anthony,"Anthony, Thomas","Apr 28, 2018",60,https://tf.tfrrs.org/teams/tf/PA_college_m_Lafayette.html,Lafayette,16:03.21,FR-1
+502,https://tf.tfrrs.org/athletes/5654326/Holy_Cross/Matthew_Silas,"Silas, Matthew","Apr 28, 2018",61,https://tf.tfrrs.org/teams/tf/MA_college_m_Holy_Cross.html,Holy Cross,16:06.61,JR-3
+503,https://tf.tfrrs.org/athletes/5465170/Lafayette/David_Sadvary,"Sadvary, David","Mar 31, 2018",62,https://tf.tfrrs.org/teams/tf/PA_college_m_Lafayette.html,Lafayette,16:08.00,JR-3
+504,https://tf.tfrrs.org/athletes/5465167/Lafayette/Jacob_Coburn,"Coburn, Jacob","Apr 7, 2018",63,https://tf.tfrrs.org/teams/tf/PA_college_m_Lafayette.html,Lafayette,16:11.67,JR-3
+505,https://tf.tfrrs.org/athletes/6457304/Army_West_Point/Collin__Hahn,"Hahn, Collin","Apr 14, 2018",64,https://tf.tfrrs.org/teams/tf/NY_college_m_Army_West_Point.html,Army West Point,16:13.65,FR-1
+506,https://tf.tfrrs.org/athletes/6452624/Holy_Cross/Joseph_Doerr,"Doerr, Joseph","Mar 31, 2018",65,https://tf.tfrrs.org/teams/tf/MA_college_m_Holy_Cross.html,Holy Cross,16:14.80,
+507,https://tf.tfrrs.org/athletes/5462774/Boston_U/Ian_Anderson,"Anderson, Ian","Apr 20, 2018",66,https://tf.tfrrs.org/teams/tf/MA_college_m_Boston_U.html,Boston U.,16:17.39,SR-4
+508,https://tf.tfrrs.org/athletes/5981869/Bucknell/Matt_Vira,"Vira, Matt","Apr 28, 2018",67,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,16:17.94,SO-2
+509,https://tf.tfrrs.org/athletes/6019822/Lafayette/Mark_DiPaola,"DiPaola, Mark","Apr 13, 2018",68,https://tf.tfrrs.org/teams/tf/PA_college_m_Lafayette.html,Lafayette,16:18.32,JR-3
+510,https://tf.tfrrs.org/athletes/5981863/Bucknell/Terryl_Ferrel,"Ferrel, Terryl","May 4, 2018",69,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,16:19.37,SO-2
+511,https://tf.tfrrs.org/athletes/6539455/Colgate/Tommy_Williams,"Williams, Tommy","Apr 20, 2018",70,https://tf.tfrrs.org/teams/tf/NY_college_m_Colgate.html,Colgate,16:20.28,FR-1
+512,https://tf.tfrrs.org/athletes/5501432/Bucknell/Brian_Babyak,"Babyak, Brian","Mar 31, 2018",71,https://tf.tfrrs.org/teams/tf/PA_college_m_Bucknell.html,Bucknell,16:25.61,JR-3
+513,https://tf.tfrrs.org/athletes/6443346/Lafayette/Michael_Neeson,"Neeson, Michael","Apr 13, 2018",72,https://tf.tfrrs.org/teams/tf/PA_college_m_Lafayette.html,Lafayette,16:38.67,FR-1
+514,https://tf.tfrrs.org/athletes/6544099/American/Max_Lustig,"Lustig, Max","May 4, 2018",73,https://tf.tfrrs.org/teams/tf/DC_college_m_American.html,American,16:45.15,FR-1
+515,https://tf.tfrrs.org/athletes/4530195/Furman/Tanner_Hinkle,"Hinkle, Tanner","Apr 21, 2017",1,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,14:04.56,JR-3
+516,https://tf.tfrrs.org/athletes/4993726/Furman/Frank_Lara,"Lara, Frank","Apr 21, 2017",2,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,14:05.15,JR-3
+517,https://tf.tfrrs.org/athletes/5974567/Furman/Mason_Coppi,"Coppi, Mason","Apr 21, 2017",3,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,14:10.60,FR-1
+518,https://tf.tfrrs.org/athletes/5151196/Va_Military_Institute/James_Broom,"Broom, James","Apr 14, 2017",4,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,14:34.04,SO-2
+519,https://tf.tfrrs.org/athletes/6132536/East_Tenn_St/Adam_Bradtmueller,"Bradtmueller, Adam","Mar 24, 2017",5,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,14:34.33,FR-1
+520,https://tf.tfrrs.org/athletes/4530194/Furman/Josh_Brickell,"Brickell, Josh","Apr 21, 2017",6,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,14:38.25,JR-3
+521,https://tf.tfrrs.org/athletes/4530196/Furman/Troy_Reeder,"Reeder, Troy","May 11, 2017",7,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,14:39.03,JR-3
+522,https://tf.tfrrs.org/athletes/5637456/East_Tenn_St/David_Winchester,"Winchester, David","Apr 21, 2017",8,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,14:41.49,SO-2
+523,https://tf.tfrrs.org/athletes/4517263/East_Tenn_St/Simeon_Roberts,"Roberts, Simeon","May 11, 2017",9,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,14:44.11,JR-3
+524,https://tf.tfrrs.org/athletes/6132538/East_Tenn_St/Soresa__Gemechu,"Gemechu, Soresa","Apr 21, 2017",10,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,14:47.59,SO-2
+525,https://tf.tfrrs.org/athletes/5592455/Samford/Ben_Bryant,"Bryant, Ben","May 11, 2017",11,https://tf.tfrrs.org/teams/tf/AL_college_m_Samford.html,Samford,14:49.06,SO-2
+526,https://tf.tfrrs.org/athletes/5009239/Samford/Paul_Richardson,"Richardson, Paul","Apr 7, 2017",12,https://tf.tfrrs.org/teams/tf/AL_college_m_Samford.html,Samford,14:49.92,JR-3
+527,https://tf.tfrrs.org/athletes/5596317/Furman/Kyle_Polman,"Polman, Kyle","Mar 24, 2017",13,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,14:50.70,SR-4
+528,https://tf.tfrrs.org/athletes/4996643/Samford/Josh_Salter,"Salter, Josh","Apr 21, 2017",14,https://tf.tfrrs.org/teams/tf/AL_college_m_Samford.html,Samford,14:52.50,JR-3
+529,https://tf.tfrrs.org/athletes/6137145/Va_Military_Institute/Ryan_Drew,"Drew, Ryan","Apr 14, 2017",15,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,14:56.59,FR-1
+530,https://tf.tfrrs.org/athletes/4629506/Va_Military_Institute/Luke_Phillips,"Phillips, Luke","Apr 14, 2017",16,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,14:57.50,SR-4
+531,https://tf.tfrrs.org/athletes/4530200/Furman/Lee_Shearer,"Shearer, Lee","May 11, 2017",17,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,15:03.01,JR-3
+532,https://tf.tfrrs.org/athletes/4991153/East_Tenn_St/Carl_Oberfeitinger,"Oberfeitinger, Carl","May 11, 2017",18,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,15:03.40,JR-3
+533,https://tf.tfrrs.org/athletes/4629512/Va_Military_Institute/Brandon_White,"White, Brandon","Mar 24, 2017",19,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,15:05.52,SR-4
+534,https://tf.tfrrs.org/athletes/6132541/East_Tenn_St/Louis__Morris,"Morris, Louis","Mar 16, 2017",20,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,15:07.34,FR-1
+535,https://tf.tfrrs.org/athletes/6137137/Va_Military_Institute/Justin_Adams,"Adams, Justin","Apr 14, 2017",21,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,15:08.47,FR-1
+536,https://tf.tfrrs.org/athletes/5963250/Samford/Dillon_Dean,"Dean, Dillon","May 11, 2017",22,https://tf.tfrrs.org/teams/tf/AL_college_m_Samford.html,Samford,15:09.38,FR-1
+537,https://tf.tfrrs.org/athletes/5592456/Samford/Owen_Bailey,"Bailey, Owen","May 11, 2017",23,https://tf.tfrrs.org/teams/tf/AL_college_m_Samford.html,Samford,15:10.09,SO-2
+538,https://tf.tfrrs.org/athletes/5151199/Va_Military_Institute/Micah_Ellington,"Ellington, Micah","Apr 14, 2017",24,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,15:10.68,JR-3
+539,https://tf.tfrrs.org/athletes/5637471/East_Tenn_St/James_Garst,"Garst, James","Mar 16, 2017",25,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,15:11.54,JR-3
+540,https://tf.tfrrs.org/athletes/6132539/East_Tenn_St/Nathan_Longfellow,"Longfellow, Nathan","Mar 16, 2017",26,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,15:11.94,SO-2
+541,https://tf.tfrrs.org/athletes/5493811/UNC_Greensboro/William_Sandin,"Sandin, William","Apr 21, 2017",27,https://tf.tfrrs.org/teams/tf/NC_college_m_UNC_Greensboro.html,UNC-Greensboro,15:11.97,SO-2
+542,https://tf.tfrrs.org/athletes/4517810/Citadel/Ross_Jordan,"Jordan, Ross","May 11, 2017",28,https://tf.tfrrs.org/teams/tf/SC_college_m_Citadel.html,Citadel,15:15.91,SR-4
+543,https://tf.tfrrs.org/athletes/4996641/Samford/Michael_Rohdy,"Rohdy, Michael","Apr 7, 2017",29,https://tf.tfrrs.org/teams/tf/AL_college_m_Samford.html,Samford,15:17.52,JR-3
+544,https://tf.tfrrs.org/athletes/5009032/UNC_Greensboro/Brandon_King,"King, Brandon","Apr 21, 2017",30,https://tf.tfrrs.org/teams/tf/NC_college_m_UNC_Greensboro.html,UNC-Greensboro,15:27.20,JR-3
+545,https://tf.tfrrs.org/athletes/4574421/UNC_Greensboro/David_Guthrie,"Guthrie, David","Apr 21, 2017",31,https://tf.tfrrs.org/teams/tf/NC_college_m_UNC_Greensboro.html,UNC-Greensboro,15:27.71,SR-4
+546,https://tf.tfrrs.org/athletes/5151200/Va_Military_Institute/Tripp_Fitch,"Fitch, Tripp","Apr 8, 2017",32,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,15:29.58,JR-3
+547,https://tf.tfrrs.org/athletes/5596305/Furman/Patrick_McNamara,"McNamara, Patrick","May 11, 2017",33,https://tf.tfrrs.org/teams/tf/SC_college_m_Furman.html,Furman,15:29.95,SO-2
+548,https://tf.tfrrs.org/athletes/4517264/East_Tenn_St/Daniel_Sonnenfeldt,"Sonnenfeldt, Daniel","Mar 31, 2017",34,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,15:33.85,JR-3
+549,https://tf.tfrrs.org/athletes/5153877/Citadel/Mike_Lantz,"Lantz, Mike","Mar 24, 2017",35,https://tf.tfrrs.org/teams/tf/SC_college_m_Citadel.html,Citadel,15:41.28,JR-3
+550,https://tf.tfrrs.org/athletes/4574423/UNC_Greensboro/Patrick_O'Grady,"O'Grady, Patrick","Mar 31, 2017",36,https://tf.tfrrs.org/teams/tf/NC_college_m_UNC_Greensboro.html,UNC-Greensboro,15:42.43,SR-4
+551,https://tf.tfrrs.org/athletes/5978838/Wofford/Ethan_Epstein_,"Epstein , Ethan","Mar 31, 2017",37,https://tf.tfrrs.org/teams/tf/SC_college_m_Wofford.html,Wofford,15:42.46,FR-1
+552,https://tf.tfrrs.org/athletes/5470747/Western_Carolina/Jordan_Bostian,"Bostian, Jordan","May 11, 2017",38,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,15:42.49,SO-2
+553,https://tf.tfrrs.org/athletes/6090893/UNC_Greensboro/Alex_Roy,"Roy, Alex","Mar 31, 2017",39,https://tf.tfrrs.org/teams/tf/NC_college_m_UNC_Greensboro.html,UNC-Greensboro,15:45.32,FR-1
+554,https://tf.tfrrs.org/athletes/5495052/Wofford/Cisco_Ferre,"Ferre, Cisco","Mar 31, 2017",40,https://tf.tfrrs.org/teams/tf/SC_college_m_Wofford.html,Wofford,16:05.28,SO-2
+555,https://tf.tfrrs.org/athletes/5962584/Western_Carolina/Justin__Tucker,"Tucker, Justin","May 11, 2017",41,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,16:05.43,FR-1
+556,https://tf.tfrrs.org/athletes/5153871/Citadel/Jamie_Cunningham,"Cunningham, Jamie","Mar 24, 2017",42,https://tf.tfrrs.org/teams/tf/SC_college_m_Citadel.html,Citadel,16:05.90,JR-3
+557,https://tf.tfrrs.org/athletes/6132542/East_Tenn_St/Ben_O'Connor,"O'Connor, Ben","Apr 14, 2017",43,https://tf.tfrrs.org/teams/tf/TN_college_m_East_Tenn_St.html,East Tenn. St.,16:08.04,FR-1
+558,https://tf.tfrrs.org/athletes/6137146/Va_Military_Institute/Carlos_Fernandes,"Fernandes, Carlos","May 3, 2017",44,https://tf.tfrrs.org/teams/tf/VA_college_m_Va_Military_Institute.html,VMI,16:16.49,FR-1
+559,https://tf.tfrrs.org/athletes/5470748/Western_Carolina/Liam_Brooks,"Brooks, Liam","Mar 31, 2017",45,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,16:26.83,SO-2
+560,https://tf.tfrrs.org/athletes/5470750/Western_Carolina/Harrison_Conner,"Conner, Harrison","Apr 14, 2017",46,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,16:36.37,SO-2
+561,https://tf.tfrrs.org/athletes/5962581/Western_Carolina/Isaiah_Hanna,"Hanna, Isaiah","Apr 28, 2017",47,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,16:37.43,FR-1
+562,https://tf.tfrrs.org/athletes/5470751/Western_Carolina/Joel_Freeman,"Freeman, Joel","Apr 14, 2017",48,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,16:42.53,SO-2
+563,https://tf.tfrrs.org/athletes/5495054/Wofford/Dane_Szalwinski,"Szalwinski, Dane","Apr 14, 2017",49,https://tf.tfrrs.org/teams/tf/SC_college_m_Wofford.html,Wofford,16:53.78,SO-2
+564,https://tf.tfrrs.org/athletes/5978839/Wofford/Walker_Gibbs_,"Gibbs , Walker","Mar 31, 2017",50,https://tf.tfrrs.org/teams/tf/SC_college_m_Wofford.html,Wofford,16:57.16,FR-1
+565,https://tf.tfrrs.org/athletes/5962582/Western_Carolina/Ian_Reesh,"Reesh, Ian","Apr 28, 2017",51,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,17:05.39,FR-1
+566,https://tf.tfrrs.org/athletes/5962580/Western_Carolina/Jacob_DeAngelo,"DeAngelo, Jacob","Apr 28, 2017",52,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,17:06.20,FR-1
+567,https://tf.tfrrs.org/athletes/5962585/Western_Carolina/Adam__Urbaniuk,"Urbaniuk, Adam","Apr 28, 2017",53,https://tf.tfrrs.org/teams/tf/NC_college_m_Western_Carolina.html,Western Carolina,17:27.46,FR-1
+568,https://tf.tfrrs.org/athletes/4669867/Wofford/Kenneth_Atwood,"Atwood, Kenneth","Apr 14, 2017",54,https://tf.tfrrs.org/teams/tf/SC_college_m_Wofford.html,Wofford,19:23.69,SR-4
+569,https://tf.tfrrs.org/athletes/5499596/Tiffin/James_Ngandu,"Ngandu, James","Apr 13, 2017",1,https://tf.tfrrs.org/teams/tf/OH_college_m_Tiffin.html,Tiffin,13:46.63,SR-4
+570,https://tf.tfrrs.org/athletes/5103726/Grand_Valley_St/Zach_Panning,"Panning, Zach","Apr 13, 2017",2,https://tf.tfrrs.org/teams/tf/MI_college_m_Grand_Valley_St.html,Grand Valley St.,14:04.16,SO-2
+571,https://tf.tfrrs.org/athletes/4629860/Grand_Valley_St/Chris_May,"May, Chris","Mar 31, 2017",3,https://tf.tfrrs.org/teams/tf/MI_college_m_Grand_Valley_St.html,Grand Valley St.,14:11.68,JR-3
+572,https://tf.tfrrs.org/athletes/5103730/Grand_Valley_St/Brady_Selner,"Selner, Brady","Apr 14, 2017",4,https://tf.tfrrs.org/teams/tf/MI_college_m_Grand_Valley_St.html,Grand Valley St.,14:16.27,SR-4
+573,https://tf.tfrrs.org/athletes/5003947/Saginaw_Valley/Tom_Goforth,"Goforth, Tom","Mar 24, 2017",5,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,14:18.05,SO-2
+574,https://tf.tfrrs.org/athletes/4629858/Grand_Valley_St/Wuoi_Mach,"Mach, Wuoi","Apr 27, 2017",6,https://tf.tfrrs.org/teams/tf/MI_college_m_Grand_Valley_St.html,Grand Valley St.,14:29.79,JR-3
+575,https://tf.tfrrs.org/athletes/4986007/Ferris_State/Trevor_Holowaty,"Holowaty, Trevor","Apr 27, 2017",7,https://tf.tfrrs.org/teams/tf/MI_college_m_Ferris_State.html,Ferris State,14:35.18,JR-3
+576,https://tf.tfrrs.org/athletes/5496640/Saginaw_Valley/Parker_Eisengruber,"Eisengruber, Parker","Apr 14, 2017",8,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,14:36.75,FR-1
+577,https://tf.tfrrs.org/athletes/4547045/Saginaw_Valley/Joey_Southgate,"Southgate, Joey","Apr 27, 2017",9,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,14:38.37,SR-4
+578,https://tf.tfrrs.org/athletes/4515875/Northwood/Tyler_Jensen,"Jensen, Tyler","Apr 27, 2017",10,https://tf.tfrrs.org/teams/tf/MI_college_m_Northwood.html,Northwood (Mich.),14:38.60,SR-4
+579,https://tf.tfrrs.org/athletes/5476683/Ashland/Steven_Kapes,"Kapes, Steven","Mar 24, 2017",11,https://tf.tfrrs.org/teams/tf/OH_college_m_Ashland.html,Ashland,14:40.03,FR-1
+580,https://tf.tfrrs.org/athletes/5495793/Michigan_Tech/Matthew_Pahl,"Pahl, Matthew","Apr 27, 2017",12,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,14:42.43,SO-2
+581,https://tf.tfrrs.org/athletes/5003945/Saginaw_Valley/Clyde_Anderson,"Anderson, Clyde","Apr 14, 2017",13,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,14:46.71,SO-2
+582,https://tf.tfrrs.org/athletes/5496648/Saginaw_Valley/Eddie_Komph,"Komph, Eddie","Mar 31, 2017",14,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,14:48.22,JR-3
+583,https://tf.tfrrs.org/athletes/4532654/Lake_Erie/Dalton_Graham,"Graham, Dalton","May 3, 2017",15,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,14:51.15,SR-4
+584,https://tf.tfrrs.org/athletes/4508975/Ashland/Zach_Humrichouser,"Humrichouser, Zach","Apr 21, 2017",16,https://tf.tfrrs.org/teams/tf/OH_college_m_Ashland.html,Ashland,14:53.00,SR-4
+585,https://tf.tfrrs.org/athletes/4629869/Grand_Valley_St/Trevor_Sharnas,"Sharnas, Trevor","Apr 27, 2017",17,https://tf.tfrrs.org/teams/tf/MI_college_m_Grand_Valley_St.html,Grand Valley St.,14:55.43,JR-3
+586,https://tf.tfrrs.org/athletes/4565026/Walsh/Ben_Lehotay,"Lehotay, Ben","Mar 24, 2017",18,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,14:56.29,SR-4
+587,https://tf.tfrrs.org/athletes/5103735/Grand_Valley_St/Simon_Thorpe,"Thorpe, Simon","Mar 31, 2017",19,https://tf.tfrrs.org/teams/tf/MI_college_m_Grand_Valley_St.html,Grand Valley St.,14:58.86,SO-2
+588,https://tf.tfrrs.org/athletes/4534350/Hillsdale/Luke_Daigneault,"Daigneault, Luke","Apr 27, 2017",20,https://tf.tfrrs.org/teams/tf/MI_college_m_Hillsdale.html,Hillsdale,15:01.25,SO-2
+589,https://tf.tfrrs.org/athletes/5955977/Hillsdale/Joseph_Humes,"Humes, Joseph","Apr 21, 2017",21,https://tf.tfrrs.org/teams/tf/MI_college_m_Hillsdale.html,Hillsdale,15:01.67,FR-1
+590,https://tf.tfrrs.org/athletes/5496641/Saginaw_Valley/Tristan_Fackelman,"Fackelman, Tristan","Apr 14, 2017",22,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,15:01.71,SO-2
+591,https://tf.tfrrs.org/athletes/4532652/Lake_Erie/Vince_Horning,"Horning, Vince","Mar 23, 2017",23,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,15:06.77,SR-4
+592,https://tf.tfrrs.org/athletes/4552693/Michigan_Tech/Daniel_Kulas,"Kulas, Daniel","Apr 13, 2017",24,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,15:07.55,SR-4
+593,https://tf.tfrrs.org/athletes/4552692/Michigan_Tech/Jason_Saliga,"Saliga, Jason","Mar 10, 2017",25,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,15:10.23,SR-4
+594,https://tf.tfrrs.org/athletes/5496644/Saginaw_Valley/Timmy_Kimball,"Kimball, Timmy","Apr 14, 2017",26,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,15:13.07,FR-1
+595,https://tf.tfrrs.org/athletes/5968384/Walsh/Jacob_Caniford,"Caniford, Jacob","Mar 31, 2017",27,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,15:13.70,FR-1
+596,https://tf.tfrrs.org/athletes/5493772/Lake_Superior_State/Garrett_Smith,"Smith, Garrett","Apr 8, 2017",28,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,15:15.96,SO-2
+597,https://tf.tfrrs.org/athletes/5466342/Lake_Erie/Jordan_Pritchard,"Pritchard, Jordan","Mar 23, 2017",29,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,15:16.57,SO-2
+598,https://tf.tfrrs.org/athletes/4508971/Ashland/Jon_Albaugh,"Albaugh, Jon","Apr 28, 2017",30,https://tf.tfrrs.org/teams/tf/OH_college_m_Ashland.html,Ashland,15:18.03,SR-4
+599,https://tf.tfrrs.org/athletes/4981351/Ashland/Tyler_Lance,"Lance, Tyler","Apr 21, 2017",31,https://tf.tfrrs.org/teams/tf/OH_college_m_Ashland.html,Ashland,15:18.90,JR-3
+600,https://tf.tfrrs.org/athletes/5484268/Walsh/Spencer_Wirick,"Wirick, Spencer","Mar 31, 2017",32,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,15:20.00,FR-1
+601,https://tf.tfrrs.org/athletes/4508976/Ashland/Aubrey_Jordan,"Jordan, Aubrey","Apr 22, 2017",33,https://tf.tfrrs.org/teams/tf/OH_college_m_Ashland.html,Ashland,15:22.00,SR-4
+602,https://tf.tfrrs.org/athletes/5023699/Lake_Erie/Logan_Ebersole,"Ebersole, Logan","Mar 23, 2017",34,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,15:22.37,SO-2
+603,https://tf.tfrrs.org/athletes/5494132/Findlay/Jonathan_Allen,"Allen, Jonathan","Apr 7, 2017",35,https://tf.tfrrs.org/teams/tf/OH_college_m_Findlay.html,Findlay,15:24.32,SO-2
+604,https://tf.tfrrs.org/athletes/4636026/Ohio_Dominican/Andrew_Beier,"Beier, Andrew","Apr 1, 2017",36,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_Dominican.html,Ohio Dominican,15:30.90,SR-4
+605,https://tf.tfrrs.org/athletes/5497621/Ferris_State/Roan_Fahey,"Fahey, Roan","May 3, 2017",37,https://tf.tfrrs.org/teams/tf/MI_college_m_Ferris_State.html,Ferris State,15:31.46,SO-2
+606,https://tf.tfrrs.org/athletes/5497623/Ferris_State/Zach_Mckenzie,"Mckenzie, Zach","Apr 14, 2017",38,https://tf.tfrrs.org/teams/tf/MI_college_m_Ferris_State.html,Ferris State,15:33.35,SO-2
+607,https://tf.tfrrs.org/athletes/5103711/Grand_Valley_St/Sam_Butler,"Butler, Sam","Mar 31, 2017",39,https://tf.tfrrs.org/teams/tf/MI_college_m_Grand_Valley_St.html,Grand Valley St.,15:35.95,SO-2
+608,https://tf.tfrrs.org/athletes/5009140/Michigan_Tech/Grant_Brown,"Brown, Grant","Apr 27, 2017",40,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,15:36.54,JR-3
+609,https://tf.tfrrs.org/athletes/4508972/Ashland/Tommy_Menyes,"Menyes, Tommy","Mar 31, 2017",41,https://tf.tfrrs.org/teams/tf/OH_college_m_Ashland.html,Ashland,15:37.61,SR-4
+610,https://tf.tfrrs.org/athletes/5494139/Findlay/Michael_Taylor,"Taylor, Michael","Mar 24, 2017",42,https://tf.tfrrs.org/teams/tf/OH_college_m_Findlay.html,Findlay,15:39.31,SO-2
+611,https://tf.tfrrs.org/athletes/5596023/Hillsdale/Miles_Garn,"Garn, Miles","Apr 27, 2017",43,https://tf.tfrrs.org/teams/tf/MI_college_m_Hillsdale.html,Hillsdale,15:40.54,SO-2
+612,https://tf.tfrrs.org/athletes/4545530/Northwood/Will_Moench,"Moench, Will","Apr 27, 2017",44,https://tf.tfrrs.org/teams/tf/MI_college_m_Northwood.html,Northwood (Mich.),15:40.84,SR-4
+613,https://tf.tfrrs.org/athletes/5017299/Walsh/Justin__Maroni,"Maroni, Justin","Mar 31, 2017",45,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,15:42.19,JR-3
+614,https://tf.tfrrs.org/athletes/5644971/Ohio_Dominican/Wes_Pipher,"Pipher, Wes","Apr 7, 2017",46,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_Dominican.html,Ohio Dominican,15:46.01,SO-2
+615,https://tf.tfrrs.org/athletes/5009150/Michigan_Tech/Marcus_Shamberg,"Shamberg, Marcus","Mar 31, 2017",47,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,15:46.04,JR-3
+616,https://tf.tfrrs.org/athletes/5497622/Ferris_State/Damien_Halverson,"Halverson, Damien","Apr 27, 2017",48,https://tf.tfrrs.org/teams/tf/MI_college_m_Ferris_State.html,Ferris State,15:46.70,SO-2
+617,https://tf.tfrrs.org/athletes/6234086/Michigan_Tech/Nate_Carey,"Carey, Nate","Mar 10, 2017",49,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,15:48.79,FR-1
+618,https://tf.tfrrs.org/athletes/5463128/Northwood/Caleb_Barker,"Barker, Caleb","Apr 27, 2017",50,https://tf.tfrrs.org/teams/tf/MI_college_m_Northwood.html,Northwood (Mich.),15:48.98,FR-1
+619,https://tf.tfrrs.org/athletes/5496639/Saginaw_Valley/Tellis_Donajkowski,"Donajkowski, Tellis","Mar 31, 2017",51,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,15:49.26,FR-1
+620,https://tf.tfrrs.org/athletes/5494135/Findlay/Ty_Gleason,"Gleason, Ty","May 3, 2017",52,https://tf.tfrrs.org/teams/tf/OH_college_m_Findlay.html,Findlay,15:49.32,SO-2
+621,https://tf.tfrrs.org/athletes/6102467/Findlay/Jon_Anderson,"Anderson, Jon","Mar 24, 2017",53,https://tf.tfrrs.org/teams/tf/OH_college_m_Findlay.html,Findlay,15:50.21,SO-2
+622,https://tf.tfrrs.org/athletes/5484257/Walsh/Nick_Marino,"Marino, Nick","Apr 7, 2017",54,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,15:50.87,SO-2
+623,https://tf.tfrrs.org/athletes/5003948/Saginaw_Valley/Thomas_Kean,"Kean, Thomas","Mar 31, 2017",55,https://tf.tfrrs.org/teams/tf/MI_college_m_Saginaw_Valley.html,Saginaw Valley,15:51.79,JR-3
+624,https://tf.tfrrs.org/athletes/5493774/Lake_Superior_State/Thomas_VanSlembrouck,"VanSlembrouck, Thomas","Apr 1, 2017",56,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,15:52.70,FR-1
+625,https://tf.tfrrs.org/athletes/4109420/Lake_Superior_State/Adam_Birkeland,"Birkeland, Adam","Apr 1, 2017",57,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,15:53.22,SR-4
+626,https://tf.tfrrs.org/athletes/5952443/Ferris_State/Grant__Gabriel_,"Gabriel , Grant","Apr 27, 2017",58,https://tf.tfrrs.org/teams/tf/MI_college_m_Ferris_State.html,Ferris State,15:54.22,FR-1
+627,https://tf.tfrrs.org/athletes/5484261/Walsh/Alexander_Reimund,"Reimund, Alexander","Apr 7, 2017",59,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,15:54.71,SO-2
+628,https://tf.tfrrs.org/athletes/6166907/Walsh/Jacob_Turner,"Turner, Jacob","Mar 24, 2017",60,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,15:56.42,FR-1
+629,https://tf.tfrrs.org/athletes/5493777/Lake_Superior_State/Parker_Wyngaard,"Wyngaard, Parker","May 3, 2017",61,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,15:56.56,SO-2
+630,https://tf.tfrrs.org/athletes/5493769/Lake_Superior_State/Jack_Miles,"Miles, Jack","Apr 1, 2017",62,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,15:57.78,SO-2
+631,https://tf.tfrrs.org/athletes/5955980/Hillsdale/Nicholas_Wondaal,"Wondaal, Nicholas","Apr 27, 2017",63,https://tf.tfrrs.org/teams/tf/MI_college_m_Hillsdale.html,Hillsdale,15:58.13,FR-1
+632,https://tf.tfrrs.org/athletes/6234087/Michigan_Tech/Chase_Scheel,"Scheel, Chase","Apr 21, 2017",64,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,15:58.59,FR-1
+633,https://tf.tfrrs.org/athletes/5466340/Lake_Erie/Austin_Jones,"Jones, Austin","Mar 23, 2017",65,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,16:00.80,FR-1
+634,https://tf.tfrrs.org/athletes/5466341/Lake_Erie/George_Lesnak,"Lesnak, George","Apr 22, 2017",66,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,16:06.40,SO-2
+635,https://tf.tfrrs.org/athletes/4514670/Lake_Superior_State/Ryan_Rogers,"Rogers, Ryan","Apr 8, 2017",67,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,16:09.39,SR-4
+636,https://tf.tfrrs.org/athletes/5494136/Findlay/Austin_Guthrie,"Guthrie, Austin","Apr 7, 2017",68,https://tf.tfrrs.org/teams/tf/OH_college_m_Findlay.html,Findlay,16:11.64,SO-2
+637,https://tf.tfrrs.org/athletes/5968395/Walsh/Nathan_Hadley,"Hadley, Nathan","Mar 31, 2017",69,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,16:12.95,FR-1
+638,https://tf.tfrrs.org/athletes/5596096/Hillsdale/Santiago_Quintana,"Quintana, Santiago","May 10, 2017",70,https://tf.tfrrs.org/teams/tf/MI_college_m_Hillsdale.html,Hillsdale,16:14.05,JR-3
+639,https://tf.tfrrs.org/athletes/5113992/Ohio_Dominican/Chad_Ellis,"Ellis, Chad","Mar 10, 2017",71,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_Dominican.html,Ohio Dominican,16:15.66,JR-3
+640,https://tf.tfrrs.org/athletes/5981697/Tiffin/Trenton_Yoder,"Yoder, Trenton","Apr 1, 2017",72,https://tf.tfrrs.org/teams/tf/OH_college_m_Tiffin.html,Tiffin,16:19.67,FR-1
+641,https://tf.tfrrs.org/athletes/4636029/Ohio_Dominican/Patrick_Ferguson,"Ferguson, Patrick","Mar 24, 2017",73,https://tf.tfrrs.org/teams/tf/OH_college_m_Ohio_Dominican.html,Ohio Dominican,16:26.57,SR-4
+642,https://tf.tfrrs.org/athletes/6234084/Michigan_Tech/Bobby_Beggs,"Beggs, Bobby","Apr 21, 2017",74,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,16:26.93,FR-1
+643,https://tf.tfrrs.org/athletes/4071013/Michigan_Tech/Christopher_Winslow,"Winslow, Christopher","Apr 21, 2017",75,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,16:27.95,SR-4
+644,https://tf.tfrrs.org/athletes/5466336/Lake_Erie/Brandon_Bryan,"Bryan, Brandon","May 3, 2017",76,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,16:40.34,SO-2
+645,https://tf.tfrrs.org/athletes/5484265/Walsh/Isaac_Verdow,"Verdow, Isaac","Apr 15, 2017",77,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,16:42.89,SO-2
+646,https://tf.tfrrs.org/athletes/5020340/Tiffin/Christopher_McKown,"McKown, Christopher","Apr 14, 2017",78,https://tf.tfrrs.org/teams/tf/OH_college_m_Tiffin.html,Tiffin,16:45.01,SR-4
+647,https://tf.tfrrs.org/athletes/5493776/Lake_Superior_State/Zachary_Workman,"Workman, Zachary","Apr 8, 2017",79,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,16:45.65,SO-2
+648,https://tf.tfrrs.org/athletes/6234085/Michigan_Tech/Riley_Hibbard,"Hibbard, Riley","Mar 31, 2017",80,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,16:46.55,FR-1
+649,https://tf.tfrrs.org/athletes/5495753/Michigan_Tech/Bernard_Kluskens,"Kluskens, Bernard","Apr 21, 2017",81,https://tf.tfrrs.org/teams/tf/MI_college_m_Michigan_Tech.html,Michigan Tech,16:48.64,SO-2
+650,https://tf.tfrrs.org/athletes/5493767/Lake_Superior_State/Jacob_Baker,"Baker, Jacob","Apr 14, 2017",82,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,16:54.99,SR-4
+651,https://tf.tfrrs.org/athletes/4565028/Walsh/Eric_Riesterer,"Riesterer, Eric","Mar 31, 2017",83,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,17:12.39,SR-4
+652,https://tf.tfrrs.org/athletes/5020344/Tiffin/Daniel_Maher,"Maher, Daniel","Apr 14, 2017",84,https://tf.tfrrs.org/teams/tf/OH_college_m_Tiffin.html,Tiffin,17:12.70,JR-3
+653,https://tf.tfrrs.org/athletes/5493771/Lake_Superior_State/Dylan__Richards,"Richards, Dylan","Apr 1, 2017",85,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,17:24.66,SO-2
+654,https://tf.tfrrs.org/athletes/5493773/Lake_Superior_State/Travis_Sutton,"Sutton, Travis","Apr 14, 2017",86,https://tf.tfrrs.org/teams/tf/MI_college_m_Lake_Superior_State.html,Lake Superior State,17:40.66,SO-2
+655,https://tf.tfrrs.org/athletes/5968385/Walsh/Jared_Cline,"Cline, Jared","Mar 31, 2017",87,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,17:46.98,FR-1
+656,https://tf.tfrrs.org/athletes/6084408/Lake_Erie/Joseph_Masar,"Masar, Joseph","Apr 22, 2017",88,https://tf.tfrrs.org/teams/tf/OH_college_m_Lake_Erie.html,Lake Erie,17:59.33,FR-1
+657,https://tf.tfrrs.org/athletes/5968392/Walsh/Noah_LaVictoire,"LaVictoire, Noah","Mar 24, 2017",89,https://tf.tfrrs.org/teams/tf/OH_college_m_Walsh.html,Walsh,18:21.79,FR-1
+658,https://tf.tfrrs.org/athletes/4533760/Rogers_State/Baylor_Harvey,"Harvey, Baylor","May 25, 2017",1,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,14:16.55,JR-3
+659,https://tf.tfrrs.org/athletes/4593523/East_Central/Richard_Mora,"Mora, Richard","Apr 13, 2017",2,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,14:52.12,SR-4
+660,https://tf.tfrrs.org/athletes/5464347/Rogers_State/Colton_Green,"Green, Colton","Apr 20, 2017",3,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,14:53.12,FR-1
+661,https://tf.tfrrs.org/athletes/5496487/East_Central/Larry_Filer,"Filer, Larry","Apr 1, 2017",4,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,14:58.75,SO-2
+662,https://tf.tfrrs.org/athletes/4529441/Oklahoma_Christian/Kyle_Broaddrick,"Broaddrick, Kyle","May 6, 2017",5,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,14:59.93,SR-4
+663,https://tf.tfrrs.org/athletes/5009513/Oklahoma_Baptist/Blaine_Whitson,"Whitson, Blaine","Apr 20, 2017",6,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Baptist.html,Oklahoma Baptist,15:00.81,JR-3
+664,https://tf.tfrrs.org/athletes/6082282/Harding/Bartek_Kwiecinski,"Kwiecinski, Bartek","Mar 31, 2017",7,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,15:00.87,FR-1
+665,https://tf.tfrrs.org/athletes/5500939/Southern_Arkansas/Doug_Palmer,"Palmer, Doug","Apr 6, 2017",8,https://tf.tfrrs.org/teams/tf/AR_college_m_Southern_Arkansas.html,Southern Arkansas,15:01.83,SR-4
+666,https://tf.tfrrs.org/athletes/5496492/East_Central/Cole_Montgomery,"Montgomery, Cole","Apr 20, 2017",9,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,15:01.90,SO-2
+667,https://tf.tfrrs.org/athletes/4508707/Harding/Lucas_Goodspeed,"Goodspeed, Lucas","Mar 17, 2017",10,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,15:03.03,JR-3
+668,https://tf.tfrrs.org/athletes/4508704/Harding/Russell_Chase,"Chase, Russell","Mar 31, 2017",11,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,15:08.27,SR-4
+669,https://tf.tfrrs.org/athletes/5593991/Harding/Larry__Lopez,"Lopez, Larry","Mar 31, 2017",12,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,15:16.49,SO-2
+670,https://tf.tfrrs.org/athletes/4508703/Harding/Daniel_Evans,"Evans, Daniel","Apr 20, 2017",13,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,15:17.23,SR-4
+671,https://tf.tfrrs.org/athletes/5464348/Rogers_State/Tristan_Owens,"Owens, Tristan","Apr 20, 2017",14,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,15:17.67,FR-1
+672,https://tf.tfrrs.org/athletes/4105126/Oklahoma_Christian/Timothy_Zuercher,"Zuercher, Timothy","May 6, 2017",15,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,15:19.63,SR-4
+673,https://tf.tfrrs.org/athletes/4508702/Harding/Mesa_Allison,"Allison, Mesa","Apr 20, 2017",16,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,15:26.09,SR-4
+674,https://tf.tfrrs.org/athletes/5503837/Southern_Nazarene/Luis_Guerra,"Guerra, Luis","Apr 20, 2017",17,https://tf.tfrrs.org/teams/tf/OK_college_m_Southern_Nazarene.html,Southern Nazarene,15:33.39,SO-2
+675,https://tf.tfrrs.org/athletes/5965104/Oklahoma_Christian/Derek_Espinoza,"Espinoza, Derek","Apr 20, 2017",18,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,15:33.66,FR-1
+676,https://tf.tfrrs.org/athletes/5500934/Southern_Arkansas/Lane__Alexander,"Alexander, Lane","Apr 20, 2017",19,https://tf.tfrrs.org/teams/tf/AR_college_m_Southern_Arkansas.html,Southern Arkansas,15:34.08,SO-2
+677,https://tf.tfrrs.org/athletes/4983075/Oklahoma_Christian/Emory_Lobley,"Lobley, Emory","Apr 7, 2017",20,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,15:34.18,JR-3
+678,https://tf.tfrrs.org/athletes/5466079/Oklahoma_Christian/Trevor_Talley,"Talley, Trevor","Apr 20, 2017",21,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,15:34.42,SO-2
+679,https://tf.tfrrs.org/athletes/5464344/Rogers_State/Seth_Whittington,"Whittington, Seth","Apr 1, 2017",22,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,15:34.58,SO-2
+680,https://tf.tfrrs.org/athletes/5970128/Rogers_State/Nick_Williams,"Williams, Nick","Apr 28, 2017",23,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,15:35.43,FR-1
+681,https://tf.tfrrs.org/athletes/5489547/Oklahoma_Baptist/Jacob_Janzen,"Janzen, Jacob","Apr 14, 2017",24,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Baptist.html,Oklahoma Baptist,15:37.42,SO-2
+682,https://tf.tfrrs.org/athletes/5032062/Rogers_State/Ryan_Alexander,"Alexander, Ryan","Mar 24, 2017",25,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,15:39.30,JR-3
+683,https://tf.tfrrs.org/athletes/4983073/Oklahoma_Christian/Sisay_Gillock,"Gillock, Sisay","Apr 7, 2017",26,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,15:45.30,JR-3
+684,https://tf.tfrrs.org/athletes/4998188/Southern_Arkansas/Cody_Fox,"Fox, Cody","Apr 6, 2017",27,https://tf.tfrrs.org/teams/tf/AR_college_m_Southern_Arkansas.html,Southern Arkansas,15:47.22,JR-3
+685,https://tf.tfrrs.org/athletes/5979074/East_Central/DANIEL_CAMARILLO,"CAMARILLO, DANIEL","Apr 20, 2017",28,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,15:51.42,FR-1
+686,https://tf.tfrrs.org/athletes/5030200/East_Central/Caleb_Biles,"Biles, Caleb","Apr 20, 2017",29,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,15:51.87,FR-1
+687,https://tf.tfrrs.org/athletes/5500936/Southern_Arkansas/Bradyn_Gower,"Gower, Bradyn","Mar 10, 2017",30,https://tf.tfrrs.org/teams/tf/AR_college_m_Southern_Arkansas.html,Southern Arkansas,15:54.05,SO-2
+688,https://tf.tfrrs.org/athletes/5103016/Harding/Jordan_Turney,"Turney, Jordan","Mar 25, 2017",31,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,15:58.03,SO-2
+689,https://tf.tfrrs.org/athletes/4529443/Oklahoma_Christian/Evan__Durrill,"Durrill, Evan","Apr 7, 2017",32,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,15:59.52,SR-4
+690,https://tf.tfrrs.org/athletes/5496491/East_Central/Chris_McGowan,"McGowan, Chris","Apr 20, 2017",33,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,16:04.75,SO-2
+691,https://tf.tfrrs.org/athletes/4593521/East_Central/Noel__Figueroa,"Figueroa, Noel","Mar 24, 2017",34,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,16:05.36,SR-4
+692,https://tf.tfrrs.org/athletes/5970125/Rogers_State/Byrun_Ratliff,"Ratliff, Byrun","Apr 28, 2017",35,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,16:06.65,FR-1
+693,https://tf.tfrrs.org/athletes/5489548/Oklahoma_Baptist/Grant_Alexander,"Alexander, Grant","Mar 24, 2017",36,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Baptist.html,Oklahoma Baptist,16:07.72,SO-2
+694,https://tf.tfrrs.org/athletes/5964003/Oklahoma_Baptist/DeAngelo_Robles,"Robles, DeAngelo","Mar 9, 2017",37,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Baptist.html,Oklahoma Baptist,16:13.22,FR-1
+695,https://tf.tfrrs.org/athletes/5464346/Rogers_State/Daniel_Driskill,"Driskill, Daniel","Apr 28, 2017",38,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,16:15.09,SR-4
+696,https://tf.tfrrs.org/athletes/5984367/Southern_Arkansas/Harrison_Watson,"Watson, Harrison","Mar 10, 2017",39,https://tf.tfrrs.org/teams/tf/AR_college_m_Southern_Arkansas.html,Southern Arkansas,16:15.18,FR-1
+697,https://tf.tfrrs.org/athletes/5501031/Southern_Arkansas/Nathan_Poovey,"Poovey, Nathan","Mar 17, 2017",40,https://tf.tfrrs.org/teams/tf/AR_college_m_Southern_Arkansas.html,Southern Arkansas,16:18.20,SO-2
+698,https://tf.tfrrs.org/athletes/5459132/Oklahoma_Christian/Jake_Weith,"Weith, Jake","Apr 7, 2017",41,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Christian.html,Oklahoma Christian,16:20.52,SO-2
+699,https://tf.tfrrs.org/athletes/5464345/Rogers_State/Cruzito_Chavez,"Chavez, Cruzito","Apr 28, 2017",42,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,16:21.96,SO-2
+700,https://tf.tfrrs.org/athletes/5979075/East_Central/CAMERON_CORBIN,"CORBIN, CAMERON","Mar 9, 2017",43,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,16:24.47,FR-1
+701,https://tf.tfrrs.org/athletes/5979076/East_Central/TOMMY_GREBE,"GREBE, TOMMY","Apr 20, 2017",44,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,16:24.91,FR-1
+702,https://tf.tfrrs.org/athletes/5964004/Oklahoma_Baptist/Garrett_Elmore,"Elmore, Garrett","Mar 9, 2017",45,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Baptist.html,Oklahoma Baptist,16:28.01,FR-1
+703,https://tf.tfrrs.org/athletes/6082280/Harding/Keneth_Chelelgo,"Chelelgo, Keneth","Mar 17, 2017",46,https://tf.tfrrs.org/teams/tf/AR_college_m_Harding.html,Harding,16:37.20,FR-1
+704,https://tf.tfrrs.org/athletes/5970133/Rogers_State/Justin_Noble,"Noble, Justin","Mar 24, 2017",47,https://tf.tfrrs.org/teams/tf/OK_college_m_Rogers_State.html,Rogers State,16:54.71,FR-1
+705,https://tf.tfrrs.org/athletes/5489549/Oklahoma_Baptist/Nathan_Crowson,"Crowson, Nathan","Mar 9, 2017",48,https://tf.tfrrs.org/teams/tf/OK_college_m_Oklahoma_Baptist.html,Oklahoma Baptist,17:02.06,SO-2
+706,https://tf.tfrrs.org/athletes/5496490/East_Central/Kevin__Matthews,"Matthews, Kevin","Mar 9, 2017",49,https://tf.tfrrs.org/teams/tf/OK_college_m_East_Central.html,East Central,17:23.73,JR-3
+707,https://tf.tfrrs.org/athletes/4183056/St_Scholastica/Chris_Lawson,"Lawson, Chris","Apr 18, 2015",1,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Scholastica.html,St. Scholastica,15:10.23,JR-3
+708,https://tf.tfrrs.org/athletes/4519766/Bethany_Lutheran/Owen_Richardson,"Richardson, Owen","May 8, 2015",2,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethany_Lutheran.html,Bethany Lutheran,15:39.76,SO-2
+709,https://tf.tfrrs.org/athletes/4403208/Martin_Luther/Grey_Davis,"Davis, Grey","Apr 23, 2015",3,https://tf.tfrrs.org/teams/tf/MN_college_m_Martin_Luther.html,Martin Luther,16:06.28,JR-3
+710,https://tf.tfrrs.org/athletes/4639260/St_Scholastica/Jacob__Gallagher,"Gallagher, Jacob","May 8, 2015",4,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Scholastica.html,St. Scholastica,16:12.76,SO-2
+711,https://tf.tfrrs.org/athletes/4519767/Bethany_Lutheran/Ethan_Schwartz,"Schwartz, Ethan","May 8, 2015",5,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethany_Lutheran.html,Bethany Lutheran,16:33.42,SO-2
+712,https://tf.tfrrs.org/athletes/5323567/Martin_Luther/Justin_Wilkens,"Wilkens, Justin","Apr 11, 2015",6,https://tf.tfrrs.org/teams/tf/MN_college_m_Martin_Luther.html,Martin Luther,16:41.03,FR-1
+713,https://tf.tfrrs.org/athletes/4639271/St_Scholastica/Adam_Wallenta,"Wallenta, Adam","Apr 25, 2015",7,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Scholastica.html,St. Scholastica,16:42.20,SO-2
+714,https://tf.tfrrs.org/athletes/3817464/North_Central_MN/Jake_Guttormson,"Guttormson, Jake","Apr 23, 2015",8,https://tf.tfrrs.org/teams/tf/MN_college_m_North_Central_MN.html,North Central (Minn.),16:53.35,JR-3
+715,https://tf.tfrrs.org/athletes/5323569/Martin_Luther/Jonathon_Fleischmann,"Fleischmann, Jonathon","May 1, 2015",9,https://tf.tfrrs.org/teams/tf/MN_college_m_Martin_Luther.html,Martin Luther,17:09.90,FR-1
+716,https://tf.tfrrs.org/athletes/4984751/Northwestern_MN/Kyle_Granger,"Granger, Kyle","Apr 23, 2015",10,https://tf.tfrrs.org/teams/tf/MN_college_m_Northwestern_MN.html,U of Northwestern Saint Paul,17:13.33,FR-1
+717,https://tf.tfrrs.org/athletes/5014447/Minnesota_Morris/Daniel_Stelljes,"Stelljes, Daniel","Apr 18, 2015",11,https://tf.tfrrs.org/teams/tf/MN_college_m_Minnesota_Morris.html,Minnesota-Morris,17:16.66,JR-3
+718,https://tf.tfrrs.org/athletes/4984754/Northwestern_MN/Jackson_Peterson,"Peterson, Jackson","May 8, 2015",12,https://tf.tfrrs.org/teams/tf/MN_college_m_Northwestern_MN.html,U of Northwestern Saint Paul,17:21.33,FR-1
+719,https://tf.tfrrs.org/athletes/4519770/Bethany_Lutheran/Lucas_Malimanek,"Malimanek, Lucas","May 8, 2015",13,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethany_Lutheran.html,Bethany Lutheran,17:22.12,SO-2
+720,https://tf.tfrrs.org/athletes/4660778/Northwestern_MN/Nick_Lubben,"Lubben, Nick","May 8, 2015",14,https://tf.tfrrs.org/teams/tf/MN_college_m_Northwestern_MN.html,U of Northwestern Saint Paul,17:25.44,SO-2
+721,https://tf.tfrrs.org/athletes/4984748/Northwestern_MN/Steve_Baridon,"Baridon, Steve","May 8, 2015",15,https://tf.tfrrs.org/teams/tf/MN_college_m_Northwestern_MN.html,U of Northwestern Saint Paul,17:33.34,FR-1
+722,https://tf.tfrrs.org/athletes/5014444/Minnesota_Morris/Gabriel_Davila,"Davila, Gabriel","Apr 25, 2015",16,https://tf.tfrrs.org/teams/tf/MN_college_m_Minnesota_Morris.html,Minnesota-Morris,17:38.54,FR-1
+723,https://tf.tfrrs.org/athletes/3780100/Minnesota_Morris/Daniel_Tiernan,"Tiernan, Daniel","Apr 11, 2015",17,https://tf.tfrrs.org/teams/tf/MN_college_m_Minnesota_Morris.html,Minnesota-Morris,17:43.55,JR-3
+724,https://tf.tfrrs.org/athletes/4692061/Minnesota_Morris/Bailey_Denzer,"Denzer, Bailey","Apr 11, 2015",18,https://tf.tfrrs.org/teams/tf/MN_college_m_Minnesota_Morris.html,Minnesota-Morris,18:06.09,JR-3
+725,https://tf.tfrrs.org/athletes/3780099/Minnesota_Morris/Declan_McCrory,"McCrory, Declan","Apr 11, 2015",19,https://tf.tfrrs.org/teams/tf/MN_college_m_Minnesota_Morris.html,Minnesota-Morris,18:11.44,SR-4
+726,https://tf.tfrrs.org/athletes/5014446/Minnesota_Morris/Schuyler_Moore,"Moore, Schuyler","Apr 25, 2015",20,https://tf.tfrrs.org/teams/tf/MN_college_m_Minnesota_Morris.html,Minnesota-Morris,18:39.82,FR-1
+727,https://tf.tfrrs.org/athletes/5116206/St_Scholastica/Victor_Pilon,"Pilon, Victor","Apr 11, 2015",21,https://tf.tfrrs.org/teams/tf/MN_college_m_St_Scholastica.html,St. Scholastica,19:01.10,SO-2
+728,https://tf.tfrrs.org/athletes/4997469/Bethany_Lutheran/David_Luehring,"Luehring, David","May 1, 2015",22,https://tf.tfrrs.org/teams/tf/MN_college_m_Bethany_Lutheran.html,Bethany Lutheran,19:25.14,FR-1
+729,https://tf.tfrrs.org/athletes/4593131/StMary-KS/Josh_Whittaker,"Whittaker, Josh","Apr 8, 2015",1,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:08.80,SR-4
+730,https://tf.tfrrs.org/athletes/5165479/StMary-KS/Ryan_Pulsifer,"Pulsifer, Ryan","Apr 8, 2015",2,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:12.27,JR-3
+731,https://tf.tfrrs.org/athletes/4174753/StMary-KS/Brooks_Ballou,"Ballou, Brooks","Apr 8, 2015",3,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:14.21,SR-4
+732,https://tf.tfrrs.org/athletes/5036996/StMary-KS/Tony_Weber,"Weber, Tony","Apr 15, 2015",4,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:19.99,FR-1
+733,https://tf.tfrrs.org/athletes/5003850/Kansas_Wesleyan/Louis_Edmiston,"Edmiston, Louis","Apr 8, 2015",5,https://tf.tfrrs.org/teams/tf/KS_college_m_Kansas_Wesleyan.html,Kansas Wesleyan,15:26.25,JR-3
+734,https://tf.tfrrs.org/athletes/3758839/Tabor/Joel_Allen,"Allen, Joel","Apr 8, 2015",6,https://tf.tfrrs.org/teams/tf/KS_college_m_Tabor.html,Tabor,15:27.24,SR-4
+735,https://tf.tfrrs.org/athletes/4152965/Ottawa/Jeo_Mendez,"Mendez, Jeo","Mar 28, 2015",7,https://tf.tfrrs.org/teams/tf/KS_college_m_Ottawa.html,Ottawa,15:29.06,SR-4
+736,https://tf.tfrrs.org/athletes/4599424/McPherson/Dixon_Cooney,"Cooney, Dixon","Mar 27, 2015",8,https://tf.tfrrs.org/teams/tf/KS_college_m_McPherson.html,McPherson,15:30.33,SO-2
+737,https://tf.tfrrs.org/athletes/3757346/Friends/Mitch_Heller,"Heller, Mitch","Apr 8, 2015",9,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,15:31.33,SR-4
+738,https://tf.tfrrs.org/athletes/5037013/StMary-KS/John_C_Graham,"Graham, John C","Apr 10, 2015",10,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:31.77,FR-1
+739,https://tf.tfrrs.org/athletes/4572007/Friends/Maxwell_Burley,"Burley, Maxwell","Apr 8, 2015",11,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,15:35.19,SO-2
+740,https://tf.tfrrs.org/athletes/5036953/StMary-KS/Patrick_Rachford,"Rachford, Patrick","Mar 27, 2015",12,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:39.19,JR-3
+741,https://tf.tfrrs.org/athletes/4593133/StMary-KS/Jacob_Sherman,"Sherman, Jacob","Apr 8, 2015",13,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:42.78,SO-2
+742,https://tf.tfrrs.org/athletes/5036991/StMary-KS/Andres_Guerrero,"Guerrero, Andres","Mar 27, 2015",14,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:44.92,JR-3
+743,https://tf.tfrrs.org/athletes/5115522/Friends/Easton_Moore,"Moore, Easton","Apr 4, 2015",15,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,15:45.86,FR-1
+744,https://tf.tfrrs.org/athletes/3730552/Ottawa/Cole_Carlson,"Carlson, Cole","Mar 28, 2015",16,https://tf.tfrrs.org/teams/tf/KS_college_m_Ottawa.html,Ottawa,15:46.24,SR-4
+745,https://tf.tfrrs.org/athletes/4174750/StMary-KS/Russell_Brown,"Brown, Russell","Mar 27, 2015",17,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),15:49.70,JR-3
+746,https://tf.tfrrs.org/athletes/5003849/Kansas_Wesleyan/Nick_Robinson,"Robinson, Nick","Apr 22, 2015",18,https://tf.tfrrs.org/teams/tf/KS_college_m_Kansas_Wesleyan.html,Kansas Wesleyan,15:51.04,JR-3
+747,https://tf.tfrrs.org/athletes/4599422/McPherson/Christopher__Newell,"Newell, Christopher","Mar 27, 2015",19,https://tf.tfrrs.org/teams/tf/KS_college_m_McPherson.html,McPherson,16:06.54,SR-4
+748,https://tf.tfrrs.org/athletes/4593132/StMary-KS/Garrett_Colglazier,"Colglazier, Garrett","Apr 22, 2015",20,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),16:08.99,SR-4
+749,https://tf.tfrrs.org/athletes/4595865/Sterling/Joe_Magana,"Magana, Joe","Apr 2, 2015",21,https://tf.tfrrs.org/teams/tf/KS_college_m_Sterling.html,Sterling,16:16.36,SR-4
+750,https://tf.tfrrs.org/athletes/5003838/Kansas_Wesleyan/Christian_Perez,"Perez, Christian","Apr 8, 2015",22,https://tf.tfrrs.org/teams/tf/KS_college_m_Kansas_Wesleyan.html,Kansas Wesleyan,16:16.89,FR-1
+751,https://tf.tfrrs.org/athletes/3757367/Friends/Peyton_Wade,"Wade, Peyton","Mar 27, 2015",23,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,16:17.03,SR-4
+752,https://tf.tfrrs.org/athletes/5081488/Ottawa/Brian__Newkirk,"Newkirk, Brian","Apr 4, 2015",24,https://tf.tfrrs.org/teams/tf/KS_college_m_Ottawa.html,Ottawa,16:20.44,FR-1
+753,https://tf.tfrrs.org/athletes/3680452/Southwestern_KS/Nick_Warnke,"Warnke, Nick","Mar 12, 2015",25,https://tf.tfrrs.org/teams/tf/KS_college_m_Southwestern_KS.html,Southwestern (Kan.),16:20.91,SR-4
+754,https://tf.tfrrs.org/athletes/4599423/McPherson/Chris_Le,"Le, Chris","Mar 27, 2015",26,https://tf.tfrrs.org/teams/tf/KS_college_m_McPherson.html,McPherson,16:22.29,SR-4
+755,https://tf.tfrrs.org/athletes/4165634/Friends/Andrew_Means,"Means, Andrew","Mar 12, 2015",27,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,16:23.10,SR-4
+756,https://tf.tfrrs.org/athletes/3705585/Tabor/Garrett_Daugherty,"Daugherty, Garrett","Mar 27, 2015",28,https://tf.tfrrs.org/teams/tf/KS_college_m_Tabor.html,Tabor,16:25.86,SR-4
+757,https://tf.tfrrs.org/athletes/4114140/Southwestern_KS/Caleb_Jackson,"Jackson, Caleb","Apr 18, 2015",29,https://tf.tfrrs.org/teams/tf/KS_college_m_Southwestern_KS.html,Southwestern (Kan.),16:30.27,JR-3
+758,https://tf.tfrrs.org/athletes/4091875/Kansas_Wesleyan/Jason_Berry,"Berry, Jason","Apr 22, 2015",30,https://tf.tfrrs.org/teams/tf/KS_college_m_Kansas_Wesleyan.html,Kansas Wesleyan,16:32.57,SR-4
+759,https://tf.tfrrs.org/athletes/4572006/Friends/Brooks_Rummery,"Rummery, Brooks","Apr 8, 2015",31,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,16:34.30,SO-2
+760,https://tf.tfrrs.org/athletes/4599425/McPherson/Kurt_Katzdorn,"Katzdorn, Kurt","Apr 18, 2015",32,https://tf.tfrrs.org/teams/tf/KS_college_m_McPherson.html,McPherson,16:37.65,SO-2
+761,https://tf.tfrrs.org/athletes/4515989/Kansas_Wesleyan/Ian_Woods,"Woods, Ian","Apr 8, 2015",33,https://tf.tfrrs.org/teams/tf/KS_college_m_Kansas_Wesleyan.html,Kansas Wesleyan,16:39.29,SO-2
+762,https://tf.tfrrs.org/athletes/4998208/Southwestern_KS/Jersey_Boydstun,"Boydstun, Jersey","Apr 18, 2015",33,https://tf.tfrrs.org/teams/tf/KS_college_m_Southwestern_KS.html,Southwestern (Kan.),16:39.29,FR-1
+763,https://tf.tfrrs.org/athletes/3757354/Friends/Brock_Nooney,"Nooney, Brock","Apr 18, 2015",35,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,16:41.48,SR-4
+764,https://tf.tfrrs.org/athletes/4599427/McPherson/Jordan_Bost,"Bost, Jordan","Apr 18, 2015",36,https://tf.tfrrs.org/teams/tf/KS_college_m_McPherson.html,McPherson,16:43.94,SO-2
+765,https://tf.tfrrs.org/athletes/4564177/Ottawa/Evan_Smith,"Smith, Evan","Apr 17, 2015",37,https://tf.tfrrs.org/teams/tf/KS_college_m_Ottawa.html,Ottawa,16:47.07,JR-3
+766,https://tf.tfrrs.org/athletes/3766098/Southwestern_KS/Brandon_Hatch,"Hatch, Brandon","Apr 18, 2015",38,https://tf.tfrrs.org/teams/tf/KS_college_m_Southwestern_KS.html,Southwestern (Kan.),16:53.02,SR-4
+767,https://tf.tfrrs.org/athletes/4515990/Kansas_Wesleyan/Garrett_Young,"Young, Garrett","Mar 27, 2015",39,https://tf.tfrrs.org/teams/tf/KS_college_m_Kansas_Wesleyan.html,Kansas Wesleyan,16:55.81,SO-2
+768,https://tf.tfrrs.org/athletes/4595866/Sterling/Isaac_Barnhart,"Barnhart, Isaac","Apr 2, 2015",40,https://tf.tfrrs.org/teams/tf/KS_college_m_Sterling.html,Sterling,16:57.97,SO-2
+769,https://tf.tfrrs.org/athletes/4527901/Southwestern_KS/Devin_Hlavenka,"Hlavenka, Devin","Apr 18, 2015",41,https://tf.tfrrs.org/teams/tf/KS_college_m_Southwestern_KS.html,Southwestern (Kan.),16:58.51,SO-2
+770,https://tf.tfrrs.org/athletes/5115524/Friends/Joseph__Newman,"Newman, Joseph","May 1, 2015",42,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,17:09.05,FR-1
+771,https://tf.tfrrs.org/athletes/5115515/Friends/Thes_Kascsak,"Kascsak, Thes","Apr 4, 2015",43,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,17:12.21,FR-1
+772,https://tf.tfrrs.org/athletes/4564173/Ottawa/Dallas_Gloss,"Gloss, Dallas","Apr 4, 2015",44,https://tf.tfrrs.org/teams/tf/KS_college_m_Ottawa.html,Ottawa,17:20.27,SO-2
+773,https://tf.tfrrs.org/athletes/4115947/Bethel_KS/Laird_Goertzen,"Goertzen, Laird","Apr 8, 2015",45,https://tf.tfrrs.org/teams/tf/KS_college_m_Bethel_KS.html,Bethel (Kan.),17:21.15,JR-3
+774,https://tf.tfrrs.org/athletes/5009090/Friends/Jacob_Newman,"Newman, Jacob","Apr 8, 2015",46,https://tf.tfrrs.org/teams/tf/KS_college_m_Friends.html,Friends,17:26.45,FR-1
+775,https://tf.tfrrs.org/athletes/5036950/StMary-KS/Kyle_Buske,"Buske, Kyle","Apr 10, 2015",47,https://tf.tfrrs.org/teams/tf/KS_college_m_StMary-KS.html,St. Mary (Kan.),17:40.12,JR-3
+776,https://tf.tfrrs.org/athletes/4998206/Southwestern_KS/Zachery_Lagunas,"Lagunas, Zachery","May 1, 2015",48,https://tf.tfrrs.org/teams/tf/KS_college_m_Southwestern_KS.html,Southwestern (Kan.),17:42.08,FR-1
+777,https://tf.tfrrs.org/athletes/5071966/Bethany_KS/Ivan__Perez,"Perez, Ivan","May 1, 2015",49,https://tf.tfrrs.org/teams/tf/KS_college_m_Bethany_KS.html,Bethany (Kan.),17:53.21,FR-1
+778,https://tf.tfrrs.org/athletes/5072602/McPherson/Jonathan_Dominguez,"Dominguez, Jonathan","Mar 27, 2015",50,https://tf.tfrrs.org/teams/tf/KS_college_m_McPherson.html,McPherson,17:53.71,FR-1
+779,https://tf.tfrrs.org/athletes/3243978/Sterling/Jared_Reimer,"Reimer, Jared","Apr 2, 2015",51,https://tf.tfrrs.org/teams/tf/KS_college_m_Sterling.html,Sterling,17:58.90,SR-4
+780,https://tf.tfrrs.org/athletes/5072605/McPherson/Miguel_Luna-Sanchez,"Luna-Sanchez, Miguel","Mar 27, 2015",52,https://tf.tfrrs.org/teams/tf/KS_college_m_McPherson.html,McPherson,18:14.72,JR-3
+781,https://tf.tfrrs.org/athletes/3680453/Southwestern_KS/David_Leonard,"Leonard, David","Mar 28, 2015",53,https://tf.tfrrs.org/teams/tf/KS_college_m_Southwestern_KS.html,Southwestern (Kan.),18:30.80,SR-4
+782,https://tf.tfrrs.org/athletes/4156120/Sterling/Josh_Williams,"Williams, Josh","Mar 12, 2015",54,https://tf.tfrrs.org/teams/tf/KS_college_m_Sterling.html,Sterling,21:42.00,JR-3
+783,https://tf.tfrrs.org/athletes/2823169/Eastern_Kentucky/Soufiane_Bouchikhi,"Bouchikhi, Soufiane","Apr 20, 2010",1,https://tf.tfrrs.org/teams/tf/KY_college_m_Eastern_Kentucky.html,Eastern Kentucky,14:01.71,
+784,https://tf.tfrrs.org/athletes/2851769/Eastern_Kentucky/Joseph_Maina,"Maina, Joseph","May 14, 2010",2,https://tf.tfrrs.org/teams/tf/KY_college_m_Eastern_Kentucky.html,Eastern Kentucky,14:12.49,SR-4
+785,https://tf.tfrrs.org/athletes/2274296/Eastern_Kentucky/David_Mutuse,"Mutuse, David","Apr 20, 2010",3,https://tf.tfrrs.org/teams/tf/KY_college_m_Eastern_Kentucky.html,Eastern Kentucky,14:40.71,JR-3
+786,https://tf.tfrrs.org/athletes/1173830/Morehead_State/Josh_Wakeman,"Wakeman, Josh","Apr 3, 2010",4,https://tf.tfrrs.org/teams/tf/KY_college_m_Morehead_State.html,Morehead State,14:55.61,JR-3
+787,https://tf.tfrrs.org/athletes/1693795/SE_Missouri/Jason_Lumpkin,"Lumpkin, Jason","Mar 25, 2010",5,https://tf.tfrrs.org/teams/tf/MO_college_m_SE_Missouri.html,SE Missouri,15:02.68,JR-3
+788,https://tf.tfrrs.org/athletes/1173828/Morehead_State/Ron_Duncan,"Duncan, Ron","Apr 3, 2010",6,https://tf.tfrrs.org/teams/tf/KY_college_m_Morehead_State.html,Morehead State,15:09.39,SR-4
+789,https://tf.tfrrs.org/athletes/2742668/Tennessee_Martin/Justin_Cacaro,"Cacaro, Justin","Mar 5, 2010",7,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Martin.html,Tennessee-Martin,15:10.92,JR
+790,https://tf.tfrrs.org/athletes/2250220/Eastern_Illinois/Matt_Feldhake,"Feldhake, Matt","Mar 27, 2010",8,https://tf.tfrrs.org/teams/tf/IL_college_m_Eastern_Illinois.html,Eastern Illinois,15:12.12,SR
+791,https://tf.tfrrs.org/athletes/1693794/SE_Missouri/Chris_Loseman,"Loseman, Chris","Apr 10, 2010",9,https://tf.tfrrs.org/teams/tf/MO_college_m_SE_Missouri.html,SE Missouri,15:17.98,SR
+792,https://tf.tfrrs.org/athletes/1741067/Eastern_Illinois/Matt_Dettloff,"Dettloff, Matt","Mar 27, 2010",10,https://tf.tfrrs.org/teams/tf/IL_college_m_Eastern_Illinois.html,Eastern Illinois,15:24.92,JR-3
+793,https://tf.tfrrs.org/athletes/1766013/Tennessee_Tech/Peter_Woerner,"Woerner, Peter","Apr 16, 2010",11,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,15:25.65,SR-4
+794,https://tf.tfrrs.org/athletes/2752346/Eastern_Kentucky/Daniel_Jones,"Jones, Daniel","Mar 26, 2010",12,https://tf.tfrrs.org/teams/tf/KY_college_m_Eastern_Kentucky.html,Eastern Kentucky,15:26.68,
+795,https://tf.tfrrs.org/athletes/2274298/Eastern_Kentucky/Chris_Rice,"Rice, Chris","Apr 7, 2010",13,https://tf.tfrrs.org/teams/tf/KY_college_m_Eastern_Kentucky.html,Eastern Kentucky,15:31.58,SR
+796,https://tf.tfrrs.org/athletes/2274289/Eastern_Kentucky/Alex_Dreyer,"Dreyer, Alex","Apr 10, 2010",14,https://tf.tfrrs.org/teams/tf/KY_college_m_Eastern_Kentucky.html,Eastern Kentucky,15:31.67,SR
+797,https://tf.tfrrs.org/athletes/2127622/Eastern_Illinois/Connor_Kustief,"Kustief, Connor","Apr 10, 2010",15,https://tf.tfrrs.org/teams/tf/IL_college_m_Eastern_Illinois.html,Eastern Illinois,15:35.29 h,SO-2
+798,https://tf.tfrrs.org/athletes/2752345/Eastern_Kentucky/Bradley_Fortuna,"Fortuna, Bradley","Apr 3, 2010",16,https://tf.tfrrs.org/teams/tf/KY_college_m_Eastern_Kentucky.html,Eastern Kentucky,15:37.45,
+799,https://tf.tfrrs.org/athletes/1617185/SE_Missouri/Cody_Martin,"Martin, Cody","Apr 10, 2010",17,https://tf.tfrrs.org/teams/tf/MO_college_m_SE_Missouri.html,SE Missouri,15:39.80,JR-3
+800,https://tf.tfrrs.org/athletes/2243239/SIU_Edwardsville/Marc_Amarillas,"Amarillas, Marc","Mar 27, 2010",18,https://tf.tfrrs.org/teams/tf/IL_college_m_SIU_Edwardsville.html,SIU-Edwardsville,15:42.12,SR
+801,https://tf.tfrrs.org/athletes/1173827/Morehead_State/Matt_Dotson,"Dotson, Matt","Apr 9, 2010",19,https://tf.tfrrs.org/teams/tf/KY_college_m_Morehead_State.html,Morehead State,15:47.70,JR-3
+802,https://tf.tfrrs.org/athletes/1586579/Eastern_Illinois/Brad_LaRocque,"LaRocque, Brad","Apr 17, 2010",20,https://tf.tfrrs.org/teams/tf/IL_college_m_Eastern_Illinois.html,Eastern Illinois,15:48.60,SR
+803,https://tf.tfrrs.org/athletes/2752912/SE_Missouri/Tyler_Mullen,"Mullen, Tyler","Apr 2, 2010",21,https://tf.tfrrs.org/teams/tf/MO_college_m_SE_Missouri.html,SE Missouri,15:51.04,
+804,https://tf.tfrrs.org/athletes/2820017/Tennessee_Tech/Chris_Bishop,"Bishop, Chris","Apr 16, 2010",22,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,15:54.95,FR-1
+805,https://tf.tfrrs.org/athletes/2763024/SIU_Edwardsville/Aaron_Werths,"Werths, Aaron","Mar 27, 2010",23,https://tf.tfrrs.org/teams/tf/IL_college_m_SIU_Edwardsville.html,SIU-Edwardsville,15:55.79,
+806,https://tf.tfrrs.org/athletes/2841968/Tennessee_Martin/Tallon_Scott,"Scott, Tallon","Apr 16, 2010",24,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Martin.html,Tennessee-Martin,15:56.61,FR
+807,https://tf.tfrrs.org/athletes/2644887/Eastern_Illinois/Harrison_Bueno,"Bueno, Harrison","Apr 24, 2010",25,https://tf.tfrrs.org/teams/tf/IL_college_m_Eastern_Illinois.html,Eastern Illinois,15:57.33,SO-2
+808,https://tf.tfrrs.org/athletes/1237380/SIU_Edwardsville/Sean_Gosewisch,"Gosewisch, Sean","Apr 24, 2010",26,https://tf.tfrrs.org/teams/tf/IL_college_m_SIU_Edwardsville.html,SIU-Edwardsville,16:00.58,SR-4
+809,https://tf.tfrrs.org/athletes/1262025/Tennessee_Tech/Joseph_Delorenzo,"Delorenzo, Joseph","Apr 16, 2010",27,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,16:03.38,SR-4
+810,https://tf.tfrrs.org/athletes/1737981/Morehead_State/Michael_Settles,"Settles, Michael","Apr 9, 2010",28,https://tf.tfrrs.org/teams/tf/KY_college_m_Morehead_State.html,Morehead State,16:10.92,SR
+811,https://tf.tfrrs.org/athletes/2841964/Tennessee_Martin/Jimmy_Watkins-Lynch,"Watkins-Lynch, Jimmy","Mar 5, 2010",29,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Martin.html,Tennessee-Martin,16:20.32,SO-2
+812,https://tf.tfrrs.org/athletes/1262027/Tennessee_Tech/Jarrad_Read,"Read, Jarrad","Apr 16, 2010",30,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,16:20.68,SR-4
+813,https://tf.tfrrs.org/athletes/1766012/Tennessee_Tech/Sam_Taylor,"Taylor, Sam","Mar 27, 2010",31,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,16:24.22,JR-3
+814,https://tf.tfrrs.org/athletes/1108518/Eastern_Illinois/Eric_Pedersen,"Pedersen, Eric","Mar 27, 2010",32,https://tf.tfrrs.org/teams/tf/IL_college_m_Eastern_Illinois.html,Eastern Illinois,16:24.73,SR-4
+815,https://tf.tfrrs.org/athletes/2841966/Tennessee_Martin/Matthew_Holmes,"Holmes, Matthew","Mar 5, 2010",33,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Martin.html,Tennessee-Martin,16:42.22,FR-1
+816,https://tf.tfrrs.org/athletes/3474771/Murray_State/Derek_Perry,"Perry, Derek","Apr 2, 2010",34,https://tf.tfrrs.org/teams/tf/KY_college_m_Murray_State.html,Murray State,16:42.42,FR-1
+817,https://tf.tfrrs.org/athletes/2841969/Tennessee_Martin/Benjamin_Sparks,"Sparks, Benjamin","Mar 5, 2010",35,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Martin.html,Tennessee-Martin,16:47.09,FR-1
+818,https://tf.tfrrs.org/athletes/1766011/Tennessee_Tech/Ben_Shassere,"Shassere, Ben","Mar 27, 2010",36,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,16:53.97,JR-3
+819,https://tf.tfrrs.org/athletes/2389409/Tennessee_Tech/Daniel_Francis,"Francis, Daniel","Apr 16, 2010",37,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,16:58.76,SO-2
+820,https://tf.tfrrs.org/athletes/2341822/Tennessee_Martin/Cody_Lemmons,"Lemmons, Cody","Mar 5, 2010",38,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Martin.html,Tennessee-Martin,17:09.94,SO-2
+821,https://tf.tfrrs.org/athletes/1837894/Tennessee_Martin/Cannon_Smalley,"Smalley, Cannon","Mar 5, 2010",39,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Martin.html,Tennessee-Martin,17:17.12,JR
+822,https://tf.tfrrs.org/athletes/2820018/Tennessee_Tech/Steven_Bretz,"Bretz, Steven","Apr 16, 2010",40,https://tf.tfrrs.org/teams/tf/TN_college_m_Tennessee_Tech.html,Tennessee Tech,18:03.41,FR-1
+823,https://tf.tfrrs.org/athletes/2246222/Arizona_State/Brandon_Bethke,"Bethke, Brandon","Apr 15, 2010",1,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,13:27.83,SR-4
+824,https://tf.tfrrs.org/athletes/1722305/Stanford/Elliott_Heath,"Heath, Elliott","Apr 15, 2010",2,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,13:29.75,SR
+825,https://tf.tfrrs.org/athletes/2176781/Stanford/Chris_Derrick,"Derrick, Chris","Apr 15, 2010",3,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,13:31.67,SO-2
+826,https://tf.tfrrs.org/athletes/1969624/Oregon/Jordan_McNamara,"McNamara, Jordan","Mar 26, 2010",4,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,13:45.45,SR-4
+827,https://tf.tfrrs.org/athletes/1128374/Oregon/A.J._Acosta,"Acosta, A.J.","May 15, 2010",5,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,13:46.87,JR-3
+828,https://tf.tfrrs.org/athletes/1574791/Oregon/Matthew_Centrowitz,"Centrowitz, Matthew","Mar 26, 2010",6,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,13:47.73,JR
+829,https://tf.tfrrs.org/athletes/1186045/California_CA/Michael_Coe,"Coe, Michael","May 15, 2010",7,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,13:48.64,JR-3
+830,https://tf.tfrrs.org/athletes/1722307/Stanford/Jake_Riley,"Riley, Jake","May 1, 2010",8,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,13:48.65,SR
+831,https://tf.tfrrs.org/athletes/1431144/Washington/Colton_Tully-Doyle,"Tully-Doyle, Colton","Feb 26, 2010",9,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,13:48.86,JR-3
+832,https://tf.tfrrs.org/athletes/2147039/Oregon/Luke_Puskedra,"Puskedra, Luke","Feb 12, 2010",10,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,13:50.87,SR
+833,https://tf.tfrrs.org/athletes/2900848/Oregon/Michael_Maag,"Maag, Michael","Mar 26, 2010",11,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,13:51.35,SR-4
+834,https://tf.tfrrs.org/athletes/1722309/Stanford/John_Sullivan,"Sullivan, John","Apr 15, 2010",12,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,13:54.10,JR-3
+835,https://tf.tfrrs.org/athletes/2265373/Arizona/Mohamud_Ige,"Ige, Mohamud","Apr 15, 2010",13,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona.html,Arizona,13:55.56,SR
+836,https://tf.tfrrs.org/athletes/1722308/Stanford/Brendan_Gregg,"Gregg, Brendan","May 1, 2010",14,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,13:56.89,SR
+837,https://tf.tfrrs.org/athletes/1431143/Washington/Jake_Schmitt,"Schmitt, Jake","Apr 23, 2010",15,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,13:59.26,SR-4
+838,https://tf.tfrrs.org/athletes/2679993/Arizona_State/Zeke_Van_Patten,"Van Patten, Zeke","Apr 15, 2010",16,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,14:00.21,SR
+839,https://tf.tfrrs.org/athletes/1930683/California_CA/Steve_Sodaro,"Sodaro, Steve","May 1, 2010",17,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:01.06,JR-3
+840,https://tf.tfrrs.org/athletes/1734529/California_CA/Kari_Karlsson,"Karlsson, Kari","Mar 26, 2010",18,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:01.99,JR-3
+841,https://tf.tfrrs.org/athletes/1307636/UCLA/Marco_Anzures,"Anzures, Marco","Feb 26, 2010",19,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:03.58,SR-4
+842,https://tf.tfrrs.org/athletes/1273461/Arizona_State/Jeff_Helmer,"Helmer, Jeff","Apr 15, 2010",20,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,14:04.44,JR-3
+843,https://tf.tfrrs.org/athletes/2176787/Stanford/Miles_Unterreiner,"Unterreiner, Miles","Feb 26, 2010",21,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,14:06.37,SO-2
+844,https://tf.tfrrs.org/athletes/1893627/Washington/Jordan_Swarthout,"Swarthout, Jordan","Apr 10, 2010",22,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,14:08.29,JR-3
+845,https://tf.tfrrs.org/athletes/2134718/Washington_State/Jono_Lafler,"Lafler, Jono","May 15, 2010",23,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington_State.html,Washington St.,14:09.08,SR
+846,https://tf.tfrrs.org/athletes/2176783/Stanford/Benjamin_Johnson,"Johnson, Benjamin","Mar 26, 2010",24,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,14:09.89,SO-2
+847,https://tf.tfrrs.org/athletes/1307639/UCLA/Alex_Crabill,"Crabill, Alex","Apr 17, 2010",25,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:11.57,SR
+848,https://tf.tfrrs.org/athletes/1128434/Oregon/Danny_Mercado,"Mercado, Danny","Mar 26, 2010",26,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,14:14.23,SR
+849,https://tf.tfrrs.org/athletes/1582585/Arizona_State/Daniel_Lovell,"Lovell, Daniel","Apr 15, 2010",27,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,14:17.57,JR
+850,https://tf.tfrrs.org/athletes/1833888/UCLA/Kent_Morikawa,"Morikawa, Kent","Apr 17, 2010",28,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:17.83,SR
+851,https://tf.tfrrs.org/athletes/1691560/Washington/Max_O'Donoghue-McDonald,"O'Donoghue-McDonald, Max","Apr 23, 2010",29,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,14:21.73,SO-2
+852,https://tf.tfrrs.org/athletes/557693/Oregon/Scott_Wall,"Wall, Scott","Feb 12, 2010",30,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,14:23.18,SR-4
+853,https://tf.tfrrs.org/athletes/1130378/Washington_State/Dan_Geib,"Geib, Dan","Jan 29, 2010",31,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington_State.html,Washington St.,14:24.39,JR-3
+854,https://tf.tfrrs.org/athletes/1128381/Oregon/Kenny_Klotz,"Klotz, Kenny","Feb 26, 2010",32,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,14:24.49,SR
+855,https://tf.tfrrs.org/athletes/1283080/Arizona_State/Ben_Engelhardt,"Engelhardt, Ben","Feb 26, 2010",33,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,14:24.54,SR
+856,https://tf.tfrrs.org/athletes/2685091/Oregon/Ben_DeJarnette,"DeJarnette, Ben","Apr 30, 2010",34,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,14:26.47,SR
+857,https://tf.tfrrs.org/athletes/753280/California_CA/Mark_Matusak,"Matusak, Mark","May 1, 2010",35,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:26.71,SR-4
+858,https://tf.tfrrs.org/athletes/2147040/Oregon/Bryce_Burgess,"Burgess, Bryce","Apr 30, 2010",36,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,14:27.90,SR
+859,https://tf.tfrrs.org/athletes/1582583/Arizona_State/Alonso_Contreras,"Contreras, Alonso","Feb 26, 2010",37,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,14:28.46,SR-4
+860,https://tf.tfrrs.org/athletes/2134719/Washington_State/Justin_Englund,"Englund, Justin","Feb 26, 2010",38,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington_State.html,Washington St.,14:29.61,SR
+861,https://tf.tfrrs.org/athletes/2765206/Washington/James_Cameron,"Cameron, James","Mar 26, 2010",39,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,14:30.09,
+862,https://tf.tfrrs.org/athletes/2685090/Oregon/Mitchell_Hunt,"Hunt, Mitchell","Apr 30, 2010",40,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,14:31.13,SR
+863,https://tf.tfrrs.org/athletes/2172508/Washington/Rob__Webster_Jr.,"Webster Jr., Rob","May 8, 2010",41,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,14:32.56,SR
+864,https://tf.tfrrs.org/athletes/1128435/Oregon/Diego_Mercado,"Mercado, Diego","May 15, 2010",42,https://tf.tfrrs.org/teams/tf/OR_college_m_Oregon.html,Oregon,14:33.20,SR
+865,https://tf.tfrrs.org/athletes/1307638/UCLA/Jake_Matthews,"Matthews, Jake","Apr 15, 2010",43,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:33.31,SR-4
+866,https://tf.tfrrs.org/athletes/1582584/Arizona_State/Dylan_Hatcher,"Hatcher, Dylan","Apr 15, 2010",44,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,14:33.44,JR
+867,https://tf.tfrrs.org/athletes/2693093/California_CA/Collin_Jarvis,"Jarvis, Collin","Mar 26, 2010",45,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:37.37,SR
+868,https://tf.tfrrs.org/athletes/2759807/UCLA/Zack_Torres,"Torres, Zack","Mar 27, 2010",46,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:38.64,
+869,https://tf.tfrrs.org/athletes/2246223/Arizona_State/Matt_Boughton,"Boughton, Matt","Apr 15, 2010",47,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona_State.html,Arizona State,14:39.28,SR
+870,https://tf.tfrrs.org/athletes/2176782/Stanford/Kevin_Havel,"Havel, Kevin","Apr 23, 2010",48,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,14:41.64,SO-2
+871,https://tf.tfrrs.org/athletes/1833887/UCLA/Spencer_Knight,"Knight, Spencer","Apr 8, 2010",49,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:44.03,SR
+872,https://tf.tfrrs.org/athletes/2759798/UCLA/Alec_Govi,"Govi, Alec","Apr 15, 2010",50,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:44.35,
+873,https://tf.tfrrs.org/athletes/753282/California_CA/Yosef_Ghebray,"Ghebray, Yosef","May 15, 2010",51,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:45.56,SR-4
+874,https://tf.tfrrs.org/athletes/2024882/Washington/Alec_Bromka,"Bromka, Alec","Apr 10, 2010",52,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,14:45.77,SR-4
+875,https://tf.tfrrs.org/athletes/2631463/Stanford/Tyler_Valdes,"Valdes, Tyler","May 15, 2010",53,https://tf.tfrrs.org/teams/tf/CA_college_m_Stanford.html,Stanford,14:47.03,JR
+876,https://tf.tfrrs.org/athletes/1930682/California_CA/Matt_Miller,"Miller, Matt","Feb 12, 2010",54,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:47.43,SR
+877,https://tf.tfrrs.org/athletes/1691563/Washington/Cameron_Quackenbush,"Quackenbush, Cameron","Mar 26, 2010",55,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,14:50.34,SO-2
+878,https://tf.tfrrs.org/athletes/2693090/California_CA/Cody_Schmidt,"Schmidt, Cody","Apr 23, 2010",56,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:51.18,SR
+879,https://tf.tfrrs.org/athletes/1810385/USC/John_Carley,"Carley, John","Mar 4, 2010",57,https://tf.tfrrs.org/teams/tf/CA_college_m_USC.html,USC,14:51.91,SR
+880,https://tf.tfrrs.org/athletes/1930681/California_CA/Matthew_Miller,"Miller, Matthew","Mar 26, 2010",58,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:52.19,SR-4
+881,https://tf.tfrrs.org/athletes/2268169/UCLA/David_McDonald,"McDonald, David","Feb 26, 2010",59,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:52.39,SR
+882,https://tf.tfrrs.org/athletes/2759813/UCLA/Bisrat_Zerehaimanot,"Zerehaimanot, Bisrat","Apr 15, 2010",60,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,14:53.13,FR-1
+883,https://tf.tfrrs.org/athletes/2693089/California_CA/Matt_Petersen,"Petersen, Matt","Mar 26, 2010",61,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,14:58.63,SR
+884,https://tf.tfrrs.org/athletes/1216880/Arizona/Brian_MacArthur,"MacArthur, Brian","Apr 8, 2010",62,https://tf.tfrrs.org/teams/tf/AZ_college_m_Arizona.html,Arizona,15:01.20,SR
+885,https://tf.tfrrs.org/athletes/2134717/Washington_State/Mark_Moeller,"Moeller, Mark","Mar 6, 2010",63,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington_State.html,Washington St.,15:01.48,SR-4
+886,https://tf.tfrrs.org/athletes/2172511/Washington/Greg_Drosky,"Drosky, Greg","Feb 12, 2010",64,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,15:03.55,FR-1
+887,https://tf.tfrrs.org/athletes/2268172/UCLA/Jun_Reichl,"Reichl, Jun","Mar 4, 2010",65,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,15:07.04,JR
+888,https://tf.tfrrs.org/athletes/1917661/UCLA/Dylan_Knight,"Knight, Dylan","May 1, 2010",66,https://tf.tfrrs.org/teams/tf/CA_college_m_UCLA.html,UCLA,15:09.71,SR
+889,https://tf.tfrrs.org/athletes/2706803/California_CA/Andres_Diaz,"Diaz, Andres","Mar 26, 2010",67,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,15:24.59,FR-1
+890,https://tf.tfrrs.org/athletes/2765285/Washington/Bryan_Tibaduiza,"Tibaduiza, Bryan","Jan 29, 2010",68,https://tf.tfrrs.org/teams/tf/WA_college_m_Washington.html,Washington,15:25.66,
+891,https://tf.tfrrs.org/athletes/2803120/USC/John_Carley,"Carley, John","May 1, 2010",69,https://tf.tfrrs.org/teams/tf/CA_college_m_USC.html,USC,15:34.38,FR-1
+892,https://tf.tfrrs.org/athletes/2384811/USC/Tony_Martinez,"Martinez, Tony","Apr 10, 2010",70,https://tf.tfrrs.org/teams/tf/CA_college_m_USC.html,USC,15:36.13,SR
+893,https://tf.tfrrs.org/athletes/2884507/California_CA/James_Slater,"Slater, James","Apr 23, 2010",71,https://tf.tfrrs.org/teams/tf/CA_college_m_California_CA.html,California,15:53.28,
+894,https://tf.tfrrs.org/athletes/2314664/USC/Rick_Davey,"Davey, Rick","May 1, 2010",72,https://tf.tfrrs.org/teams/tf/CA_college_m_USC.html,USC,16:00.11,SR
+895,https://tf.tfrrs.org/athletes/2217074/Lehman/Irfan_Anwar,"Anwar, Irfan","Apr 17, 2010",1,https://tf.tfrrs.org/teams/tf/NY_college_m_Lehman.html,Lehman,16:55.19,SR-4
+896,https://tf.tfrrs.org/athletes/1718414/York_NY/Kenny_Jacquet,"Jacquet, Kenny","May 2, 2010",2,https://tf.tfrrs.org/teams/tf/NY_college_m_York_NY.html,York (N.Y.),17:10.01,JR-3
+897,https://tf.tfrrs.org/athletes/2226108/CCNY/Sergio_Soto,"Soto, Sergio","Apr 3, 2010",3,https://tf.tfrrs.org/teams/tf/NY_college_m_CCNY.html,CCNY,17:11.84,JR-3
+898,https://tf.tfrrs.org/athletes/2828242/Hunter/Joseph_Papa,"Papa, Joseph","Apr 10, 2010",4,https://tf.tfrrs.org/teams/tf/NY_college_m_Hunter.html,Hunter,17:13.69,
+899,https://tf.tfrrs.org/athletes/2757991/City_Tech/Alexander_Arslan,"Arslan, Alexander","May 2, 2010",5,https://tf.tfrrs.org/teams/tf/NY_college_m_City_Tech.html,City Tech,17:54.32,FR-1
+900,https://tf.tfrrs.org/athletes/2828241/Hunter/Jose_Miranda,"Miranda, Jose","Mar 20, 2010",6,https://tf.tfrrs.org/teams/tf/NY_college_m_Hunter.html,Hunter,17:56.90,
+901,https://tf.tfrrs.org/athletes/2788099/CCNY/Zisan_Kashem,"Kashem, Zisan","May 2, 2010",7,https://tf.tfrrs.org/teams/tf/NY_college_m_CCNY.html,CCNY,18:27.01,FR-1
+902,https://tf.tfrrs.org/athletes/2437181/Hunter/Gem_Alegre,"Alegre, Gem","Apr 10, 2010",8,https://tf.tfrrs.org/teams/tf/NY_college_m_Hunter.html,Hunter,18:33.12,JR-3
+903,https://tf.tfrrs.org/athletes/1673801/Kingsborough_CC/Derrick_Davis,"Davis, Derrick","Mar 20, 2010",9,https://tf.tfrrs.org/teams/tf/NY_jcollege_m_Kingsborough_CC.html,Kingsborough CC,18:50.48,FR
+904,https://tf.tfrrs.org/athletes/3770590/Hunter/Jeffrey_Castano,"Castano, Jeffrey","Apr 10, 2010",10,https://tf.tfrrs.org/teams/tf/NY_college_m_Hunter.html,Hunter,19:15.13,SO-2
+905,https://tf.tfrrs.org/athletes/2196535/Queensborough_CC/Yorki_Munoz,"Munoz, Yorki","Mar 20, 2010",11,https://tf.tfrrs.org/teams/tf/NY_jcollege_m_Queensborough_CC.html,Queensborough CC,19:27.08,SO
+906,https://tf.tfrrs.org/athletes/2767597/Queensborough_CC/Jerry_Francois,"Francois, Jerry","Apr 3, 2010",12,https://tf.tfrrs.org/teams/tf/NY_jcollege_m_Queensborough_CC.html,Queensborough CC,19:32.01,FR
+907,https://tf.tfrrs.org/athletes/3001911/Hunter/Andrew_Wong,"Wong, Andrew","Apr 18, 2010",13,https://tf.tfrrs.org/teams/tf/NY_college_m_Hunter.html,Hunter,19:53.71,SO-2
+908,https://tf.tfrrs.org/athletes/2241493/CCNY/Eric_Persaud,"Persaud, Eric","Apr 25, 2010",14,https://tf.tfrrs.org/teams/tf/NY_college_m_CCNY.html,CCNY,20:16.02,JR
+909,https://tf.tfrrs.org/athletes/2564666/Staten_Island/Dean_Kunjravia,"Kunjravia, Dean","Apr 3, 2010",15,https://tf.tfrrs.org/teams/tf/NY_college_m_Staten_Island.html,Staten Island,20:25.52,SR
