@@ -22,12 +22,12 @@ type Prospect = {
 
 // --- Mock Data for Prospects Page ---
 const mockProspects: Prospect[] = [
-  { id: 1, name: 'Kevin Martinez', highSchool: 'Lakeside High, GA', gradYear: 2025, predicted5kTime: '14:28.50', confidence: 'High' },
-  { id: 2, name: 'Jason Rodriguez', highSchool: 'Brookwood High, GA', gradYear: 2025, predicted5kTime: '14:35.11', confidence: 'High' },
-  { id: 3, name: 'Leo Chen', highSchool: 'West Torrance, CA', gradYear: 2026, predicted5kTime: '14:41.92', confidence: 'Medium' },
-  { id: 4, name: 'Samuel Jones', highSchool: 'Carroll Senior, TX', gradYear: 2025, predicted5kTime: '14:44.30', confidence: 'High' },
-  { id: 5, name: 'Michael Davis', highSchool: 'Downers Grove North, IL', gradYear: 2025, predicted5kTime: '14:48.76', confidence: 'Low' },
-  { id: 6, name: 'David Wilson', highSchool: 'Niwot, CO', gradYear: 2026, predicted5kTime: '14:51.05', confidence: 'Medium' },
+  { id: 1, name: 'Elijah McCauley', highSchool: 'Paideia, GA', gradYear: 2025, predicted5kTime: '14:28.50', confidence: 'High' },
+  { id: 2, name: 'Sam Colton', highSchool: 'Paideia, GA', gradYear: 2025, predicted5kTime: '14:35.11', confidence: 'High' },
+  { id: 3, name: 'Kai Komatsu', highSchool: 'Olympia, FL', gradYear: 2026, predicted5kTime: '14:41.92', confidence: 'Medium' },
+  { id: 4, name: 'Grant Gaffney', highSchool: 'Marist, GA', gradYear: 2025, predicted5kTime: '14:44.30', confidence: 'High' },
+  { id: 5, name: 'Zack Truitt', highSchool: 'Landmark Christian School, GA', gradYear: 2025, predicted5kTime: '14:48.76', confidence: 'Low' },
+  { id: 6, name: 'Sohum Gaitonde', highSchool: 'Parsippany Hills, NJ', gradYear: 2026, predicted5kTime: '14:51.05', confidence: 'Medium' },
 ];
 
 // --- Helper Data ---
@@ -42,7 +42,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-900 text-white font-sans">
       <div className="container mx-auto px-4 py-8">
         <header className="text-center mb-10">
-          <h1 className="text-4xl md:text-5xl font-bold text-cyan-400">Track & Field Prospect Predictor</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-cyan-400">PRISM</h1>
           <p className="text-gray-400 mt-2">Predicting the next generation of collegiate running stars.</p>
         </header>
 
