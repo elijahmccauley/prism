@@ -14,14 +14,17 @@ model = None
 MODEL_PATH = "./my_gbt_model"
 
 def initialize_spark_load_model():
+    print("Initializing Spark Session...")
     global spark, model
     spark = SparkSession.builder \
         .appName("PredictionAPI") \
         .master("local[*]") \
         .getOrCreate()
+    print("Spark Session Initialized.")
     spark.sparkContext.setLogLevel("ERROR")
-    
+    print(f"Loading GBT Model from {MODEL_PATH}...")
     model = GBTRegressionModel.load(MODEL_PATH)
+    print("Model loaded successfully.")
     
 app = Flask(__name__)
 CORS(app)
@@ -32,6 +35,8 @@ def predict():
     if not spark or not model:
         return jsonify({"error, spark or model not initialized"}), 500
     data = request.json
+    
+    print("Received data:", data)
     
     flat_data = {}
     
@@ -54,6 +59,8 @@ def predict():
         
         prediction_result = model.transform(data_to_predict)
         predicted_time = prediction_result.select('prediction').first()[0]
+        
+        print(f"Predicted time (seconds): {predicted_time}")
         
         return jsonify({'predicted_5k_time_seconds': predicted_time})
     except Exception as e:
