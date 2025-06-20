@@ -85,6 +85,10 @@ function InputForm() {
     SR: { '800': '', '1600': '', '3200': '', '5k': '' },
   });
 
+  const [prediction, setPrediction] = useState<string | null>(null);
+  const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [error, setError] = useState<string | null>(null);
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     const [year, event] = name.split('-') as [Year, Event];
@@ -101,6 +105,10 @@ function InputForm() {
     e.preventDefault();
     // Here you would send the 'times' object to your model's API endpoint
     console.log('Submitting data to model:', times);
+
+    setIsLoading(true);
+    setPrediction(null);
+    setError(null);
 
     try {
       const response = await fetch(
@@ -121,56 +129,77 @@ function InputForm() {
 
       const minutes = Math.floor(predictedSeconds / 60);
       const seconds = (predictedSeconds % 60).toFixed(2).padStart(5, '0');
+      setPrediction(`${minutes}:${seconds}`);
       alert('Prediction request sent! (Check console for data)');
     } catch (error) {
       console.error('Error sending prediction request:', error);
-      alert('Failed to get a prediction. Check the console for errors.');
+      setError('Failed to get a prediction. Please try again later.');
+    } finally {
+      setIsLoading(false);
     }
 
   };
 
   return (
-    <div className="max-w-4xl mx-auto bg-gray-800 p-6 md:p-8 rounded-xl shadow-2xl">
-      <h2 className="text-2xl font-bold mb-6 text-center text-cyan-300">Enter High School PRs</h2>
-      <form onSubmit={handleSubmit}>
-        <div className="grid grid-cols-5 gap-x-4 gap-y-4">
-          {/* Header Row */}
-          <div />
-          {events.map(event => (
-            <div key={event} className="text-center font-semibold text-gray-300 pb-2">
-              {event}
-            </div>
-          ))}
-
-          {/* Grid Body */}
-          {years.map(year => (
-            <React.Fragment key={year}>
-              <div className="flex items-center justify-center font-bold text-gray-300 text-lg">
-                {year}
+    <div className="max-w-4xl mx-auto">
+      <div className="bg-gray-800 p-6 md:p-8 rounded-xl shadow-2xl">
+        <h2 className="text-2xl font-bold mb-6 text-center text-cyan-300">Enter High School PRs</h2>
+        <form onSubmit={handleSubmit}>
+          <div className="grid grid-cols-5 gap-x-4 gap-y-4">
+            <div />
+            {events.map(event => (
+              <div key={event} className="text-center font-semibold text-gray-300 pb-2">
+                {event}
               </div>
-              {events.map(event => (
-                <input
-                  key={`${year}-${event}`}
-                  type="text"
-                  name={`${year}-${event}`}
-                  value={times[year][event]}
-                  onChange={handleChange}
-                  placeholder="m:ss.ms"
-                  className="w-full bg-gray-700 border-2 border-gray-600 text-white text-center rounded-md p-2 focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition"
-                />
-              ))}
-            </React.Fragment>
-          ))}
-        </div>
-        <div className="mt-8 flex justify-center">
-          <button
-            type="submit"
-            className="bg-cyan-600 hover:bg-cyan-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-transform transform hover:scale-105"
-          >
-            Predict Collegiate 5k Time
-          </button>
-        </div>
-      </form>
+            ))}
+            {years.map(year => (
+              <React.Fragment key={year}>
+                <div className="flex items-center justify-center font-bold text-gray-300 text-lg">
+                  {year}
+                </div>
+                {events.map(event => (
+                  <input
+                    key={`${year}-${event}`}
+                    type="text"
+                    name={`${year}-${event}`}
+                    value={times[year][event]}
+                    onChange={handleChange}
+                    placeholder="m:ss.ms"
+                    className="w-full bg-gray-700 border-2 border-gray-600 text-white text-center rounded-md p-2 focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition"
+                  />
+                ))}
+              </React.Fragment>
+            ))}
+          </div>
+          <div className="mt-8 flex justify-center">
+            <button
+              type="submit"
+              disabled={isLoading}
+              className="bg-cyan-600 hover:bg-cyan-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-transform transform hover:scale-105 disabled:bg-gray-600 disabled:cursor-not-allowed"
+            >
+              {isLoading ? 'Predicting...' : 'Predict Collegiate 5k Time'}
+            </button>
+          </div>
+        </form>
+      </div>
+      
+      {/* --- NEW: Conditional rendering for results --- */}
+      <div className="mt-8 text-center">
+        {isLoading && (
+            <div className="text-cyan-400">Loading prediction...</div>
+        )}
+        {error && (
+            <div className="bg-red-500/20 text-red-300 p-4 rounded-lg max-w-md mx-auto">{error}</div>
+        )}
+        {prediction && (
+           <div className="max-w-md mx-auto bg-gray-800 rounded-xl shadow-lg overflow-hidden transition-all duration-300">
+             <div className="p-6">
+                 <p className="text-sm text-gray-400">Predicted Collegiate 5k Time</p>
+                 <p className="text-5xl font-mono font-bold text-cyan-400 tracking-wider mt-2">{prediction}</p>
+             </div>
+           </div>
+        )}
+      </div>
     </div>
   );
 }
