@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 
 // --- Type Definitions for TypeScript ---
 type Year = 'FR' | 'SO' | 'JR' | 'SR';
-type Event = '800m' | '1600m' | '3200m' | '5k';
+type Event = '800' | '1600' | '3200' | '5k';
 
 type Times = {
   [key in Year]: {
@@ -32,7 +32,7 @@ const mockProspects: Prospect[] = [
 
 // --- Helper Data ---
 const years: Year[] = ['FR', 'SO', 'JR', 'SR'];
-const events: Event[] = ['800m', '1600m', '3200m', '5k'];
+const events: Event[] = ['800', '1600', '3200', '5k'];
 
 // --- Main App Component ---
 export default function App() {
@@ -79,10 +79,10 @@ export default function App() {
 // --- Input Form Component ---
 function InputForm() {
   const [times, setTimes] = useState<Times>({
-    FR: { '800m': '', '1600m': '', '3200m': '', '5k': '' },
-    SO: { '800m': '', '1600m': '', '3200m': '', '5k': '' },
-    JR: { '800m': '', '1600m': '', '3200m': '', '5k': '' },
-    SR: { '800m': '', '1600m': '', '3200m': '', '5k': '' },
+    FR: { '800': '', '1600': '', '3200': '', '5k': '' },
+    SO: { '800': '', '1600': '', '3200': '', '5k': '' },
+    JR: { '800': '', '1600': '', '3200': '', '5k': '' },
+    SR: { '800': '', '1600': '', '3200': '', '5k': '' },
   });
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
