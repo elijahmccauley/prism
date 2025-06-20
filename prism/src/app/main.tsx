@@ -97,11 +97,36 @@ function InputForm() {
     }));
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     // Here you would send the 'times' object to your model's API endpoint
     console.log('Submitting data to model:', times);
-    alert('Prediction request sent! (Check console for data)');
+
+    try {
+      const response = await fetch(
+        'http://localhost:5001/predict', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(times),
+        }
+      );
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+
+      const result = await response.json();
+      const predictedSeconds = result.predicted_5k_time_seconds;
+
+      const minutes = Math.floor(predictedSeconds / 60);
+      const seconds = (predictedSeconds % 60).toFixed(2).padStart(5, '0');
+      alert('Prediction request sent! (Check console for data)');
+    } catch (error) {
+      console.error('Error sending prediction request:', error);
+      alert('Failed to get a prediction. Check the console for errors.');
+    }
+
   };
 
   return (

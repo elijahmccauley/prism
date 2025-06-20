@@ -11,7 +11,7 @@ from pyspark.sql.types import StructType, StructField, StringType, FloatType
 
 spark = None
 model = None
-MODEL_PATH = "./my_gbt_model"
+MODEL_PATH = "./gbt_model"
 
 def initialize_spark_load_model():
     print("Initializing Spark Session...")
@@ -75,8 +75,9 @@ def preprocess_data_for_prediction(flat_data):
             flat_data[key] = 9999999
         else:
             t = flat_data[key]
-            t = t.str.split(':').apply(lambda x: int(x[0]) * 60 + float(x[1][0:4])) 
-            flat_data[key] = t
+            minutes, seconds = t.split(":")
+            total_seconds = int(minutes) * 60 + float(seconds)
+            flat_data[key] = total_seconds
     return flat_data
 
 
