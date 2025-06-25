@@ -43,6 +43,7 @@ export default function App() {
       <div className="container mx-auto px-4 py-8">
         <header className="text-center mb-10">
           <h1 className="text-4xl md:text-5xl font-bold text-cyan-400">PRISM</h1>
+          <p className="text-cyan-400 mt-2">Personal Record Intelligence & Scout Model</p>
           <p className="text-gray-400 mt-2">Predicting the next generation of collegiate running stars.</p>
         </header>
 
