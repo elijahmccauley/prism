@@ -71,7 +71,7 @@ def predict():
 # ['FR_5k', 'SO_5k', 'JR_5k', 'SR_5k', 'FR_3200', 'SO_3200', 'JR_3200', 'SR_3200', 'FR_1600', 'SO_1600', 'JR_1600', 'SR_1600', 'FR_800', 'SO_800', 'JR_800', 'SR_800']
 def preprocess_data_for_prediction(flat_data):
     for key in flat_data.keys():
-        if flat_data[key] is "":
+        if flat_data[key] == "":
             flat_data[key] = 9999999.0
         else:
             t = flat_data[key]
