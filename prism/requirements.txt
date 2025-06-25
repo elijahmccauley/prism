@@ -1,0 +1,4 @@
+flask
+pyspark
+findspark
+flask-cors
